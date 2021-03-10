@@ -1,0 +1,2064 @@
+plus jeune femme de sa génération promue associée chez Accenture après avoir fait ses classes à le Marketing d' Unilever , elle dirige la politique de développement durable de le groupe Accor depuis 2010 et vient de prendre la direction de les académies , l' organe de formation interne de le groupe .
+0;plus jeune femme de sa génération;promue associée chez;Accenture;-1 
+0;plus jeune femme de sa génération;avoir fait ses classes à;le Marketing d' Unilever;-1 
+0;plus jeune femme de sa génération promue associée chez Accenture après avoir fait ses classes à le Marketing d' Unilever;,;elle;-1 
+0;elle;dirige;la politique de développement durable;de le groupe Accor;depuis 2010;-1 
+0;elle;vient de prendre;la direction de les académies;-1 
+0;la direction de les académies;l' organe de formation interne;de le groupe;-1 
+ce qui propulse cette mère de deux enfants , formée à l' IEP Strasbourg et l' EM Lyon , à le comité de direction mondial , le top 20 managérial de l' entreprise .
+1;mère de deux enfants;formée à;l' IEP Strasbourg;-1 
+1;mère de deux enfants;formée à;l' EM Lyon;-1 
+1;ce;propulse;cette mère de deux enfants;à le comité de direction mondial;-1 
+1;le comité de direction mondial;le top 20 managérial de;l' entreprise;-1 
+sous la houlette de sa directrice financière , Air Liquide devenait la première entreprise française à emprunter en Renminbi sur les marchés .
+2;Air Liquide;sous la houlette de;sa directrice financière;-1 
+2;Air Liquide;devenait;la première entreprise française à emprunter en Renminbi sur les marchés;-1 
+2;la première entreprise française;emprunter en;Renminbi;sur les marchés;-1 
+en levant 2,6 milliards ( 301 millions d' euros ) en deux jours , elle réalisait l' opération la plus importante depuis que McDonald's a ouvert le bal en 2010 .
+3;elle;levant;2,6 milliards;en deux jours;-1
+3;2,6 milliards;(;301 millions d' euros;-1
+3;elle;réalisait;l' opération la plus importante;depuis que McDonald's a ouvert le bal en 2010;-1
+3;McDonald's;a ouvert le bal en;2010;-1
+en six mois , il en a été levé pour 9 milliards de dollars , contre 12 milliards en cinq ans ( 2005-10 ) .
+4;9 milliards de dollars;levé;en six mois;-1
+4;12 milliards;levé;en cinq ans;-1
+et à le troisième trimestre de cette année , les émissions d' entreprises en Renminbi ont dépassé celles libellées en euro .
+5;les émissions d' entreprises en Renminbi;ont dépassé;celles libellées en euro;à le troisième trimestre de cette année;-1
+5;celles;libellées en;euro;-1
+5;entreprises;émissions;en Renminbi;-1
+certes , ce passage en tête est d' abord dû à la désaffection pour l' euro dont le statut international est affaibli par la crise .
+6;ce passage en tête;est d' abord dû à;la désaffection pour l' euro;certes;-1
+6;l' euro;désaffection;-1
+6;l' euro;dont;le statut international est affaibli par la crise;-1
+6;le statut international;est affaibli par;la crise;-1
+et certes , ces emprunts ne sont encore qu' une infime goutte d' eau dans l' océan de le marché obligataire mondial .
+mais l' engouement marque un net essor de le Renminbi à l' international .
+7;l' engouement;marque;un net essor de le Renminbi à l' international;-1
+7;le Renminbi;un net essor;à l' international;-1
+à le point que HSBC , la banque qui s' affiche comme premier opérateur mondial sur la devise chinoise , la voit supplanter le yen dès 2015 pour se ranger à la troisième place loin derrière le dollar et l' euro .
+8;HSBC;,;la banque qui s' affiche comme premier opérateur mondial sur la devise chinoise;-1
+8;la banque;affiche comme premier opérateur mondial sur;la devise chinoise;-1
+c' est pourquoi , en dépit de les déclarations fracassantes de Zhou Xiaochuan , gouverneur de la banque centrale chinoise en mars 2009 réclamant que le Renminbi entre dans la composition de le dts ( « la monnaie » de le FMI ) et que celui-ci devienne la devise de référence internationale , les experts doutent que la chine veuille rapidement s' imposer sur la scène monétaire mondiale .
+9;Zhou Xiaochuan;déclarations fracassantes;-1
+9;Zhou Xiaochuan;gouverneur de;la banque centrale chinoise;en mars 2009;-1
+9;Zhou Xiaochuan;réclamant;que le Renminbi entre dans la composition de le dts;-1
+9;Zhou Xiaochuan;réclamant;que celui-ci devienne la devise de référence internationale;-1
+9;gouverneur de la banque centrale chinoise;réclamant;que le Renminbi entre dans la composition de le dts;-1
+9;gouverneur de la banque centrale chinoise;que celui-ci devienne la devise de référence internationale;-1
+9;le Renminbi;entre dans la composition de;le dts;-1
+9;le dts;la monnaie » de;le FMI;-1
+9;celui-ci;devienne;la devise de référence internationale;-1
+9;le Renminbi;devienne;la devise de référence internationale;-1
+9;les experts;doutent que;la chine veuille rapidement s' imposer sur la scène monétaire mondiale;-1
+9;la chine;veuille rapidement s' imposer sur;la scène monétaire mondiale;-1
+cette année -là , rappelle Alicia Garcia-Herrero , économiste pour l' asie de BBVA , les banques de Hong Kong ont été autorisées à accepter les dépôts en Renminbi ( plafonnés à 20 000 dollars de Hong Kong ) .
+10;Alicia Garcia-Herrero;rappelle;cette année -là;-1
+10;Alicia Garcia-Herrero;rappelle;les banques de Hong Kong ont été autorisées à accepter les dépôts en Renminbi ( plafonnés à 20 000 dollars de Hong Kong );-1
+10;Alicia Garcia-Herrero;économiste pour;l' asie de BBVA;-1
+10;les banques de Hong Kong;ont été autorisées à accepter;les dépôts en Renminbi;-1
+10;les dépôts en Renminbi;plafonnés à;20 000 dollars de Hong Kong;-1
+la crise financière de 2008 donne ensuite un coup d' accélérateur .
+11;la crise financière de 2008;donne;un coup d' accélérateur;-1
+la chute de Lehman a littéralement vitrifié les marchés financiers , et partant le commerce mondial dont les transactions se règlent principalement en dollar .
+12;Lehman;chute;-1 
+12;la chute de Lehman;a littéralement vitrifié;les marchés financiers;-1 
+12;les transactions;se règlent principalement;en dollar;le commerce mondial;-1 
+12;le commerce mondial;dont;les transactions se règlent principalement en dollar;-1 
+« mais l' échange international d' une devise non convertible devenait possible » , souligne Sopanha Sa , économiste asie à la direction de les risques de la Société Générale ( 3 ) .
+13;Sopanha Sa;souligne;« mais l' échange international d' une devise non convertible devenait possible »;-1
+13;Sopanha Sa;économiste asie à;la direction de les risques;de la Société Générale;-1
+13;l' échange international d' une devise non convertible;devenait;possible;-1
+13;une devise non convertible;échange international;-1
+13;échange;international;-1
+13;une devise;non convertible;-1
+mais , constate Sopanha Sa , « il faudrait plutôt parler d' une régionalisation car une grande partie de ce commerce s' effectue avec Hong Kong et concerne des importations chinoises . »
+14;Sopanha Sa;constate;il faudrait plutôt parler d' une régionalisation car une grande partie de ce commerce s' effectue avec Hong Kong et concerne des importations chinoises;-1
+14;il;faudrait plutôt parler;d' une régionalisation;-1
+14;une grande partie de ce commerce;effectue avec;Hong Kong;-1
+14;une grande partie de ce commerce;concerne;des importations chinoises;-1
+a défaut , elles risquent de se trouver dans la situation de cette PME française opérant dans les produits pétroliers qui s' est vue proposer le règlement d' une facture de 3 millions d' euros en Renminbi par un fournisseur ... de le Malawi .
+15;elles;risquent de se trouver dans la situation de;cette PME française opérant dans les produits pétroliers;-1
+15;cette PME française;opérant dans;les produits pétroliers;-1
+15;cette PME française;est vue proposer le règlement d';une facture de 3 millions d' euros;en Renminbi;par un fournisseur ... de le Malawi;-1
+15;une facture;de;3 millions d' euros;-1
+enfin , en juillet 2010 , pour ne pas ouvrir ses frontières , Pékin a aussi créé un marché de le Renminbi offshore via Hong Kong où des banques chinoises d' abord , puis quelques entreprises étrangères , ont pu emprunter dans cette monnaie à partir de l' île .
+16;Pékin;ne pas ouvrir;ses frontières;en juillet 2010;-1
+16;Pékin;a aussi créé un marché de;le Renminbi offshore;via Hong Kong;-1
+16;des banques chinoises;ont pu emprunter dans;cette monnaie;à partir de l' île;Hong Kong;-1
+16;quelques entreprises étrangères;ont pu emprunter dans;cette monnaie;à partir de l' île;Hong Kong;-1
+McDonald's qui n' avait pas pris cette précaution s' est retrouvé avec ses 256 millions de Renminbis ( 30 millions d' euros ) bloqués à Hong Kong .
+17;McDonald's;n' avait pas pris;cette précaution;-1
+17;McDonald's;est retrouvé avec;ses 256 millions de Renminbis ( 30 millions d' euros ) bloqués à Hong Kong;-1
+17;ses 256 millions de Renminbis;bloqués à;Hong Kong;-1
+17;256 millions de Renminbis;(;30 millions d' euros;-1
+le CNY est encadré et contrôlé par la People's Bank of China ( PBOC ) .
+18;le CNY;contrôlé;par la People's Bank of China;-1
+18;le CNY;est encadré;par la People's Bank of China;-1
+18;People's Bank of China;(;PBOC;-1
+Chinese Yuan Offshore ( abréviation : CNH ) monnaie chinoise lancée en juillet 2010 par la Hong Kong Monetary Authority ( HKMA ) .
+19;Chinese Yuan Offshore;abréviation;CNH;-1
+19;Chinese Yuan Offshore;monnaie;chinoise;-1
+19;Chinese Yuan Offshore;lancée;par la Hong Kong Monetary Authority;en juillet 2010;-1
+19;Hong Kong Monetary Authority;(;HKMA;-1
+elle n' est disponible qu' à Hong Kong et est accessible à les investisseurs étrangers .
+20;elle;n' est disponible qu';à Hong Kong;-1 
+20;elle;est accessible;à les investisseurs étrangers;-1 
+20;les investisseurs;étrangers;-1 
+le CNH est encadré par la HKMA en coopération avec la PBOC .
+21;le CNH;est encadré par;la HKMA;-1 
+21;la HKMA;en coopération avec;la PBOC;-1 
+l' appétit de les entreprises pour la devise chinoise est bridé par les contrôles de capitaux .
+22;les entreprises;appétit;pour la devise chinoise;-1 
+22;devise;chinoise;-1 
+22;l' appétit de les entreprises pour la devise chinoise;est bridé par;les contrôles de capitaux;-1 
+Airbus a livré mercredi à Iran Air , lors d' une cérémonie à toulouse , le premier avion d' une commande de 100 finalisée après l' accord sur le nucléaire avec les grandes puissances occidentales allégeant l' embargo économique contre ce pays , a constaté une journaliste de l' AFP .
+23;Airbus;a livré;à Iran Air;le premier avion d' une commande de 100 finalisée;mercredi;lors d' une cérémonie à toulouse;-1
+23;une cérémonie;à;toulouse;-1
+23;100;commande;-1
+23;une commande de 100;finalisée;-1
+23;les grandes puissances occidentales;accord sur;le nucléaire;-1
+23;les grandes puissances occidentales;allégeant;l' embargo économique;contre ce pays;-1
+23;l' embargo économique;contre;ce pays;-1
+23;une journaliste de l' AFP;a constaté;Airbus a livré mercredi à Iran Air , lors d' une cérémonie à toulouse , le premier avion d' une commande de 100 finalisée après l' accord sur le nucléaire avec les grandes puissances occidentales allégeant l' embargo économique contre ce pays;-1
+la livraison de l' A321 s' est déroulée sur le site de l' avionneur européen en présence de le pdg de la compagnie nationale Iranienne , Farhad Parvaresh , et de celui de le groupe Airbus , Tom Enders .
+24;l' A321;livraison;-1
+24;la livraison de l' A321;est déroulée;sur le site de l' avionneur européen;en présence de le pdg de la compagnie nationale Iranienne;-1
+24;le pdg de la compagnie nationale Iranienne;en présence;la livraison de l' A321;-1
+24;Farhad Parvaresh;pdg de;la compagnie nationale Iranienne;-1
+24;Tom Enders;pdg de;le groupe Airbus;-1
+" pour les relations entre l' Iran et l' union européenne c' est un nouveau chapitre magnifique et un grand jour " , a déclaré M. Parvaresh se félicitant que la " distance causée par des adversités politiques ait été réduite par l' énorme travail " de les négociateurs internationaux .
+25;M. Parvaresh;a déclaré;pour les relations entre l' Iran et l' union européenne c' est un nouveau chapitre magnifique et un grand jour;-1
+25;les relations entre l' Iran et l' union européenne;est;un nouveau chapitre magnifique et un grand jour;-1
+25;M. Parvaresh;félicitant que;la " distance causée par des adversités politiques ait été réduite par l' énorme travail " de les négociateurs internationaux;-1
+25;la " distance;causée;par des adversités politiques;-1
+25;la " distance causée;ait été réduite;par l' énorme travail " de les négociateurs internationaux;-1
+25;les négociateurs internationaux;énorme travail;-1
+le pdg de la division aviation commerciale d' Airbus , Fabrice Brégier , a estimé que cette livraison marquait " la renaissance de l' aviation d' Iran Air " et constituait " un de les développements les plus importants de l' industrie ( aéronautique ) depuis bien de les années " .
+26;Fabrice Brégier;pdg de;la division aviation commerciale d' Airbus;-1
+26;Fabrice Brégier;a estimé que;cette livraison marquait " la renaissance de l' aviation d' Iran Air " et constituait " un de les développements les plus importants de l' industrie ( aéronautique ) depuis bien de les années ";-1
+26;le pdg de la division aviation commerciale d' Airbus;a estimé que;cette livraison marquait " la renaissance de l' aviation d' Iran Air " et constituait " un de les développements les plus importants de l' industrie ( aéronautique ) depuis bien de les années ";-1
+26;cette livraison;marquait;" la renaissance de l' aviation d' Iran Air ";-1
+26;l' aviation d' Iran Air;renaissance;-1
+26;cette livraison;constituait;" un de les développements les plus importants de l' industrie ( aéronautique ) depuis bien de les années ";-1
+26;cette livraison;un de les développements les plus importants;de l' industrie ( aéronautique );depuis bien de les années ";-1
+Iran Air avait conclu le 22 décembre une commande ferme de 100 appareils de le constructeur Airbus pour un montant d' environ 20 milliards de dollars à le prix catalogue .
+27;Iran Air;avait conclu;une commande ferme de 100 appareils de le constructeur Airbus;pour un montant d' environ 20 milliards de dollars à le prix catalogue;le 22 décembre;-1 
+27;Iran Air;commande ferme de;100 appareils de le constructeur Airbus;pour un montant d' environ 20 milliards de dollars à le prix catalogue;-1  
+la commande , qui fait suite à un engagement signé en janvier 2016 à Paris , couvre 46 moyen-courrier A320 , 38 long-courrier A330 et 16 A350 .
+28;la commande;fait suite à;un engagement signé en janvier 2016 à Paris;-1
+28;la commande;couvre;46 moyen-courrier A320;-1
+28;la commande;couvre;38 long-courrier A330;-1
+28;la commande;couvre;16 A350;-1
+28;un engagement;signé;à Paris;en janvier 2016;-1
+Iran Air et l' avionneur américain Boeing avaient également signé le 11 décembre à téhéran leur plus gros contrat depuis près de 40 ans , portant sur l' achat de 80 appareils destinés à remplacer une flotte Iranienne vieillissante .
+29;Iran Air;avaient également signé;leur plus gros contrat depuis près de 40 ans;le 11 décembre;à téhéran;-1
+29;l' avionneur américain Boeing;avaient également signé;leur plus gros contrat depuis près de 40 ans;le 11 décembre;à téhéran;-1
+29;leur plus gros contrat depuis près de 40 ans;portant sur l' achat de;80 appareils;-1
+29;80 appareils;destinés à remplacer;une flotte Iranienne vieillissante;-1
+29;une flotte Iranienne;vieillissante;-1
+ce contrat a une valeur de 16,6 milliards de dollars .
+30;ce contrat;a une valeur de;16,6 milliards de dollars;-1
+le pays aura besoin de 400 à 500 avions de ligne dans la prochaine décennie , selon l' organisation Iranienne de l' aviation civile .
+31;le pays;aura besoin de;400 à 500 avions de ligne;dans la prochaine décennie;-1
+31;l' organisation Iranienne de l' aviation civile;selon;le pays aura besoin de 400 à 500 avions de ligne dans la prochaine décennie;-1
+en vertu de l' accord conclu en juillet 2015 sur le programme nucléaire Iranien avec les grandes puissances , dont les Etats-Unis , une partie de les sanctions économiques imposées à l' Iran a été levée depuis mi-janvier 2016 , permettant notamment une reprise de les exportations Iraniennes de brut et une accélération de les échanges commerciaux avec l' UE .
+32;l' accord;conclu;sur le programme nucléaire Iranien;avec les grandes puissances;en juillet 2015;-1 
+32;les grandes puissances;accord conclu;sur le programme nucléaire Iranien;en juillet 2015;-1 
+32;les grandes puissances;dont;les Etats-Unis;-1 
+32;une partie de les sanctions économiques imposées à l' Iran a été levée depuis mi-janvier 2016;permettant notamment;une reprise de les exportations Iraniennes de brut;-1
+32;une partie de les sanctions économiques imposées à l' Iran a été levée depuis mi-janvier 2016;permettant notamment;une accélération de les échanges commerciaux avec l' UE;-1
+32;une partie de les sanctions économiques imposées à l' Iran;a été levée;depuis mi-janvier 2016;-1
+32;une partie de les sanctions économiques;imposées;à l' Iran;-1
+32;les exportations Iraniennes de brut;reprise;-1
+32;les échanges commerciaux avec l' UE;accélération;-1
+32;Iran;échanges commerciaux avec;l' UE;-1
+en septembre , Boeing et Airbus avaient obtenu le feu vert de les Etats-Unis pour vendre des avions neufs à l' Iran .
+33;Airbus;avaient obtenu le feu vert de;les Etats-Unis;pour vendre des avions neufs à l' Iran;-1
+33;Boeing;avaient obtenu le feu vert de;les Etats-Unis;pour vendre des avions neufs à l' Iran;-1
+33;Boeing;vendre des;avions neufs;à l' Iran;-1
+« qu' un patron français de 63 ans continue de préciser " promotion HEC 1970 " sur sa carte de visite me semble totalement pathétique ! » 
+34;un patron français de 63 ans continue de préciser " promotion HEC 1970 " sur sa carte de visite;semble;totalement pathétique;-1
+34;un patron français de 63 ans;continue de préciser;" promotion HEC 1970 ";sur sa carte de visite;-1
+34;un patron français;de;63 ans;-1
+34;patron;français;-1
+avec son regard acéré par trente ans d' expérience internationale de coaching , Elena Fourès , consultante et fondatrice de la société Idem Per Idem , n' est pas tendre sur le profil de les élites économiques françaises : « 99 % de ceux qui s' imposent comme dirigeants ont des parcours normés , attendus .
+35;Elena Fourès;avec;son regard acéré par trente ans d' expérience internationale de coaching;-1
+35;son regard;acéré par;trente ans d' expérience internationale de coaching;-1
+35;Elena Fourès;expérience internationale de;coaching;trente ans;-1
+35;Elena Fourès;consultante;de la société Idem Per Idem;-1
+35;Elena Fourès;fondatrice;de la société Idem Per Idem;-1
+35;Elena Fourès;n' est pas tendre sur;le profil de les élites économiques françaises;-1
+35;le profil de les élites économiques françaises;:;« 99 % de ceux qui s' imposent comme dirigeants ont des parcours normés , attendus;-1
+35;99 % de ceux;imposent comme;dirigeants;-1
+35;99 % de ceux qui s' imposent comme dirigeants;ont;des parcours normés , attendus;-1
+35;des parcours;normés;-1
+35;des parcours;attendus;-1
+chasseur de têtes chez Eric salmon & partners , Igor Quézel-Perron le confirme : « dans d' autres pays , après cinq ans de carrière , on oublie la formation initiale .
+36;Igor Quézel-Perron;chasseur de têtes chez;Eric salmon & partners;-1
+36;Igor Quézel-Perron;confirme;dans d' autres pays , après cinq ans de carrière , on oublie la formation initiale;-1
+36;on;oublie;la formation initiale;dans d' autres pays;après cinq ans de carrière;-1
+alors que la massification de l' enseignement supérieur depuis les années 60 et la multiplication de les filières devraient favoriser la diversité de les parcours scolaires à le sein de la nouvelle génération de les dirigeants , ceux-ci restent , comme leurs aînés , les produits d' une étroite élite scolaire .
+37;l' enseignement supérieur;massification;depuis les années 60;-1
+37;les filières;multiplication;-1
+37;la multiplication de les filières;devraient favoriser la diversité de;les parcours scolaires;à le sein de la nouvelle génération de les dirigeants;-1
+37;la nouvelle génération de les dirigeants;restent;les produits d' une étroite élite scolaire;-1
+37;la nouvelle génération de les dirigeants;produits d';une étroite élite scolaire;-1
+37;la nouvelle génération de les dirigeants;comme;leurs aînés;-1
+37;élite scolaire;étroite;-1
+alors que Jean-Marie Messier , polytechnicien , énarque et inspecteur de les finances , était le prototype de le grand patron de les années 1990-2000 , son successeur a toutes les chances d' avoir ajouté à son curriculum vitæ le diplôme d' une école de commerce , la plus prestigieuse possible .
+38;Jean-Marie Messier;,;polytechnicien;4
+38;Jean-Marie Messier;,;énarque;4
+38;Jean-Marie Messier;,;inspecteur de les finances;4
+38;Jean-Marie Messier;inspecteur de;les finances;-1
+38;Jean-Marie Messier;était le prototype de;le grand patron de les années 1990-2000;-1
+38;Jean-Marie Messier;prototype de;le grand patron de les années 1990-2000;-1
+38;son successeur;a toutes les chances d';avoir ajouté à son curriculum vitæ le diplôme d' une école de commerce , la plus prestigieuse possible;-1
+38;son successeur;avoir ajouté à;son curriculum vitæ;le diplôme d' une école de commerce;-1
+par exemple , Yohann Bénard , le nouveau secrétaire général d' Alcatel-Lucent , est , à 35 ans , l' un de ces surdiplômés ( Normale Sup , HEC , ENA ) .
+39;Yohann Bénard;nouveau secrétaire général d';Alcatel-Lucent;-1
+39;Yohann Bénard;secrétaire général d';Alcatel-Lucent;-1
+39;Yohann Bénard;est;l' un de ces surdiplômés;à 35 ans;-1
+et Olivier Sichel , associé dans la première société française de capital-risque , Sofinnova , après un début de carrière sans faute à le sein de France Telecom , cumule l' ESSEC , l' ENA et quatre ans d' inspection de les finances .
+40;Olivier Sichel;associé dans;Sofinnova;-1
+40;Olivier Sichel;associé dans;la première société française de capital-risque;-1
+40;Sofinnova;première société française de;capital-risque;-1
+40;Sofinnova;société française de;capital-risque;-1
+40;Olivier Sichel;début de carrière sans faute;à le sein de France Telecom;-1
+40;Olivier Sichel;cumule;l' ESSEC;-1
+40;Olivier Sichel;cumule;l' ENA;-1
+40;Olivier Sichel;cumule;quatre ans d' inspection de les finances;-1
+19 % de les états-majors de le CAC40 sont passés par l' inspection de les finances , les mines , les ponts , le corps de les télécoms , le conseil d' etat ou la cour de les comptes .
+41;19 % de les états-majors de le CAC40;sont passés par;l' inspection de les finances , les mines , les ponts , le corps de les télécoms , le conseil d' etat ou la cour de les comptes;-1 
+41;19 % de les états-majors de le CAC40;sont passés par;le conseil d' etat ou la cour de les comptes;-1 
+41;19 % de les états-majors de le CAC40;sont passés par;la cour de les comptes;-1 
+ainsi , Jean-Pascal Tricoire , le président de Schneider Electric né en 1963 , n' a -t -il fait « que » l' ESEO d' Angers et l' EM Lyon .
+42;Jean-Pascal Tricoire;président de;Schneider Electric;-1
+42;Jean-Pascal Tricoire;né en;1963;-1
+42;Jean-Pascal Tricoire;n' a -t -il fait « que »;l' ESEO d' Angers;-1
+42;Jean-Pascal Tricoire;n' a -t -il fait « que »;l' EM Lyon;-1
+mais ce patron respecté de le CAC40 a enchaîné les expériences réussies à l' étranger : cinq ans en italie , cinq ans en chine , un an en Afrique de le Sud avant d' accéder à la direction générale à 36 ans !
+43;patron;respecté de;le CAC40;-1
+43;patron;a enchaîné;les expériences réussies;à l' étranger;-1
+43;patron;a enchaîné;cinq ans en italie;-1
+43;patron;a enchaîné;cinq ans en chine;-1
+43;patron;a enchaîné;un an en Afrique de le Sud;-1
+43;patron;accéder à;la direction générale;à 36 ans;-1
+43;les expériences réussies à l' étranger;:;cinq ans en italie;-1
+43;les expériences réussies à l' étranger;:;cinq ans en chine;-1
+43;les expériences réussies à l' étranger;:;un an en Afrique de le Sud;-1
+face à la montée en puissance de les producteurs chinois et coréens , Nippon Steel et son homologue Sumitomo ont décidé de se rapprocher pour former le numéro 2 mondial de l' acier .
+44;les producteurs chinois et coréens;montée en puissance;-1
+44;Sumitomo;homologue;son;-1
+44;Sumitomo;homologue;Nippon Steel;-1
+44;Nippon Steel;ont décidé de se rapprocher;pour former le numéro 2 mondial de l' acier;-1
+44;Sumitomo;ont décidé de se rapprocher;pour former le numéro 2 mondial de l' acier;-1
+44;Nippon Steel;former;le numéro 2 mondial de l' acier;-1
+44;Sumitomo;former;le numéro 2 mondial de l' acier;-1
+avec une capacité de 45 millions de tonnes en production annuelle , le nouvel ensemble reste toutefois près de deux fois plus petit que le géant arcelormittal ( 75 millions de tonnes ) , mais renforce sa marge de négociation vis-à-vis de ses fournisseurs de minerai de fer ou de ses clients automobiles .
+45;le nouvel ensemble;avec une capacité de;45 millions de tonnes en production annuelle;-1
+45;le nouvel ensemble;reste;près de deux fois plus petit que le géant arcelormittal;-1
+45;le nouvel ensemble;plus petit que;le géant arcelormittal;deux fois;-1
+45;arcelormittal;géant;-1
+45;le géant arcelormittal;(;75 millions de tonnes;-1
+45;le nouvel ensemble;renforce;sa marge de négociation;vis-à-vis de ses fournisseurs de minerai de fer ou de ses clients automobiles;-1
+45;le nouvel ensemble;négociation vis-à-vis de;ses fournisseurs de minerai de fer;-1
+45;le nouvel ensemble;négociation vis-à-vis de;ses clients automobiles;-1
+le champion Sud-Coréen Posco vient d' ailleurs d' obtenir le feu vert de le gouvernement indien pour construire la troisième plus grande aciérie de le monde dans l' etat d' orissa .
+46;le champion Sud-Coréen Posco;obtenir le feu vert de;le gouvernement indien;pour construire la troisième plus grande aciérie de le monde dans l' etat d' orissa;-1
+46;le champion Sud-Coréen Posco;construire;la troisième plus grande aciérie de le monde;dans l' etat d' orissa;-1
+46;Posco;champion Sud-Coréen;-1
+46;champion;Sud-Coréen;-1
+mais les aciéristes ne sont pas les seules entreprises industrielles nipponnes à souffrir de la pression de leurs concurrents asiatiques .
+47;les aciéristes;ne sont pas les seules;entreprises industrielles nipponnes à souffrir de la pression de leurs concurrents asiatiques;-1
+47;entreprises industrielles nipponnes;souffrir de la pression de;leurs concurrents asiatiques;-1
+47;concurrents;asiatiques;-1
+47;entreprises industrielles;nipponnes;-1
+car si les quatre opérateurs ( Free , Orange , Bouygues Telecom et SFR ) ont accepté de payer à le total 936,1 millions d' euros pour avoir le droit d' émettre dans la bande de les 2,6 ghz , ce n' est pas seulement pour la beauté de le geste .
+48;les quatre opérateurs;(;Free;-1
+48;les quatre opérateurs;(;Orange;-1
+48;les quatre opérateurs;(;Bouygues Telecom;-1
+48;les quatre opérateurs;(;SFR;-1
+48;les quatre opérateurs;ont accepté de payer;à le total 936,1 millions d' euros;pour avoir le droit d' émettre dans la bande de les 2,6 ghz;-1
+48;les quatre opérateurs;avoir le droit d' émettre dans;la bande de les 2,6 ghz;-1
+48;les quatre opérateurs;émettre dans;la bande de les 2,6 ghz;-1
+48;payer à le total 936,1 millions d' euros;n' est pas seulement pour;la beauté de le geste;-1
+Imaginlab , à Brest , couvé dans le giron de le pôle de compétitivité images et réseaux , va permettre à les entreprises de tester grandeur nature - une bonne partie de la ville et de le port ainsi qu' une dizaine de kilomètres en mer - des services très variés : de le stockage dématérialisé dans « le nuage » ( Cloud ) à la voix sur IP , en passant par la télévision mobile , les jeux en réseau , la télémédecine , la télésurveillance ...
+49;Imaginlab;à;Brest;-1
+49;Imaginlab;couvé dans le giron de;le pôle de compétitivité images et réseaux;-1
+49;Imaginlab;va permettre à;les entreprises;de tester grandeur nature;des services très variés;-1
+49;les entreprises;tester grandeur nature;des services très variés;-1
+49;les entreprises;tester grandeur nature;le stockage dématérialisé dans « le nuage » ( Cloud );-1
+49;les entreprises;tester grandeur nature;la voix sur IP;-1
+49;les entreprises;tester grandeur nature;la télévision mobile;-1
+49;les entreprises;tester grandeur nature;les jeux en réseau;-1
+49;les entreprises;tester grandeur nature;la télémédecine;-1
+49;les entreprises;tester grandeur nature;la télésurveillance;-1
+49;des services très variés;:;le stockage dématérialisé dans « le nuage » ( Cloud );-1
+49;des services très variés;:;la voix sur IP;-1
+49;des services très variés;:;la télévision mobile;-1
+49;des services très variés;:;les jeux en réseau;-1
+49;des services très variés;:;la télémédecine;-1
+49;des services très variés;:;la télésurveillance;-1
+49;le stockage dématérialisé dans « le nuage »;(;Cloud;-1
+l' etat pouvait bien faire ça : avec les futures licences dans la bande de les 800 mhz , attribuées en décembre et dont il espère tirer encore 1,8 milliard d' euros , il aura encaissé plus de 2,7 milliards .
+50;l' etat;pouvait bien faire;ça;-1
+50;les futures licences dans la bande de les 800 mhz;attribuées;en décembre;-1
+50;il;espère tirer;les futures licences dans la bande de les 800 mhz;encore 1,8 milliard d' euros;-1
+50;il;aura encaissé;plus de 2,7 milliards;avec les futures licences dans la bande de les 800 mhz;-1
+employée à le rayon de les produits ménagers , Sandra fait partie de les quelque 160 salariés sur 180 de le Carrefour Market d’ Epinay-sur-Orge ( Essonne ) à s’ être déclarés en grève ce samedi .
+51;Sandra;employée;à le rayon de les produits ménagers;-1
+51;Sandra;fait partie de;les quelque 160 salariés sur 180 de le Carrefour Market d’ Epinay-sur-Orge ( Essonne ) à s’ être déclarés en grève ce samedi;-1
+51;les quelque 160 salariés sur 180 de le Carrefour Market d’ Epinay-sur-Orge ( Essonne );être déclarés en grève;ce samedi;-1
+51;Epinay-sur-Orge;(;Essonne;-1
+répondant à l’ appel de les syndicats pour la défense de l’ emploi et de le pouvoir d’ achat à la suite de le plan de transformation de le groupe présenté en janvier par le pdg Alexandre Bompard , elle et ses collègues ont « pris en otage les chariots » et distribué de les tracts à les clients .
+52;elle;répondant à;l’ appel de les syndicats pour la défense de l’ emploi et de le pouvoir d’ achat;-1 
+52;ses collègues;répondant à;l’ appel de les syndicats pour la défense de l’ emploi et de le pouvoir d’ achat;-1 
+52;les syndicats;appel;pour la défense de l’ emploi et de le pouvoir d’ achat;-1 
+52;les syndicats;défense;de l’ emploi;-1 
+52;les syndicats;défense;de le pouvoir d’ achat;-1 
+52;le plan de transformation de le groupe;présenté;par le pdg Alexandre Bompard;en janvier;-1
+52;Alexandre Bompard;pdg;-1
+52;le groupe;transformation;-1
+52;elle;ont « pris en otage;les chariots;-1
+52;ses collègues;ont « pris en otage;les chariots;-1
+52;elle;distribué de;les tracts;à les clients;-1
+52;ses collègues;distribué de;les tracts;à les clients;-1
+Alain Arnaud débute dans l' administration de les douanes à le sein de laquelle il travaille comme chef de l' agence de poursuites et de recouvrement à la direction nationale de le renseignement et de les enquêtes douanières .
+53;Alain Arnaud;débute dans;l' administration de les douanes;-1 
+53;il;travaille comme;chef de l' agence de poursuites et de recouvrement;à la direction nationale de le renseignement et de les enquêtes douanières;l' administration de les douanes;-1 
+53;il;chef de;l' agence de poursuites et de recouvrement;à la direction nationale de le renseignement et de les enquêtes douanières;l' administration de les douanes;-1 
+elu trésorier général de la mutuelle de les douanes en 1985 , puis trésorier de la fédération de les mutuelles de fonctionnaires en 1986 , il en devient en 1988 vice-président , puis président en 2007 .
+54;il;elu;trésorier général;de la mutuelle de les douanes;en 1985;-1 
+54;il;elu;trésorier;de les mutuelles de fonctionnaires;en 1986;-1 
+54;il;trésorier général;de la mutuelle de les douanes;en 1985;-1 
+54;il;trésorier;de les mutuelles de fonctionnaires;en 1986;-1 
+54;il;devient;vice-président;la fédération de les mutuelles de fonctionnaires;en 1988;-1 
+54;il;devient;président;la fédération de les mutuelles de fonctionnaires;en 2007;-1 
+54;il;vice-président;la fédération de les mutuelles de fonctionnaires;en 1988;-1 
+54;il;président;la fédération de les mutuelles de fonctionnaires;en 2007;-1 
+il exerce , de 1994 à 2011 , les fonctions de président-directeur général de la banque française mutualiste , ainsi que celle de vice-président de le conseil de surveillance d' OFI-Mandats ( société de gestion de le groupe OFI ) .
+55;il;exerce;les fonctions de président-directeur général;de la banque française mutualiste;de 1994 à 2011;-1 
+55;il;exerce;vice-président;de le conseil de surveillance d' OFI-Mandats;-1 
+55;il;président-directeur général de;la banque française mutualiste;-1 
+55;il;vice-président de;le conseil de surveillance d' OFI-Mandats;-1 
+56;OFI-Mandats;société de gestion de;le groupe OFI;-1
+a ce titre , il a assumé la présidence de le conseil d' administration de l' institut mutualiste Montsouris .
+57;il;a assumé la présidence de;le conseil d' administration de l' institut mutualiste Montsouris;-1
+57;Montsouris;institut mutualiste;-1
+il a également été membre de le conseil de la CNAMTS ( caisse nationale d' assurance maladie de les travailleurs salariés ) , chef de file de la délégation de la mutualité française jusqu' en 2014 .
+58;il;a également été membre de;le conseil de;la CNAMTS;-1
+58;il;membre de;le conseil de;la CNAMTS;-1
+58;il;chef de file de;la délégation de la mutualité française;jusqu' en 2014;-1
+58;la CNAMTS;(;caisse nationale d' assurance maladie de les travailleurs salariés;-1
+il est actuellement président de le centre international de recherche et d' information en économie publique , sociale et coopérative .
+59;il;est actuellement président de;le centre international de recherche et d' information en économie publique , sociale et coopérative;-1
+59;il;président de;le centre international de recherche et d' information en économie publique , sociale et coopérative;actuellement;-1
+elle a mené des missions d' audit dans la banque et de les entreprises et oeuvré sur les marchés spécialisés de le crédit-bail et de la location , tant pour le groupe Crédit Lyonnais que pour la National Westminster Bank .
+60;elle;a mené des missions d' audit dans;la banque;pour le groupe Crédit Lyonnais;-1
+60;elle;a mené des missions d' audit dans;la banque;pour la National Westminster Bank;-1
+60;elle;a mené des missions d' audit dans;les entreprises;pour le groupe Crédit Lyonnais;-1
+60;elle;a mené des missions d' audit dans;les entreprises;pour la National Westminster Bank;-1
+60;elle;oeuvré sur;les marchés spécialisés de le crédit-bail et de la location;-1
+60;elle;oeuvré sur;les marchés spécialisés de le crédit-bail et de la location;-1
+elle était depuis 2010 directrice de la banque de développement régional caisse d' epargne en charge de le centre d' affaires multimarchés à Saint-Denis de la réunion .
+61;elle;était;directrice;de la banque de développement régional caisse d' epargne;depuis 2010;-1
+61;elle;directrice;de la banque de développement régional caisse d' epargne;depuis 2010;-1
+61;elle;en charge de;le centre d' affaires multimarchés à Saint-Denis de la réunion;-1
+61;le centre d' affaires multimarchés;à;Saint-Denis de la réunion;-1
+Benoît Petit a douze ans d' expérience en banque d' investissement .
+62;Benoît Petit;a;douze ans d' expérience;en banque d' investissement;-1
+62;Benoît Petit;expérience;en banque d' investissement;-1
+il commence sa carrière chez l' Oréal comme chef de produits , avant d' intégrer le groupe Société Générale en 2003 .
+63;il;commence sa carrière chez;l' Oréal;comme chef de produits;-1
+63;il;chef de produits;chez l' Oréal;-1
+63;il;intégrer;le groupe Société Générale;en 2003;-1
+managing director en charge de les ventes sur la zone europe de les produits structurés auprès de banques privées en 2008 , il devient en 2009 responsable de les activités de marché en suisse et responsable de les ventes europe de l' activité Private Wealth Management de le département Cross Asset Solutions nouvellement créé .
+64;il;managing director;-1
+64;managing director;en charge de les ventes sur;la zone europe;de les produits structurés;auprès de banques privées;en 2008;-1
+64;il;,;managing director en charge de les ventes sur la zone europe de les produits structurés auprès de banques privées en 2008;-1
+64;il;devient;responsable de les activités de marché;en suisse;en 2009;-1
+64;il;devient;responsable de les ventes europe;de l' activité Private Wealth Management de le département Cross Asset Solutions nouvellement créé;-1
+64;il;responsable de;les activités de marché;en suisse;en 2009;-1
+64;il;responsable de;les ventes europe;de l' activité Private Wealth Management de le département Cross Asset Solutions nouvellement créé;-1
+64;le département Cross Asset Solutions;nouvellement créé;-1
+il devient membre de son comité exécutif en 2012 et en prend la direction de les ventes europe hors France .
+65;il;devient membre de;son comité exécutif;en 2012;-1
+65;il;prend la direction de;les ventes europe hors France;-1
+fort de vingt ans d' expérience en capital-risque et capital-développement , Jean-Marie Chauvet démarre une carrière d' entrepreneur à les Etats-Unis , avant de devenir , entre 1997 et 2004 , cofondateur et membre de la direction de Dassault Développement , fonds d' investissement en capital-risque de le groupe familial Dassault .
+66;Jean-Marie Chauvet;fort de vingt ans d' expérience en;capital-risque;-1
+66;Jean-Marie Chauvet;fort de vingt ans d' expérience en;capital-développement;-1
+66;Jean-Marie Chauvet;expérience en;capital-risque;-1
+66;Jean-Marie Chauvet;expérience en;capital-développement;-1
+66;Jean-Marie Chauvet;devenir;cofondateur et membre de la direction de Dassault Développement;entre 1997 et 2004;-1
+66;Jean-Marie Chauvet;cofondateur;de la direction de Dassault Développement;entre 1997 et 2004;-1
+66;Jean-Marie Chauvet;membre;de la direction de Dassault Développement;entre 1997 et 2004;-1
+66;Dassault Développement;fonds d' investissement;en capital-risque;de le groupe familial Dassault;-1
+66;Jean-Marie Chauvet;démarre une carrière d';entrepreneur;à les Etats-Unis;-1
+il était jusqu' en 2012 directeur général de LC Capital , société de gestion de portefeuilles agréée , dont il a été cofondateur en 2004 .
+67;il;était;directeur général;de LC Capital;jusqu' en 2012;-1
+67;il;directeur général;de LC Capital;jusqu' en 2012;-1
+67;il;a été cofondateur;société de gestion de portefeuilles agréée;en 2004;-1
+67;LC Capital;société de;gestion de portefeuilles agréée;-1
+67;portefeuilles;agréée;-1
+le secteur de les micropaiements connaît une croissance à deux chiffres depuis plusieurs années .
+68;le secteur de les micropaiements;connaît une croissance;à deux chiffres;depuis plusieurs années;-1
+d' autant que , profitant de le développement de la 3g et de le parc de smartphones , l' offre ne cesse de s' élargir à de nouveaux contenus et services digitaux .
+69;l' offre;profitant;de le développement de la 3g;-1
+69;l' offre;profitant;de le parc de smartphones;-1
+69;la 3g;développement;-1
+69;l' offre;ne cesse de s' élargir;à de nouveaux contenus et services digitaux;-1
+69;contenus;nouveaux;-1
+69;services digitaux;nouveaux;-1
+hier limitée à l' achat de sonneries de téléphone ou de fonds d' écran , elle est aujourd'hui portée par l' univers de les jeux et bientôt celui de la presse et de la vidéo , sans compter toutes les applications en vente sur les « Market stores » de l' Iphone ou de l' Ipad .
+70;elle;limitée à l' achat;de fonds d' écran;hier;-1
+70;elle;limitée à l' achat;de sonneries de téléphone;hier;-1
+70;elle;est;portée par l' univers de les jeux;aujourd'hui;-1
+70;elle;portée par;celui de la presse et de la vidéo;bientôt;-1
+70;elle;portée par;l' univers de les jeux;aujourd'hui;-1
+70;les applications;en vente sur;les « Market stores » de l' Iphone ou de l' Ipad;-1
+« l' âge d' or de l' internet mobile qu' on attendait depuis longtemps est enfin là , faisant plus que jamais de le smartphone un véritable canal de paiement » , se réjouit Franck Abihssira , président de l' association française de le multimédia mobile ( AFMM ) .
+71;on;attendait;l' âge d' or de l' internet mobile;depuis longtemps;-1
+71;l' âge d' or de l' internet mobile qu' on attendait depuis longtemps;est enfin;là;-1
+71;l' âge d' or de l' internet mobile;faisant plus que jamais de;le smartphone un véritable canal de paiement;-1
+71;le smartphone;un véritable canal;de paiement;-1
+71;le smartphone;canal;de paiement;-1
+71;Franck Abihssira;réjouit;l' âge d' or de l' internet mobile qu' on attendait depuis longtemps est enfin là , faisant plus que jamais de le smartphone un véritable canal de paiement;-1
+71;Franck Abihssira;président de;l' association française de le multimédia mobile;-1
+71;l' association française de le multimédia mobile;(;AFMM;-1
+en proposant à le consommateur de régler ces menus contenus par l' intermédiaire d' un sms+ ( surtaxé ) ou d' un internet+ , directement débités sur la facture de son abonnement , ils lui ont offert une alternative à la carte bancaire , peu adaptée à les petits montants .
+72;ils;en proposant;à le consommateur;de régler ces menus contenus par l' intermédiaire d' un sms+ ( surtaxé ) ou d' un internet+;-1
+72;ils;proposant;à le consommateur;de régler ces menus contenus par l' intermédiaire d' un sms+ ( surtaxé ) ou d' un internet+;-1
+72;le consommateur;régler;ces menus contenus;par l' intermédiaire d' un sms+ ( surtaxé ) ou d' un internet+;-1
+72;un internet+;débités sur;la facture de son abonnement;-1
+72;un sms+;débités sur;la facture de son abonnement;-1
+72;ils;ont offert;lui;une alternative à la carte bancaire;-1
+72;la carte bancaire;peu adaptée;à les petits montants;-1
+72;montants;petits;-1
+dernière solution en date proposée par SFR , Orange et Bouygues , le MPME ( Micropaiement Mobile & Enablers ) permet de régler en deux clics jusqu' à 8 euros sans avoir besoin de saisir coordonnées ou mot de connexion .
+73;dernière solution en date;proposée par;Bouygues;-1
+73;dernière solution en date;proposée par;SFR;-1
+73;dernière solution en date;proposée par;Orange;-1
+73;dernière solution en date proposée par SFR , Orange et Bouygues;,;le MPME;-1
+73;le MPME;(;Micropaiement Mobile & Enablers;-1
+73;le MPME;permet de régler;en deux clics;jusqu' à 8 euros;-1
+73;le MPME;sans avoir besoin de saisir;coordonnées;-1
+73;le MPME;sans avoir besoin de saisir;mot de connexion;-1
+« la force de nos moyens de paiement réside dans leur simplicité et dans leur universalité » , affirme Nicolas guieysse , délégué général de l' AFMM .
+74;Nicolas guieysse;délégué général;de l' AFMM;-1
+74;Nicolas guieysse;affirme;la force de nos moyens de paiement réside dans leur simplicité et dans leur universalité;-1
+74;la force de nos moyens de paiement;réside;dans leur simplicité;-1
+74;la force de nos moyens de paiement;réside;dans leur universalité;-1
+74;nos moyens de paiement;force;dans leur simplicité;-1
+74;nos moyens de paiement;force;dans leur universalité;-1
+l' an dernier , les seuls paiements sur facture mobile ont totalisé 452 millions d' euros , en croissance de 16 % par rapport à 2009 et de 39 % par rapport à 2008 .
+75;les seuls paiements sur facture mobile;ont totalisé;452 millions d' euros;l' an dernier;-1
+75;les seuls paiements sur facture mobile;en croissance;de 16 %;par rapport à 2009;-1
+75;les seuls paiements sur facture mobile;en croissance;de 39 %;par rapport à 2008;-1
+Paypal , filiale d' Ebay et déjà très présente dans le E-Commerce , a lancé il y a quelques mois une nouvelle tarification favorable à les micropaiements ( 5 % de commission plus 10 centimes par transaction ) .
+76;Paypal;filiale d';Ebay;-1
+76;Paypal;filiale d';très présente;dans le E-Commerce;-1
+76;Paypal;a lancé;une nouvelle tarification favorable à les micropaiements;il y a quelques mois;-1
+76;une nouvelle tarification;favorable à;les micropaiements;-1
+76;tarification;nouvelle;-1
+76;une nouvelle tarification;commission;5 %;-1
+76;une nouvelle tarification;(;5 % de commission;-1
+76;une nouvelle tarification;(;10 centimes par transaction;-1
+« certains sites de jeux commencent à demander à leurs clients comment ils veulent payer avant de donner leur prix et proposent des tarifs plus intéressants avec un portemonnaie électronique pour lequel la commission est moins importante » , avance Thierry Chopard , en charge de le développement de le business européen sur les mobiles chez Paypal .
+77;Thierry Chopard;en charge de;le développement de le business européen sur les mobiles;chez Paypal;-1
+77;Thierry Chopard;avance;certains sites de jeux commencent à demander à leurs clients comment ils veulent payer avant de donner leur prix et proposent des tarifs plus intéressants avec un portemonnaie électronique pour lequel la commission est moins importante;-1
+77;certains sites de jeux;commencent à demander à;leurs clients;comment ils veulent payer;-1
+77;certains sites de jeux;donner;leur prix;-1
+77;ils;veulent payer;comment;-1
+77;certains sites de jeux;proposent;des tarifs plus intéressants;avec un portemonnaie électronique;-1
+77;des tarifs;plus intéressants;-1
+77;la commission;est moins importante;un portemonnaie électronique;-1
+« si la concurrence s' intensifie , ils ne pourront pas y échapper » , prédit Philippe lerouge , fondateur de le salon mobile payment .
+78;Philippe lerouge;fondateur de;le salon mobile payment;-1
+78;Philippe lerouge;prédit;si la concurrence s' intensifie , ils ne pourront pas y échapper;-1
+78;la concurrence;intensifie;-1
+78;ils;ne pourront pas y échapper;si la concurrence s' intensifie;-1
+en position dominante sur le marché , Apple impose son système « maison » développé par Itunes comme solution exclusive de paiement pour les achats dans le secteur de la musique , de les jeux et de la presse - et conserve à le passage 30 % de le prix de la transaction .
+79;Apple;en position dominante sur;le marché;-1 
+79;Apple;impose;son système « maison » développé par Itunes;comme solution exclusive de paiement;pour les achats dans le secteur de la musique , de les jeux et de la presse;-1 
+79;son système « maison » développé par Itunes;comme solution exclusive de paiement;pour les achats dans le secteur de la musique , de les jeux et de la presse;-1 
+79;son système « maison » développé par Itunes;solution exclusive de paiement;pour les achats dans le secteur de la musique , de les jeux et de la presse;-1 
+79;son système « maison »;développé;par Itunes;-1 
+79;Apple;conserve à le passage;30 % de le prix de la transaction;-1 
+un marché captif qui échappe à Orange , SFR et autres Paypal .
+80;un marché captif;échappe à;Orange;-1 
+80;un marché captif;échappe à;SFR;-1 
+80;un marché captif;échappe à;Paypal;-1 
+80;un marché;captif;-1 
+Google et Facebook en embuscade face à Apple , les autres fabricants de smartphones sont quasi inexistants .
+81;Google;en embuscade face à;Apple;-1
+81;Facebook;en embuscade face à;Apple;-1
+81;les autres fabricants de smartphones;sont quasi inexistants;-1
+seul Google lui tient un peu tête .
+82;Google;tient un peu tête;lui;-1
+la firme de Mountain View , qui a renoncé à développer son téléphone en propre , a entrepris d' équiper gratuitement avec son système d' exploitation Android tous les fabricants qui le souhaitent - ce qui lui permet de développer sa propre boutique d' applications .
+83;la firme de Mountain View;a renoncé à développer;son téléphone;en propre;-1
+83;la firme de Mountain View;a entrepris d' équiper gratuitement;tous les fabricants qui le souhaitent;avec son système d' exploitation Android;-1
+83;équiper gratuitement avec son système d' exploitation Android tous les fabricants qui le souhaitent;permet;lui;de développer sa propre boutique d' applications;-1
+83;lui;développer;sa propre boutique d' applications;-1
+a l' origine , Google aurait bien voulu imposer sur cet « Android Market » sa plate-forme de paiements Google Check Out comme mode de règlement unique .
+84;Google;aurait bien voulu imposer;sa plate-forme de paiements Google Check Out comme mode de règlement unique;sur cet « Android Market »;-1
+84;Google Check Out;plate-forme de paiements;sa;-1
+84;Google Check Out;comme mode de;règlement unique;-1
+84;Google Check Out;mode de;règlement unique;-1
+mais la « pieuvre » ne pouvait pas compter sur un portefeuille de coordonnées bancaires comparable à celui dont dispose Apple grâce à Itunes .
+85;la « pieuvre »;ne pouvait pas compter sur;un portefeuille de coordonnées bancaires comparable à celui dont dispose Apple;-1
+85;un portefeuille de coordonnées bancaires;comparable à;celui dont dispose Apple grâce à Itunes;-1
+85;Apple;dispose;un portefeuille de coordonnées bancaires;grâce à Itunes;-1
+autre compétiteur de poids avec lequel il faudra compter : Facebook .
+86;autre compétiteur de poids avec lequel il faudra compter;:;Facebook;-1 
+86;Facebook;autre compétiteur de poids;-1 
+86;il;faudra;compter;autre compétiteur de poid;-1 
+86;il;faudra;compter;Facebook;-1 
+le réseau social est en effet en train de devenir une très grosse plate-forme de vente de jeux .
+87;le réseau social;est en effet en train de devenir;une très grosse plate-forme de vente de jeux;-1 
+87;le réseau social;en train de devenir;une très grosse plate-forme de vente de jeux;-1 
+87;le réseau social;plate-forme de;vente de jeux;-1 
+et tout comme Apple , il n' entend pas laisser d' autres opérateurs de paiement profiter de son énorme audience .
+88;il;comme;Apple;-1
+88;il;n' entend pas laisser;d' autres opérateurs de paiement profiter de son énorme audience;-1
+88;Apple;n' entend pas laisser;d' autres opérateurs de paiement profiter de son énorme audience;-1
+88;d' autres opérateurs de paiement;profiter de;son énorme audience;-1
+88;audience;énorme;-1
+il a donc demandé à tous les éditeurs de jeux de proposer , à partir de le 1er juillet , parmi les moyens de règlement sa monnaie virtuelle , les crédits Facebook .
+89;il;a donc demandé à;tous les éditeurs de jeux;de proposer , à partir de le 1er juillet , parmi les moyens de règlement sa monnaie virtuelle;-1
+89;tous les éditeurs de jeux;proposer;parmi les moyens de règlement;sa monnaie virtuelle;à partir de le 1er juillet;-1
+89;sa monnaie virtuelle;moyens de;règlement;-1
+89;les crédits Facebook;monnaie virtuelle;sa;-1
+l' entreprise fondée par Mark Zuckerberg vient d' ailleurs de créer une filiale baptisée Facebook Payments qui a aussi des ambitions dans le E-Commerce .
+90;l' entreprise;fondée par;Mark Zuckerberg;-1
+90;l' entreprise;vient d' ailleurs de créer;une filiale baptisée Facebook Payments;-1
+90;une filiale;baptisée;Facebook Payments;-1
+90;Facebook Payments;a aussi des ambitions dans;le E-Commerce;-1
+dernière catégorie de compétiteurs , les intégrateurs , comme Hi-Media ou Rentabiliweb , ont un profil à part .
+91;les intégrateurs;dernière catégorie de;compétiteurs;-1
+91;les intégrateurs;comme;Rentabiliweb;-1
+91;les intégrateurs;comme;Hi-Media;-1
+91;les intégrateurs;ont;un profil à part;-1
+91;Rentabiliweb;ont;un profil à part;-1
+91;Hi-Media;ont;un profil à part;-1
+quitte à les développer en propre , comme Hi-Media avec Hipay .
+92;Hi-Media;développer en propre;les;-1
+92;Hi-Media;développer en propre;Hipay;-1
+d' un côté , on trouve des opérateurs qui n' ont pas l' intention de sortir de le créneau de le micropaiement et de les contenus numériques , comme Zong ou Cellfish Media ,,, de l' autre ceux qui lorgnent vers le E-Commerce et les biens physiques , comme Rentabiliweb .
+93;on;trouve;des opérateurs qui n' ont pas l' intention de sortir de le créneau de le micropaiement et de les contenus numériques;d' un côté;-1
+93;on;trouve;ceux qui lorgnent vers le E-Commerce et les biens physiques;de l' autre;-1
+93;ceux;lorgnent vers;le E-Commerce;-1
+93;ceux;lorgnent vers;les biens physiques;-1
+93;ceux qui lorgnent vers le E-Commerce et les biens physiques;comme;Rentabiliweb;-1
+93;des opérateurs;n' ont pas l' intention de sortir de le créneau;de le micropaiement;-1
+93;des opérateurs;n' ont pas l' intention de sortir de le créneau;de les contenus numériques;-1
+93;Zong;n' ont pas l' intention de sortir de le créneau;de le micropaiement;-1
+93;Cellfish Media;n' ont pas l' intention de sortir de le créneau;de les contenus numériques;-1
+93;opérateurs qui n' ont pas l' intention de sortir de le créneau de le micropaiement et de les contenus numériques;comme;Zong;-1
+93;opérateurs qui n' ont pas l' intention de sortir de le créneau de le micropaiement et de les contenus numériques;comme;Cellfish Media;-1
+« le développement récent de le modèle Freemium ( accès gratuit avec applications supplémentaires payantes ) a déjà permis de booster l' univers de les jeux » , note Nicolas d' Hueppe , président de Cellfish Media Europe .
+93;le modèle Freemium;(;accès gratuit avec applications supplémentaires payantes;-1
+93;applications supplémentaires;payantes;-1
+93;le modèle Freemium;développement récent;-1
+93;le modèle Freemium;permis de booster;l' univers de les jeux;-1
+93;Nicolas d' Hueppe;note;le développement récent de le modèle Freemium ( accès gratuit avec applications supplémentaires payantes ) a déjà permis de booster l' univers de les jeux;-1
+93;Nicolas d' Hueppe;président de;Cellfish Media Europe;-1
+« l' acquisition d' un coupon sur un site d' achats groupés comme groupon peut tout à fait entrer dans notre périmètre de marché , même s' il sert ensuite à acheter un bien physique » , observe David Marcus , fondateur de Zong qui a été l' un de les premiers intégrateurs à travailler pour Facebook .
+94;un coupon;acquisition;sur un site d' achats groupés comme groupon;-1
+94;un site d' achats groupés;comme;groupon;-1
+94;l' acquisition d' un coupon sur un site d' achats groupés comme groupon;peut tout à fait entrer;dans notre périmètre de marché;-1
+94;il;sert ensuite à acheter;un bien physique;-1
+94;David Marcus;observe;l' acquisition d' un coupon sur un site d' achats groupés comme groupon peut tout à fait entrer dans notre périmètre de marché , même s' il sert ensuite à acheter un bien physique;-1
+94;David Marcus;fondateur de;Zong;-1
+94;Zong;a été l' un de;les premiers intégrateurs à travailler pour Facebook;-1
+94;les premiers intégrateurs;travailler pour;Facebook;-1
+94;Zong;travailler pour;Facebook;-1
+en France , l' acteur international Paybyphone développe déjà ce service à Issy-les-Moulineaux , Vannes , Calais , Nice , etc.
+95;l' acteur international Paybyphone;développe déjà;ce service;à Issy-les-Moulineaux;-1
+95;l' acteur international Paybyphone;développe déjà;ce service;Vannes;-1
+95;l' acteur international Paybyphone;développe déjà;ce service;Nice;-1
+95;l' acteur international Paybyphone;développe déjà;ce service;Calais;-1
+95;Paybyphone;acteur international;-1
+décidés à ne pas passer à côté de ce créneau , SFR , Bouygues et Orange viennent de créer avec Atos Origin une nouvelle offre baptisée Buyster grâce à laquelle on pourra régler ses achats sur internet avec son numéro de téléphone plus un code .
+96;SFR;décidés à ne pas passer à côté de;ce créneau;-1 
+96;Bouygues;décidés à ne pas passer à côté de;ce créneau;-1 
+96;Orange;décidés à ne pas passer à côté de;ce créneau;-1 
+96;SFR;viennent de créer;une nouvelle offre baptisée Buyster;avec Atos Origin;-1 
+96;Bouygues;viennent de créer;une nouvelle offre baptisée Buyster;avec Atos Origin;-1 
+96;Orange;viennent de créer;une nouvelle offre baptisée Buyster;avec Atos Origin;-1 
+96;une nouvelle offre;baptisée;Buyster;-1 
+96;offre;nouvelle;-1 
+96;on;pourra régler;ses achats sur internet;Buyster;avec son numéro de téléphone plus un code;-1
+ils rendent ainsi la monnaie de sa pièce à Paypal qui est venu les concurrencer sur les micropaiements .
+97;ils;rendent ainsi;la monnaie de sa pièce;à Paypal;-1
+97;Paypal;concurrencer;les;sur les micropaiements;-1
+même les réseaux bancaires commencent à proposer leurs propres solutions , à l' instar de le Crédit Mutuel Arkéa .
+98;les réseaux bancaires;commencent à proposer;leurs propres solutions;-1
+98;le Crédit Mutuel Arkéa;commencent à proposer;leurs propres solutions;-1
+ainsi , Rentabiliweb , qui affiche dans cette activité une croissance de 53 % à 38,5 millions d' euros , a été le premier à obtenir l' agrément pour gérer des paiements par carte bancaire .
+99;Rentabiliweb;affiche;une croissance de 53 % à 38,5 millions d' euros;dans cette activité;-1
+99;Rentabiliweb;croissance de;53 % à 38,5 millions d' euros;-1
+99;Rentabiliweb;a été;le premier à obtenir l' agrément pour gérer des paiements par carte bancaire;-1
+99;Rentabiliweb;premier à obtenir;l' agrément;pour gérer des paiements par carte bancaire;-1
+99;le premier;obtenir;l' agrément;pour gérer des paiements par carte bancaire;-1
+99;le premier;gérer;des paiements par carte bancaire;-1
+99;Rentabiliweb;gérer;des paiements par carte bancaire;-1
+a l' inverse de ses concurrents qui entendent rester dans le champ de les biens numériques , son président Jean-Baptiste Descroix-Vernier compte , lui , s' attaquer à le E-Commerce , un marché bien plus étendu .
+100;Jean-Baptiste Descroix-Vernier;a l' inverse de;ses concurrents;-1
+100;Jean-Baptiste Descroix-Vernier;président;son;-1
+100;ses concurrents;entendent rester dans;le champ de les biens numériques;-1
+100;ses concurrents;compte;s' attaquer à le E-Commerce;-1
+100;ses concurrents;attaquer à;le E-Commerce;-1
+100;le E-Commerce;,;un marché bien plus étendu;-1
+100;un marché;bien plus étendu;-1
+les smartphones s' apprêtent à intégrer une nouvelle fonctionnalité : le paiement sans contact .
+101;les smartphones;apprêtent à intégrer;une nouvelle fonctionnalité;-1
+101;les smartphones;apprêtent à intégrer;le paiement sans contact;-1
+101;une nouvelle fonctionnalité;:;le paiement sans contact;-1
+plus besoin d' envoyer ou recevoir des codes d' authentification ou de cliquer sur un lien : grâce à une puce NFC ( Near Field Communication ) implantée dans l' appareil , le règlement pourra s' effectuer directement en passant le mobile devant un lecteur .
+102;une puce NFC;implantée dans;l' appareil;-1
+102;NFC;(;Near Field Communication;-1
+102;le règlement;pourra s' effectuer;directement;en passant le mobile devant un lecteur;grâce à une puce NFC;-1
+102;le mobile;passant;devant un lecteur;-1
+a Nice , ville pilote pour le NFC , le dispositif a été implanté sur la carte Sim mais d' autres approches sont possibles .
+103;Nice;ville pilote pour;le NFC;-1
+103;le dispositif;a été implanté sur;la carte Sim;a Nice;-1
+103;d' autres approches;sont possibles;-1
+et de deux ! pour la deuxième année , Schneider arrive en tête de notre classement de les entreprises les plus durables .
+104;Schneider;arrive en tête de;notre classement de les entreprises les plus durables;pour la deuxième année;-1
+«son pdg Jean-Pascal Tricoire fait partie de les patrons français qui ont pris la tête sur les questions de climat et il en a fait un atout de compétitivité pour son entreprise » , confirme Anne-Catherine Husson-Traoré , directrice générale de le cabinet de conseil Novethic .
+105;Jean-Pascal Tricoire;pdg;son;-1
+105;Jean-Pascal Tricoire;fait partie de;les patrons français qui ont pris la tête sur les questions de climat;-1
+105;les patrons français;ont pris la tête sur;les questions de climat;-1
+105;il;a fait;en;un atout de compétitivité pour son entreprise;-1
+105;il;a fait;les questions de climat;un atout de compétitivité pour son entreprise;-1
+105;en;atout de compétitivité pour;son entreprise;-1
+105;les questions de climat;atout de compétitivité pour;son entreprise;-1
+105;Anne-Catherine Husson-Traoré;confirme;«son pdg Jean-Pascal Tricoire fait partie de les patrons français qui ont pris la tête sur les questions de climat et il en a fait un atout de compétitivité pour son entreprise »;-1
+105;Anne-Catherine Husson-Traoré;directrice générale de;le cabinet de conseil Novethic;-1
+105;Novethic;cabinet de;conseil;-1
+Schneider n' a pas attendu la COP21 , qui se tiendra à Paris en décembre , pour lutter contre le réchauffement climatique .
+106;Schneider;n' a pas attendu;la COP21;pour lutter contre le réchauffement climatique;-1
+106;Schneider;lutter contre;le réchauffement climatique;-1
+106;la COP21;tiendra;à Paris;en décembre;-1
+dans une logique d' optimisation de ses coûts , le géant de l' équipement électrique a lancé depuis une dizaine d' années de les programmes pour réduire sa consommation énergétique et donc son empreinte environnementale .
+107;le géant de l' équipement électrique;dans une logique d' optimisation de;ses coûts;-1
+107;le géant de l' équipement électrique;a lancé;de les programmes pour réduire sa consommation énergétique et donc son empreinte environnementale;depuis une dizaine d' années;-1
+107;le géant de l' équipement électrique;réduire;sa consommation énergétique;-1
+107;le géant de l' équipement électrique;réduire;son empreinte environnementale;-1
+mais il a aussi fortement innové en matière de matériels et de services pour aider ses clients à en faire autant .
+108;il;a aussi fortement innové en matière;de matériels;pour aider ses clients à en faire autant;-1
+108;il;a aussi fortement innové en matière;de services;pour aider ses clients à en faire autant;-1
+108;il;aider;ses clients;à en faire autant;-1
+108;ses clients;faire autant;en;-1
+«s' engager dans le développement durable est positif pour tous: nos clients , nos collaborateurs , les communautés dans lesquelles nous travaillons , nos actionnaires et la planète que nous partageons » , affirme à enjeux les echos Jean-Pascal Tricoire , à l' annonce de le palmarès .
+109;s' engager dans le développement durable;est positif pour;tous;-1
+109;s' engager dans le développement durable;est positif pour;nos clients;-1
+109;s' engager dans le développement durable;est positif pour;nos collaborateurs;-1
+109;s' engager dans le développement durable;est positif pour;les communautés dans lesquelles nous travaillons;-1
+109;s' engager dans le développement durable;est positif pour;la planète que nous partageon;-1
+109;s' engager dans le développement durable;positif pour;tous;-1
+109;s' engager dans le développement durable;positif pour;nos clients;-1
+109;s' engager dans le développement durable;positif pour;nos collaborateurs;-1
+109;s' engager dans le développement durable;positif pour;les communautés dans lesquelles nous travaillons;-1
+109;s' engager dans le développement durable;positif pour;la planète que nous partageon;-1
+109;nous;travaillons;les communautés;-1
+109;nous;partageons;la planète;-1
+109;Jean-Pascal Tricoire;affirme;«s' engager dans le développement durable est positif pour tous: nos clients , nos collaborateurs , les communautés dans lesquelles nous travaillons , nos actionnaires et la planète que nous partageons »;à enjeux les echos;à l' annonce de le palmarès;-1
+109;le palmarès;annonce;-1
+Aiguillonnées par les investisseurs , leurs actionnaires , leurs salariés , ainsi que l' ensemble de leur écosystème , les entreprises sont plus responsables .
+110;les entreprises;Aiguillonnées par;les investisseurs;-1
+110;les entreprises;Aiguillonnées par;leurs actionnaires;-1
+110;les entreprises;Aiguillonnées par;leurs salariés;-1
+110;les entreprises;Aiguillonnées par;l' ensemble de leur écosystème;-1
+110;les entreprises;sont plus responsables;-1
+«les pratiques convergent , souligne Patrick d' Humières , directeur général de l' institut RSE et partenaire technique de le classement : 95 % de les sociétés de le CAC40 ont un programme de vigilance formalisé et consultable en matière de respect de les droits humains et sociaux , de respect de l' environnement et de lutte contre la corruption . »
+111;les pratiques;convergent;-1
+111;Patrick d' Humières;souligne;les pratiques convergent;-1
+111;Patrick d' Humières;souligne;95 % de les sociétés de le CAC40 ont un programme de vigilance formalisé et consultable en matière de respect de les droits humains et sociaux , de respect de l' environnement et de lutte contre la corruption;-1
+111;95 % de les sociétés de le CAC40;ont;un programme de vigilance formalisé et consultable en matière de respect de les droits humains et sociaux , de respect de l' environnement et de lutte contre la corruption;-1
+111;un programme de vigilance;formalisé;-1
+111;un programme de vigilance;consultable;-1
+111;un programme de vigilance;en matière;de respect de les droits humains et sociaux;1
+111;un programme de vigilance;en matière;de respect de l' environnement;-1
+111;un programme de vigilance;en matière;de lutte contre la corruption;-1
+111;la corruption;lutte;-1
+111;les droits humains et sociaux;respect;-1
+111;l' environnement;respect;-1
+111;Patrick d' Humières;directeur général;de l' institut RSE;-1
+111;Patrick d' Humières;partenaire technique;de le classement;-1
+en outre , 95 % ont des politiques de l' emploi proactives vis-à-vis de le handicap , de les seniors , des jeunes ou de la diversité ,,, 98 % mènent des actions spécifiques de protection de la biodiversité .
+112;95 %;ont;des politiques de l' emploi proactives vis-à-vis de le handicap , de les seniors , des jeunes ou de la diversité;-1
+112;des politiques de l' emploi;proactives vis-à-vis;de le handicap;-1
+112;des politiques de l' emploi;proactives vis-à-vis;de les seniors;-1
+112;des politiques de l' emploi;proactives vis-à-vis;des jeunes;-1
+112;des politiques de l' emploi;proactives vis-à-vis;de la diversité;-1
+112;98 %;mènent des actions spécifiques de protection;de la biodiversité;-1
+enfin , 98 % ont une politique d' achats responsable formalisée avec un suivi de leurs fournisseurs ( voir tableau ci-contre ) .
+113;98 %;ont;une politique d' achats responsable formalisée avec un suivi de leurs fournisseurs;-1
+113;une politique d' achats;responsable formalisée;-1
+113;une politique d' achats;avec un suivi de;leurs fournisseurs;-1
+« cette convergence est plutôt encourageante » , se félicite Philippe Peuch-Lestrade , directeur général délégué de l' IIRC , le Conseil International de le Reporting Intégré .
+114;Peuch-Lestrade;directeur général délégué;de l' IIRC;-1
+114;Peuch-Lestrade;félicite;cette convergence est plutôt encourageante;-1
+114;cette convergence;est plutôt encourageante;-1
+114;l' IIRC;,;le Conseil International de le Reporting Intégré;-1
+en revanche , des efforts restent à fournir sur la transparence fiscale et l' incorporation de critères de performance RSE ( responsabilité sociétale de les entreprises ) quantifiés dans les rémunérations de les dirigeants !
+115;des efforts;restent à fournir sur;la transparence fiscale;-1
+115;des efforts;restent à fournir sur;l' incorporation de critères de performance RSE;-1
+115;la transparence fiscale;quantifiés dans;les rémunérations de les dirigeants;-1
+115;l' incorporation de critères de performance RSE;quantifiés dans;les rémunérations de les dirigeants;-1
+115;RSE;(;responsabilité sociétale de les entreprises;-1
+Schneider , Danone , l' Oréal : le palmarès réserve une place de choix à les sociétés qui conduisent de longue date des démarches de fond , à les plus transparentes en termes de rating , à les plus innovantes dans leur collaboration avec la société civile et ... à celles qui communiquent le mieux .
+116;le palmarès;réserve une place de choix;à celles qui communiquent le mieux;-1 
+116;celles;communiquent le mieux;-1 
+116;les sociétés;conduisent;des démarches de fond;de longue date;-1 
+116;les sociétés;transparentes en termes;de rating;-1 
+116;les sociétés;innovantes dans;leur collaboration avec la société civile;-1 
+116;leur;collaboration avec;la société civile;-1 
+Engie et Eurazeo PME ont publié cette année leur premier rapport intégré pour présenter de façon plus dynamique et synthétique les liens entre le financier et l' extra-financier .
+117;Engie;ont publié;leur premier rapport intégré;pour présenter de façon plus dynamique et synthétique les liens entre le financier et l' extra-financier;cette année;-1 
+117;Eurazeo PME;ont publié;leur premier rapport intégré;pour présenter de façon plus dynamique et synthétique les liens entre le financier et l' extra-financier;cette année;-1 
+117;leur premier rapport intégré;présenter;les liens entre le financier et l' extra-financier;de façon plus dynamique et synthétique;-1 
+117;leur premier rapport intégré;présenter;les liens entre le financier et l' extra-financier;de façon plus dynamique et synthétique;-1 
+117;Engie;présenter;les liens entre le financier et l' extra-financier;de façon plus dynamique et synthétique;-1 
+117;Eurazeo PME;présenter;les liens entre le financier et l' extra-financier;de façon plus dynamique et synthétique;-1 
+Kering a rendu public son premier compte de résultat environnemental consolidé , tout en mettant à disposition de la profession sa méthodologie : un moyen d' agir plus efficacement , notamment auprès de ses fournisseurs .
+118;Kering;a rendu public;son premier compte de résultat environnemental consolidé;-1
+118;Kering;en mettant;sa méthodologie;à disposition de la profession;-1
+118;premier compte de résultat environnemental;consolidé;-1
+118;sa méthodologie;:;un moyen d' agir plus efficacement , notamment auprès de ses fournisseurs;-1
+118;un moyen;agir plus efficacement;auprès de ses fournisseurs;-1
+Danone a signé un accord avec le groupe alimentaire Mars pour soutenir l' agri­culture familiale .
+119;Danone;a signé un accord avec;le groupe alimentaire Mars;pour soutenir l' agri­culture familiale;-1 
+119;Danone;soutenir;l' agri­culture familiale;-1 
+rompant avec sa discrétion , Air Liquide a chiffré ses différentes contributions à l' emploi et à la recherche dans l' hexagone .
+120;Air Liquide;rompant avec;sa discrétion;-1
+120;Air Liquide;a chiffré;ses différentes contributions;à l' emploi et à la recherche dans l' hexagone;-1
+« en matière de RSE , les PME ne sont pas en reste , constate Sylvain Lambert , de PWC .
+121;les PME;ne sont pas en reste;en matière de RSE;-1
+121;Sylvain Lambert;constate;en matière de RSE , les PME ne sont pas en reste;-1
+121;Sylvain Lambert;de;PWC;-1
+« il y a une volonté de responsabiliser l' ensemble de les acteurs de la chaîne d' approvisionnement sur les questions de corruption et de traitement social de les collaborateurs , souligne Sophie Flak , directrice RSE d' Eurazeo .
+122;Sophie Flak;souligne;il y a une volonté de responsabiliser l' ensemble de les acteurs de la chaîne d' approvisionnement sur les questions de corruption et de traitement social de les collaborateurs;-1
+122;l' ensemble de les acteurs de la chaîne d' approvisionnement;responsabiliser;sur les questions de corruption et de traitement social de les collaborateurs;-1
+122;Sophie Flak;directrice RSE d';Eurazeo;-1
+en novembre prochain , l' OCDE présentera à le G20 ses recommandations pour améliorer la transparence fiscale de les multinationales .
+123;l' OCDE;présentera;ses recommandations;pour améliorer la transparence fiscale de les multinationales;à le G20;en novembre prochain;-1
+123;l' OCDE;améliorer;la transparence fiscale de les multinationales;-1
+en Grande-Bretagne , le parlement s' est déjà prononcé dans ce sens .
+124;le parlement;est déjà prononcé;dans ce sens;en Grande-Bretagne;-1 
+certaines multinationales , notamment américaines , très critiquées pour leur stratégie d' « optimisation » fiscale , reviennent à des pratiques plus orthodoxes .
+125;certaines multinationales;très critiquées pour;leur stratégie d' « optimisation » fiscale;-1
+125;certaines multinationales;américaines;-1
+125;certaines multinationales;reviennent à;des pratiques plus orthodoxes;-1
+pour la première fois , Amazon a annoncé qu' il allait payer des impôts non seulement à le Luxembourg , mais aussi dans tous les pays européens où le groupe fait des bénéfices .
+126;Amazon;a annoncé;qu' il allait payer des impôts non seulement à le Luxembourg , mais aussi dans tous les pays européens où le groupe fait des bénéfices;pour la première fois;-1
+126;il;allait payer des impôts;non seulement à le Luxembourg;-1
+126;il;allait payer des impôts;dans tous les pays européens où le groupe fait des bénéfices;-1
+126;le groupe;fait des bénéfices;les pays européens;-1
+notre méthodologie pour la seconde édition de le classement de les entreprises de le CAC40 les plus durables , enjeux les Echos , son partenaire l' institut RSE fondé par Patrick d' Humières et un comité d' experts ( voir photo ci-contre ) ont pris en compte : - les engagements volontaires de les sociétés à travers 21 questions-clés ,,, - la performance à le regard de la consolidation de les notes obtenues auprès de les principales agences de rating ( DJSI , CDP , Sustainalytics , Ecovadis Oekom , Vigeo ) ,,, - les bonnes pratiques appréciées par le jury .
+127;les Echos;enjeux;notre méthodologie pour la seconde édition de le classement de les entreprises de le CAC40 les plus durables;-1 
+127;l' institut RSE;partenaire;son;-1 
+127;l' institut RSE;partenaire;les Echos;-1 
+127;l' institut RSE;fondé par;Patrick d' Humières;-1 
+127;l' institut RSE;fondé par;un comité d' experts;-1
+127;notre méthodologie pour la seconde édition de le classement de les entreprises de le CAC40 les plus durables;ont pris en compte;les bonnes pratiques appréciées par le jury;-1 
+127;notre méthodologie pour la seconde édition de le classement de les entreprises de le CAC40 les plus durables;ont pris en compte;la performance à le regard de la consolidation de les notes obtenues auprès de les principales agences de rating;-1 
+127;notre méthodologie pour la seconde édition de le classement de les entreprises de le CAC40 les plus durables;ont pris en compte;les engagements volontaires de les sociétés à travers 21 questions-clés;-1 
+127;les notes obtenues auprès de les principales agences de rating;consolidation;-1
+127;la consolidation de les notes;obtenues auprès de;les principales agences de rating;-1
+127;la consolidation de les notes;obtenues auprès de;DJSI;-1
+127;la consolidation de les notes;obtenues auprès de;CDP;-1
+127;la consolidation de les notes;obtenues auprès de;Sustainalytics;-1
+127;la consolidation de les notes;obtenues auprès de;Ecovadis Oekom;-1
+127;la consolidation de les notes;obtenues auprès de;Vigeo;-1
+127;agences de rating;(;DJSI;-1
+127;agences de rating;(;CDP;-1
+127;agences de rating;(;Sustainalytics;-1
+127;agences de rating;(;Ecovadis Oekom;-1
+127;agences de rating;(;Vigeo;-1
+127;les entreprises de le CAC40;plus durables;-1 
+127;les bonnes pratiques;appréciées par;le jury;-1
+127;pratiques;bonnes;-1
+127;les sociétés;engagements volontaires;-1
+pour les engagements , les entreprises devaient répondre par oui ou non et fournir des preuves accessibles publiquement .
+128;les entreprises;devaient répondre par;oui;pour les engagements;-1
+128;les entreprises;devaient répondre par;non;pour les engagements;-1
+128;les entreprises;fournir;des preuves accessibles publiquement;-1
+128;des preuves;accessibles publiquement;-1
+vérifié par Compta Durable , l' engagement a été noté sur 630 points , la performance sur 300 et les pratiques sur 70 , soit une note globale sur 1000 .
+129;l' engagement;vérifié par;Compta Durable;-1
+129;l' engagement;a été noté;sur 630 points;-1
+129;la performance;a été noté;sur 300;-1
+129;les pratiques;a été noté;sur 70;-1
+129;l' engagement a été noté sur 630 points , la performance sur 300 et les pratiques sur 70;soit;une note globale sur 1000;-1
+parmi les rares secteurs qui arrivent à résister à la forte pression boursière de le moment figure le compartiment de le luxe , à l' image d' Hermes .
+130;le compartiment de le luxe;à l' image d';Hermes;-1
+130;le compartiment de le luxe;parmi;les rares secteurs qui arrivent à résister à la forte pression boursière de le moment;-1
+130;Hermes;parmi;les rares secteurs qui arrivent à résister à la forte pression boursière de le moment;-1
+130;le compartiment de le luxe;figure;parmi les rares secteurs qui arrivent à résister à la forte pression boursière de le moment;-1
+130;Hermes;figure;parmi les rares secteurs qui arrivent à résister à la forte pression boursière de le moment;-1
+130;les rares secteurs;arrivent à résister à;la forte pression boursière de le moment;-1
+130;pression boursière de le moment;forte;-1
+130;secteurs;rares;-1
+il est vrai que les résultats de les groupes leaders en la matière sont plutôt rassurants !
+131;les résultats de les groupes leaders en la matière sont plutôt rassurants;est vrai;-1
+131;les résultats de les groupes leaders en la matière;sont plutôt rassurants;-1
+131;les groupes;leaders en;la matière;-1
+PPR a ainsi fait état de comptes semestriels de bonne facture ...
+132;PPR;a ainsi fait état;de comptes semestriels;de bonne facture;-1
+Gucci a ainsi annoncé une accélération de sa croissance sur le second trimestre , avec un retour dans le vert de les ventes à le Japon .
+133;Gucci;a ainsi annoncé;une accélération de sa croissance sur le second trimestre;-1
+133;sa croissance;accélération;sur le second trimestre;-1
+133;les ventes;retour dans;le vert;à le Japon;-1
+la société italienne poursuit l' expansion de son réseau , tout en augmentant ses investissements de communication à l' occasion de son 90ème anniversaire .
+134;la société italienne;poursuit l' expansion de;son réseau;-1
+134;la société italienne;en augmentant;ses investissements de communication;à l' occasion de son 90ème anniversaire;-1
+134;ses;investissements de;communication;-1
+la marge opérationnelle courante de Gucci s' est établie à 30 % sur le semestre et se rapproche ainsi progressivement de celle de vuitton qui est estimée à quelque 45 % ! ciblage .
+135;la marge opérationnelle courante de Gucci;est établie;à 30 %;sur le semestre;-1
+135;la marge opérationnelle courante de Gucci;rapproche ainsi progressivement de;celle de vuitton;-1
+135;celle de vuitton;est estimée à;quelque 45 %;-1
+les autres marques haut de gamme , telles Yves Saint-Laurent ou Bottega Veneta , affichent également une solide croissance ...
+136;marques haut de gamme;telles;Yves Saint-Laurent;-1
+136;marques haut de gamme;telles;Bottega Veneta;-1
+136;Bottega Veneta;affichent également;une solide croissance;-1
+136;Yves Saint-Laurent;affichent également;une solide croissance;-1
+136;marques haut de gamme;affichent également;une solide croissance;-1
+la première grande acquisition pilotée sous le ' règne ' de François-Henri Pinault a porté sur Puma .
+137;la première grande acquisition;a porté sur;Puma;-1
+137;la première grande acquisition;pilotée sous le ' règne ' de;François-Henri Pinault;-1
+la société allemande a délivré des performances mitigées depuis son entrée dans le périmètre de le groupe .
+138;la société allemande;a délivré;des performances mitigées;depuis son entrée dans le périmètre de le groupe;-1
+138;performances;mitigées;-1
+138;entrée dans le périmètre de;le groupe;-1
+138;son;entrée dans le périmètre de;le groupe;-1
+sur le semestre écoulé , les ventes de Puma sont ressorties malgré tout en hausse , mais la pression publicitaire a fait reculer la marge .
+139;les ventes de Puma;sont ressorties;en hausse;sur le semestre écoulé;-1
+139;la pression publicitaire;a fait reculer;la marge;-1
+on sait que PPR a entamé sa mue afin de sortir de le " mass Market " , pour se concentrer sur des marques fortes évoluant dans les univers de le luxe ou de le sport ...
+140;on;sait;PPR a entamé sa mue afin de sortir de le " mass Market ";-1
+140;PPR;a entamé;sa mue;afin de sortir de le " mass Market ";-1
+140;PPR;sortir de;le " mass Market ";-1
+140;PPR;concentrer sur;des marques fortes évoluant dans les univers de le luxe ou de le sport;-1
+140;des marques fortes;évoluant dans;les univers de le luxe ou de le sport;-1
+or , le bilan de PPR ne l' autorise pas à effectuer des acquisitions véritablement structurantes .
+141;le bilan de PPR;ne l' autorise pas à effectuer;des acquisitions véritablement structurantes;-1
+141;des acquisitions;véritablement structurantes;-1
+le groupe cherche ainsi des marques encore peu médiatiques mais bénéficiant d' une bonne image auprès de les connaisseurs .
+142;le groupe;cherche;des marques encore peu médiatiques;-1
+142;des marques;encore peu médiatiques;-1
+142;des marques encore peu médiatiques;bénéficiant d';une bonne image auprès de;les connaisseurs;-1
+c' est ainsi qu' il faut comprendre la reprise de volcom ...
+143;il;faut comprendre;la reprise de volcom;ainsi;-1
+143;volcom;reprise;-1
+contrairement à les autres pays développés , la France peine à engager un débat sur la séparation de les banques de dépôts et d' affaires .
+144;la France;contrairement à;les autres pays développés;-1
+144;la France;peine à engager un débat sur;la séparation de les banques de dépôts et d' affaires;-1
+à les Etats-Unis , le débat a débouché sur la règle Volcker .
+145;le débat;a débouché sur;la règle Volcker;à les Etats-Unis;-1
+en Grande-Bretagne , il est devenu un sujet majeur depuis la remise en septembre dernier de le rapport vickers .
+146;il;est devenu;un sujet majeur;depuis la remise en septembre dernier de le rapport vickers;en Grande-Bretagne;-1
+146;le rapport vickers;remise en;septembre dernier;-1
+en allemagne , la CSU ( cousine bavaroise de la CDU d' Angela Merkel ) y a trouvé un terrain d' entente avec le SPD social-démocrate .
+147;la CSU;cousine bavaroise de;la CDU d' Angela Merkel;-1
+147;la CSU;a trouvé un terrain d' entente avec;le SPD social-démocrate;en allemagne;-1
+a la fin de les années 60 , l' arrivée de le quartz dans la mécanique horlogère a permis d' augmenter la production de montres .
+148;l' arrivée de le quartz dans la mécanique horlogère;a permis d' augmenter;la production de montres;a la fin de les années 60;-1
+148;le quartz;arrivée;dans la mécanique horlogère;-1
+de nombreuses marques de mode , comme Calvin Klein , Armani , Versace , Burberry , Ferragamo , Valentino , Hilfiger , ou Nautica lancent des collections de montres saisonnières et signent des licences avec des groupes horlogers tels que Swatch , Fossil , Movado ou Timex .
+149;nombreuses marques de mode;comme;Calvin Klein;-1
+149;nombreuses marques de mode;comme;Armani;-1
+149;nombreuses marques de mode;comme;Versace;-1
+149;nombreuses marques de mode;comme;Burberry;-1
+149;nombreuses marques de mode;comme;Ferragamo;-1
+149;nombreuses marques de mode;comme;Valentino;-1
+149;nombreuses marques de mode;comme;Hilfiger;-1
+149;nombreuses marques de mode;comme;Nautica;-1
+149;nombreuses marques de mode;lancent;des collections de montres saisonnières;-1
+149;Calvin Klein;lancent;des collections de montres saisonnières;-1
+149;Armani;lancent;des collections de montres saisonnières;-1
+149;Versace;lancent;des collections de montres saisonnières;-1
+149;Burberry;lancent;des collections de montres saisonnières;-1
+149;Ferragamo;lancent;des collections de montres saisonnières;-1
+149;Valentino;lancent;des collections de montres saisonnières;-1
+149;Hilfiger;lancent;des collections de montres saisonnières;-1
+149;Nautica;lancent;des collections de montres saisonnières;-1
+149;nombreuses marques de mode;signent des licences avec;des groupes horlogers;-1
+149;nombreuses marques de mode;signent des licences avec;Swatch;-1
+149;nombreuses marques de mode;signent des licences avec;Swatch;-1
+149;nombreuses marques de mode;signent des licences avec;Movado;-1
+149;nombreuses marques de mode;signent des licences avec;Timex;-1
+149;Calvin Klein;signent des licences avec;des groupes horlogers;-1
+149;Calvin Klein;signent des licences avec;Swatch;-1
+149;Calvin Klein;signent des licences avec;Swatch;-1
+149;Calvin Klein;signent des licences avec;Movado;-1
+149;Calvin Klein;signent des licences avec;Timex;-1
+149;Armani;signent des licences avec;des groupes horlogers;-1
+149;Armani;signent des licences avec;Swatch;-1
+149;Armani;signent des licences avec;Swatch;-1
+149;Armani;signent des licences avec;Movado;-1
+149;Armani;signent des licences avec;Timex;-1
+149;Versace;signent des licences avec;des groupes horlogers;-1
+149;Versace;signent des licences avec;Swatch;-1
+149;Versace;signent des licences avec;Swatch;-1
+149;Versace;signent des licences avec;Movado;-1
+149;Versace;signent des licences avec;Timex;-1
+149;Burberry;signent des licences avec;des groupes horlogers;-1
+149;Burberry;signent des licences avec;Swatch;-1
+149;Burberry;signent des licences avec;Swatch;-1
+149;Burberry;signent des licences avec;Movado;-1
+149;Burberry;signent des licences avec;Timex;-1
+149;Ferragamo;signent des licences avec;des groupes horlogers;-1
+149;Ferragamo;signent des licences avec;Swatch;-1
+149;Ferragamo;signent des licences avec;Swatch;-1
+149;Ferragamo;signent des licences avec;Movado;-1
+149;Ferragamo;signent des licences avec;Timex;-1
+149;Valentino;signent des licences avec;des groupes horlogers;-1
+149;Valentino;signent des licences avec;Swatch;-1
+149;Valentino;signent des licences avec;Swatch;-1
+149;Valentino;signent des licences avec;Movado;-1
+149;Valentino;signent des licences avec;Timex;-1
+149;Hilfiger;signent des licences avec;des groupes horlogers;-1
+149;Hilfiger;signent des licences avec;Swatch;-1
+149;Hilfiger;signent des licences avec;Swatch;-1
+149;Hilfiger;signent des licences avec;Movado;-1
+149;Hilfiger;signent des licences avec;Timex;-1
+149;Nautica;signent des licences avec;des groupes horlogers;-1
+149;Nautica;signent des licences avec;Swatch;-1
+149;Nautica;signent des licences avec;Swatch;-1
+149;Nautica;signent des licences avec;Movado;-1
+149;Nautica;signent des licences avec;Timex;-1
+149;des groupes horlogers;tels que;Swatch;-1
+149;des groupes horlogers;tels que;Fossil;-1
+149;des groupes horlogers;tels que;Movado;-1
+149;des groupes horlogers;tels que;Timex;-1
+parmi les précurseurs , saluons Severin Wunderman , qui crée Gucci Timepieces dès 1972 avant de reprendre Corum .
+150;Severin Wunderman;parmi les précurseurs;-1
+150;Severin Wunderman;crée;Gucci Timepieces;dès 1972;-1
+150;Severin Wunderman;reprendre;Corum;-1
+apparues en 1975 , les montres Dior développent des pièces plus proches de la haute horlogerie dès le rachat de Zenith par LVMH en 1999 .
+151;les montres Dior;apparues;en 1975;-1
+151;les montres Dior;développent;des pièces plus proches de la haute horlogerie;dès le rachat de Zenith par LVMH en 1999;-1
+151;des pièces;plus proches de;la haute horlogerie;-1
+151;LVMH;rachat de;Zenith;en 1999;-1
+en 1998 , Chanel entre à le capital de Bell & Ross et en 2006 , Hermès qui collaborait déjà avec Audemars Piguet ou Vacheron Constantin , s' invite à le capital de Vaucher .
+152;Chanel;entre à le capital de;Bell & Ross;en 1998;-1 
+152;Hermès;collaborait déjà avec;Audemars Piguet;-1 
+152;Hermès;collaborait déjà avec;Vacheron Constantin;-1 
+152;Hermès;invite à le capital de;Vaucher;en 2006;-1 
+entré en horlogerie avec le groupe Richemont en 2009 , Ralph Lauren déclare cette année sa passion automobile avec la sporting .
+153;Ralph Lauren;entré en horlogerie;avec le groupe Richemont;en 2009;-1 
+153;Ralph Lauren;déclare;sa passion automobile avec la sporting;cette année;-1 
+Zegna fête son centenaire et sort un premier garde-temps , gage de son partenariat avec le groupe Sowind pour l' élaboration de les collections à venir .
+154;Zegna;fête;son centenaire;-1
+154;Zegna;sort;un premier garde-temps;-1
+154;un premier garde-temps;gage de;son partenariat avec le groupe Sowind;-1
+154;son;partenariat avec;le groupe Sowind;pour l' élaboration de les collections à venir;-1
+154;Zegna;partenariat avec;le groupe Sowind;pour l' élaboration de les collections à venir;-1
+154;Zegna;élaboration de;les collections à venir;-1
+154;les collections;à venir;-1
+d' autres mettent en avant leur sponsoring sportif , comme Boss avec le navigateur Alex Thomson , qui prête son image à la Regatta .
+155;d' autres;mettent en avant;leur sponsoring sportif;-1
+155;Boss;mettent en avant;leur sponsoring sportif;avec le navigateur Alex Thomson;-1
+155;d' autres;comme;Boss;-1
+155;le navigateur Alex Thomson;prête son image à;la Regatta;-1
+155;Alex Thomson;navigateur;-1
+sa carrière dans l' industrie a démarré chez Pernod Ricard , où , depuis 1993 , il a gravi les échelons jusqu' à devenir directeur adjoint en charge de les finances , des systèmes d' information et de la direction industrielle .
+156;sa carrière dans l' industrie;a démarré;chez Pernod Ricard;-1
+156;sa;carrière dans;l' industrie;-1
+156;il;carrière dans;l' industrie;-1
+156;il;a gravi;les échelons;jusqu' à devenir directeur adjoint en charge de les finances , des systèmes d' information et de la direction industrielle;-1
+156;il;devenir;directeur adjoint en charge de les finances , des systèmes d' information et de la direction industrielle;-1
+156;directeur adjoint;en charge;de les finances;-1
+156;directeur adjoint;en charge;des systèmes d' information;-1
+156;directeur adjoint;en charge;de la direction industrielle;-1
+il a été appelé par Jean-Pascal Tricoire en juillet 2009 pour diriger les finances de Schneider Electric .
+157;il;a été appelé;par Jean-Pascal Tricoire;en juillet 2009;pour diriger les finances de Schneider Electric;-1
+157;il;diriger les finances de;Schneider Electric;-1
+Leo Burnett-France ( Publicis Groupe ) finalise une acquisition dans le domaine de le numérique .
+158;Leo Burnett-France;(;Publicis Groupe;-1
+158;Leo Burnett-France;finalise une acquisition dans;le domaine de le numérique;-1
+cette opération fera passer ses revenus de 22 à 27 millions d' euros .
+159;cette opération;fera passer;ses revenus;de 22 à 27 millions d' euros;-1
+par ailleurs , l' agence vient de se séparer de son directeur de la création , Guillaume Chifflot .
+160;l' agence;vient de se séparer de;son directeur de la création;-1
+160;l' agence;vient de se séparer de;Guillaume Chifflot;-1
+160;Guillaume Chifflot;directeur de la création;son;-1
+en ce jour d' ascension , non chômé sur la plupart de les marchés , la bourse de Paris poursuit son recul alors que Wall Street , en forte baisse de plus de 2 % , a connu hier sa pire séance depuis août dernier .
+161;jour d' ascension;non chômé sur;la plupart de les marchés;-1
+161;la bourse de Paris;poursuit son recul;-1
+161;Wall Street;en forte baisse de;plus de 2 %;-1
+161;Wall Street;a connu;sa pire séance;depuis août dernier;hier;-1
+aux mauvaises statistiques publiées outre-atlantique , venues renforcer les inquiétudes de les investisseurs sur un essoufflement de la première économie mondiale , s' est greffée une nouvelle dégradation de la note de la grèce .
+162;mauvaises statistiques;publiées;outre-atlantique;-1
+162;mauvaises statistiques publiées outre-atlantique;venues renforcer;les inquiétudes de les investisseurs sur un essoufflement de la première économie mondiale;-1
+162;les investisseurs;inquiétudes;sur un essoufflement de la première économie mondiale;-1
+162;la première économie mondiale;essoufflement;-1
+162;une nouvelle dégradation de la note de la grèce;est greffée;aux mauvaises statistiques publiées outre-atlantique;-1
+162;la note de la grèce;dégradation;-1
+arguant d' une probable restructuration de la dette de le pays , rendue nécessaire par une « probabilité de défaut d' à le moins 50 % » , Moody's a ramené sa note de B1 à celle , trois crans en-dessous , de CAA1 .
+163;Moody's;arguant d';une probable restructuration de la dette de le pays;-1
+163;Moody's;a ramené;sa note de B1;à celle , trois crans en-dessous;-1
+163;Moody's;a ramené;sa note de B1;CAA1;-1
+163;une probable restructuration de la dette de le pays;rendue nécessaire par;une « probabilité de défaut d' à le moins 50 % »;-1
+163;la dette de le pays;restructuration;-1
+ce niveau de notation relègue les emprunts grecs à un rang extrêmement spéculatif , rendant encore plus coûteux le refinancement de le pays sur les marchés financiers .
+164;ce niveau de notation;relègue;les emprunts grecs;à un rang extrêmement spéculatif;-1
+164;ce niveau de notation;rendant encore plus coûteux;le refinancement de le pays sur les marchés financiers;-1
+164;le pays;refinancement;sur les marchés financiers;-1
+164;un rang;extrêmement spéculatif;-1
+dans une note parue ce matin , les économistes de CM-CIC Securities précisent que « la formule retenue semblerait consister à convaincre les créanciers privés de renouveler leurs engagements auprès de la grèce lorsque les financements accordés ces dernières années arriveront à échéance » .
+165;une note;parue;ce matin;-1
+165;les économistes de CM-CIC Securities;précisent;la formule retenue semblerait consister à convaincre les créanciers privés de renouveler leurs engagements auprès de la grèce lorsque les financements accordés ces dernières années arriveront à échéance;dans une note parue ce matin;-1
+165;la formule retenue;semblerait consister à convaincre;les créanciers privés;de renouveler leurs engagements auprès de la grèce;-1
+165;la formule;retenue;-1
+165;les créanciers privés;renouveler;leurs engagements;auprès de la grèce;-1
+165;les créanciers;privés;-1
+165;leurs;engagements auprès de;la grèce;-1
+165;les financements accordés ces dernières années;arriveront;à échéance;-1
+165;les financements;accordés;ces dernières années;-1
+et de rappeler qu' « olli rehn ( commissaire européen à les affaires économiques et monétaires ) évoque aussi qu' un rescheduling de les dettes sur une base volontaire est étudié » .
+166;olli rehn;commissaire européen à;les affaires économiques et monétaires;-1
+166;olli rehn;évoque aussi qu';un rescheduling de les dettes sur une base volontaire est étudié;-1
+166;un rescheduling de les dettes sur une base volontaire;est étudié;-1
+166;les dettes;rescheduling;sur une base volontaire;-1
+plus tôt ce matin , la bourse de Tokyo a donné le ton ( -1,69 % ) .
+167;la bourse de Tokyo;a donné;le ton;-1
+167;le ton;(;-1,69 %;-1
+le pays fait également face à une crise politique .
+168;le pays;fait également face à;une crise politique;-1
+l' impopulaire premier ministre Naoto Kan a annoncé qu' il quitterait ses fonctions une fois que les autorités auraient repris le contrôle de la crise nucléaire à la centrale de fukushima .
+169;Naoto Kan;impopulaire;-1
+169;Naoto Kan;premier ministre;-1
+169;Naoto Kan;a annoncé qu';il quitterait ses fonctions une fois que les autorités auraient repris le contrôle de la crise nucléaire à la centrale de fukushima;-1
+169;il;quitterait;ses fonctions;-1
+169;les autorités;auraient repris le contrôle;de la crise nucléaire à la centrale de fukushima;-1
+169;la crise nucléaire;à;la centrale de fukushima;-1
+la défiance de les opérateurs s' illustre par un nouveau plus haut touché hier soir pour le franc suisse ( 1,2319 euro ) et un engouement pour l' or .
+170;la défiance de les opérateurs;illustre par;un nouveau plus haut touché hier soir pour le franc suisse;-1
+170;la défiance de les opérateurs;illustre par;engouement pour l' or;-1
+170;le franc suisse;haut touché hier soir;-1
+170;l' or;engouement;-1
+toutes les composantes de le CAC40 sont dans le rouge .
+171;les composantes de le CAC40;sont dans;le rouge;-1
+seules les valeurs dites défensives tentent de surnager .
+172;les valeurs dites défensives;tentent de surnager;-1
+172;les valeurs;dites;défensives;-1
+faute de publications d' entreprises , l' actualité sera dominée par les trois statistiques américaines de le jour , à savoir , la deuxième estimation de la productivité de le premier trimestre ( attendue en hausse de 1,7 % ) et les inscriptions hebdomadaires à le chômage ( espérées en repli de 9.000 à 415.000 ) à 14h30 , puis les commandes à l' industrie d' avril ( estimées en baisse de 1 % ) à 16h00 .
+173;l' actualité;sera dominée par;les trois statistiques américaines de le jour;-1
+173;l' actualité;sera dominée par;la deuxième estimation de la productivité de le premier trimestre;-1
+173;l' actualité;sera dominée par;les inscriptions hebdomadaires à le chômage;-1
+173;l' actualité;sera dominée par;les commandes à l' industrie d' avril;-1
+173;la deuxième estimation de la productivité de le premier trimestre;attendue en hausse de;1,7 %;-1
+173;la productivité de le premier trimestre;estimation;en hausse de 1,7 %;-1
+173;les inscriptions hebdomadaires à le chômage;espérées en repli de;9.000 à 415.000;à 14h30;-1
+173;les commandes à l' industrie d' avril;estimées en baisse;de 1 %;à 16h00;-1
+a 11 h 05 , le CAC40 recule de 1,26 % à 3914,73 points , dans un volume d' affaires de 630 millions d' euros , après un plus bas à 3.906,96 .
+174;le CAC40;recule de;1,26 %;à 3914,73 points;a 11 h 05;dans un volume d' affaires de 630 millions d' euros;-1
+174;le CAC40;dans un volume d' affaires de;630 millions d' euros;-1
+174;le CAC40;plus bas à;3.906,96;-1
+les investisseurs tentent de préserver le seuil de les 3.900 points .
+175;les investisseurs;tentent de préserver;le seuil de les 3.900 points;-1
+ailleurs en europe , le DAX se replie de 1,19 % à Francfort et le Footsie perd 0,95 % à Londres .
+176;le DAX;replie de;1,19 %;à Francfort;-1
+176;le Footsie;perd;0,95 %;à Londres;-1
+de le côté de les matières premières , le baril de brut de qualité Wti lâche 48 cents à 99,81 dollars alors que l' euro est quasi stable face à le billet vert ( 1,4410 dollar ) .
+177;le baril de brut de qualité Wti;lâche;48 cents;à 99,81 dollars;-1
+177;l' euro;est quasi stable face à;le billet vert;-1
+177;le billet vert;(;1,4410 dollar;-1
+les inquiétudes sur l' économie pèse sur les cours de le pétrole , également affectés par des rumeurs de presse .
+178;les inquiétudes sur l' économie;pèse sur;les cours de le pétrole;-1
+178;les cours de le pétrole;affectés par;des rumeurs de presse;-1
+selon la revue spécialisée Energy Intelligence , l' OPEP pourrait relever sa production de 1,5 million de barils par jour .
+179;l' OPEP pourrait relever sa production de 1,5 million de barils par jour;selon;la revue spécialisée Energy Intelligence;-1
+179;Energy Intelligence;revue spécialisée;-1
+179;l' OPEP;pourrait relever;sa production;de 1,5 million de barils par jour;-1
+179;sa;production;de 1,5 million de barils par jour;-1
+les financières sont parmi les plus fortes contributions à la baisse .
+180;les financières;sont parmi;les plus fortes contributions à la baisse;-1
+180;les plus fortes contributions;à la baisse;-1
+Crédit Agricole lâche 1,14 % à 10,41 euros , BNP PARIBAS abandonne 1,25 % à 53,14 euros et Société Générale 0,93 % à 40,15 euros .
+181;Crédit Agricole;lâche;1,14 %;à 10,41 euros;-1
+181;BNP PARIBAS;abandonne;1,25 %;à 53,14 euros;-1
+181;Société Générale;0,93 %;à 40,15 euros;-1
+AXA perd 1,83 % à 14,78 euros .
+182;AXA;perd;1,83 %;à 14,78 euros;-1
+le secteur automobile souffre également , et en particulier Michelin ( -1,83 % à 63,15 euros ) et Renault ( -1,68 % à 38,43 euros ) , après les mauvais chiffres de vente enregistrés en mai à les Etats-Unis ( -3,7 % sur un an et - 8,3 % par rapport à avril , selon le cabinet Autodata ) .
+183;le secteur automobile;souffre également;-1
+183;Michelin;souffre également;-1
+183;Renault;souffre également;-1
+183;Michelin;(;-1,83 %;à 63,15 euros;-1
+183;Renault;(;-1,68 % à 38,43 euros;-1
+183;les mauvais chiffres de vente;enregistrés;en mai;à les Etats-Unis;-1
+183;les mauvais chiffres de vente;(;-3,7 % sur un an;-1
+183;les mauvais chiffres de vente;(;- 8,3 % par rapport à avril;-1
+183;le secteur automobile souffre également , et en particulier Michelin ( -1,83 % à 63,15 euros ) et Renault ( -1,68 % à 38,43 euros ) , après les mauvais chiffres de vente enregistrés en mai à les Etats-Unis ( -3,7 % sur un an et - 8,3 % par rapport à avril;selon;le cabinet Autodata;-1
+183;chiffres de vente enregistrés en mai à les Etats-Unis;mauvais;-1
+183;Autodata;cabinet;-1
+a Tokyo , Nissan , membre de l' alliance , a chuté de plus de 3 % .
+184;Nissan;membre de;l' alliance;-1
+184;Nissan;a chuté de;plus de 3 %;a Tokyo;-1
+à le niveau européen , le secteur automobile est lanterne rouge ( - 2,04 % pour le DJ Stoxx associé ) .
+185;le secteur automobile;est;lanterne rouge;à le niveau européen;-1
+185;lanterne rouge;(;- 2,04 % pour le DJ Stoxx associé;-1
+185;- 2,04 %;pour;le DJ Stoxx associé;-1
+Peugeot recule de 1,30 % à 27,70 euros .
+186;Peugeot;recule;de 1,30 %;à 27,70 euro;-1
+les grandes cycliques sont également dans le bas de le tableau , Lafarge et Saint Gobain perdant près de 1,50 % .
+186;les grandes cycliques;sont également dans;le bas de le tableau;-1
+186;Lafarge;perdant;près de 1,50 %;-1
+186;Saint Gobain;perdant;près de 1,50 %;-1
+Schneider Electric baisse de 1,59 % à 111,40 euros .
+187;Schneider Electric;baisse;de 1,59 %;à 111,40 euros;-1
+sur le compartiment technologique , parmi les plus risqués de la cote , Alcatel-Lucent chute de 3,21 % à 3,828 euros , Stmicroelectronics recule de 2,40 % à 7,512 euros et Capgemini perd 1,43 % à 39,26 euros .
+188;Alcatel-Lucent;parmi;les plus risqués de la cote;sur le compartiment technologique;-1
+188;Alcatel-Lucent;chute;de 3,21 %;à 3,828 euros;-1
+188;Alcatel-Lucent;recule;de 2,40 %;à 7,512 euros;-1
+188;Capgemini;perd;1,43 %;à 39,26 euros;-1
+Technip lâche 1,77 % à 72,86 euros et Total abandonne 1,04 % à 39,17 euros dans le sillage de le passage sous les 100 dollars de le baril .
+189;Technip;lâche;1,77 %;à 72,86 euros;dans le sillage de le passage sous les 100 dollars de le baril;-1
+189;Total;abandonne;1,04 %;à 39,17 euros;dans le sillage de le passage sous les 100 dollars de le baril;-1
+189;le baril;passage sous;les 100 dollars;-1
+les valeurs dites défensives tentent de résister à la vague vendeuse .
+190;les valeurs dites défensives;tentent de résister à;la vague vendeuse;-1
+190;les valeurs;dites;défensives;-1
+190;la vague;vendeuse;-1
+Suez Environnement glisse « seulement » de 0,62 % à 14,38 euros et Sanofi de 0,59 % à 53,69 euros .
+191;Suez Environnement;glisse « seulement »;de 0,62 %;à 14,38 euros;-1
+191;Sanofi;glisse « seulement »;de 0,59 %;à 53,69 euros;-1
+hors CAC40 , Ingenico se replie de 0,56 % à 32,835 euros .
+192;Ingenico;replie;de 0,56 %;à 32,835 euros;-1
+192;Ingenico;hors;CAC40;-1
+Goldman Sachs a retiré la valeur de sa liste de les favorites européennes , tout en restant à l' achat .
+193;Goldman Sachs;a retiré;la valeur de sa liste;de les favorites européennes;-1
+193;Goldman Sachs;restant à;l' achat;-1
+la bourse de Paris a perdu 16,95 % en 2011 , avec de grandes disparités à le sein de son indice phare le CAC40 .
+194;la bourse de Paris;a perdu;16,95 %;en 2011;-1
+194;de grandes disparités;à le sein de;son indice phare le CAC40;-1
+194;le CAC40;indice phare;son;-1
+194;le CAC40;indice phare;la bourse de Paris;-1
+le secteur bancaire a été particulièrement malmené sur les douze derniers mois , deux grands établissements s' inscrivant parmi les plus fortes baisses .
+195;le secteur bancaire;a été particulièrement malmené sur;les douze derniers mois;-1
+195;deux grands établissements;inscrivant parmi;les plus fortes baisses;-1
+195;établissements;grands;-1
+195;baisses;fortes;-1
+les plus fortes hausses de le CAC40 : - Eads ( aéronautique ) : +38,47 % à 24,15 euros - Sanofi( pharmacie ) : +18,60 % à 56,75 euros - Essilor ( optique ) : +13,23 % à 54,55 euros - Technip ( para-pétrolier ) : +5,09 % à 72,62 euros - Danone : ( alimentation ) : +3,30 % à 48,57 euros . 
+196;les plus fortes hausses de le CAC40;:;Eads;-1
+196;les plus fortes hausses de le CAC40;:;Sanofi;-1
+196;les plus fortes hausses de le CAC40;:;Essilor;-1
+196;les plus fortes hausses de le CAC40;:;Technip;-1
+196;les plus fortes hausses de le CAC40;:;Danone;-1
+196;Eads;(;aéronautique;10
+196;Sanofi;(;pharmacie;21
+196;Essilor;(;optique;32
+196;Technip;(;para-pétrolier;43
+196;Danone;(;alimentation;55
+196;Eads;:;+38,47 %;à 24,15 euros;-1
+196;Sanofi;:;+18,60 %;à 56,75 euros;-1
+196;Essilor;:;+13,23 %;à 54,55 euros;-1
+196;Technip;:;+5,09 %;à 72,62 euros;-1
+196;Danone;:;+3,30 %;à 48,57 euros;-1
+les cinq plus fortes baisses : - Veolia Eenvironnement ( services à les collectivités ) : -61,28 % à 8,47 euros - Peugeot ( automobile ) : -57,37 % à 12,11 euros - Societe Generale ( banque ) : -57,22 % à 17,20 euros - Credit Agricole ( banque ) : -54,12 % à 4,36 euros - Alcatel-Lucent ( technologie ) : -44,63 % à 1,21 euro .
+197;les cinq plus fortes baisses;:;Veolia Eenvironnement ;-1
+197;les cinq plus fortes baisses;:;Peugeot;-1
+197;les cinq plus fortes baisses;:;Societe Generale;-1
+197;les cinq plus fortes baisses;:;Credit Agricole;-1
+197;les cinq plus fortes baisses;:;Alcatel-Lucent;-1
+197;Veolia Eenvironnement;(;services à les collectivités;-1
+197;Peugeot;(;automobile;-1
+197;Societe Generale;(;banque;-1
+197;Credit Agricole;(;banque;-1
+197;Alcatel-Lucent;(;technologie;-1
+197;Veolia Eenvironnement;:;-61,28 %;à 8,47 euros;-1
+197;Peugeot;:;-57,37 %;à 12,11 euros;-1
+197;Societe Generale;:;-57,22 %;à 17,20 euros;-1
+197;Credit Agricole;:;-54,12 %;à 4,36 euros;-1
+197;Alcatel-Lucent;:;-44,63 %;à 1,21 euro;-1
+après les 8 % de perdus dans la foulée de le vote favorable à le brexit vendredi outre-manche , la tendance est restée déprimée ce lundi , en repli de 2,97 % sur le CAC40 à 3.985 pts dans un marché encore actif .
+198;les 8 % de perdus;dans la foulée de;le vote favorable à le brexit vendredi outre-manche;-1
+198;le vote;favorable à;le brexit;vendredi;outre-manche;-1
+198;la tendance;est restée déprimée;ce lundi;-1
+198;la tendance;repli;de 2,97 %;sur le CAC40;à 3.985 pts;dans un marché encore actif;-1
+198;un marché encore;actif;-1
+vendredi , pas moins de 11,5 milliards d' euros avaient été échangés sur les valeurs de l' indice parisien .
+199;11,5 milliards d' euros;avaient été échangés;sur les valeurs de l' indice parisien;vendredi;-1
+ce soir à partir de 19 h 30 , Mario Draghi et Mark Carney s' exprimeront lors d' une conférence prévue à le portugal , qui sera suivie de très près par les investisseurs en quête de branches à lesquelles se raccrocher après le brexit ...
+200;Mario Draghi;exprimeront;lors d' une conférence prévue à le portugal;ce soir à partir de 19 h 30;-1
+200;Mark Carney;exprimeront;lors d' une conférence prévue à le portugal;ce soir à partir de 19 h 30;-1
+200;une conférence;prévue à;le portugal;-1
+200;une conférence;sera suivie de très près;par les investisseurs;-1
+200;les investisseurs;en quête;de branches à lesquelles se raccrocher;-1
+200;les investisseurs;raccrocher;branches;après le brexit;-1
+Janet Yellen , présidente de la FED , n' interviendra finalement pas lors de ce forum de la BCE consacré à les banques centrales .
+201;Janet Yellen;présidente de;la FED;-1
+201;Janet Yellen;présidente de;n' interviendra finalement pas;lors de ce forum de la BCE;-1
+201;ce forum de la BCE;consacré à;les banques centrales;-1
+le gouverneur de la banque d' angleterre , Mark Carney , s' était précédemment retiré de le sommet , consécutivement à le vote de le brexit ...
+202;Mark Carney;gouverneur de;la banque d' angleterre;-1
+202;Mark Carney;était précédemment retiré de;le sommet;consécutivement à le vote de le brexit;-1
+mardi et mercredi , un sommet européen à Bruxelles , à lequel participeront notamment David Cameron et George Osborne , permettra d' y voir un peu plus clair sur le timing de sortie britannique ...
+203;un sommet européen;à;Bruxelles;-1
+203;David Cameron;participeront;un sommet européen à Bruxelles;-1
+203;George Osborne;participeront;un sommet européen à Bruxelles;-1
+203;un sommet européen à Bruxelles;permettra d';y voir un peu plus clair sur le timing de sortie britannique;-1
+Wall Street reste aussi orienté en forte baisse ce lundi , après la purge de vendredi consécutive à le ' brexit ' .
+204;Wall Street;reste aussi orienté;en forte baisse;ce lundi;-1
+204;Wall Street;en forte baisse;ce lundi;-1
+204;la purge de vendredi;consécutive à;le ' brexit ';-1
+la fébrilité se confirme , les opérateurs peinant à mesurer l' ampleur de les conséquences , suite à le vote favorable à une sortie de le Royaume-Uni de l' union européenne ...
+205;la fébrilité;confirme;-1
+205;les opérateurs;peinant à mesurer;l' ampleur de les conséquences;-1
+205;le vote;favorable à une sortie de;le Royaume-Uni;de l' union européenne;-1
+205;le Royaume-Uni;sortie;de l' union européenne;-1
+le DJIA abandonne actuellement 1,83 % à 17.083 pts , alors que le Nasdaq perd 2,59 % à 4.586 pts .
+206;le DJIA;abandonne actuellement;1,83 %;à 17.083 pts;-1
+206;le Nasdaq;perd;2,59 %;à 4.586 pts;-1
+le S&P500 fléchit de 2,15 % à 1.993 pts .
+207;le S&P500;fléchit;de 2,15;à 1.993 pts;-1
+l' indice Markit PMI ( flash ) de les services américains pour le mois de juin 2016 est ressorti à 51,3 , pratiquement stable par rapport à son niveau de le mois de mai 2016 .
+208;l' indice Markit PMI;est ressorti;à 51,3;pour le mois de juin 2016;-1
+208;l' indice Markit PMI;(;flash;-1
+208;l' indice Markit PMI;pratiquement stable par rapport à;son niveau de le mois de mai 2016;-1
+le consensus de les économistes de la place était un peu plus ambitieux , à 52 .
+209;le consensus de les économistes de la place;était;un peu plus ambitieux;-1
+209;le consensus de les économistes de la place;était;à 52;-1
+l' indicateur reste logé sur la barre de les 50 , ce qui traduit une expansion de l' activité .
+210;l' indicateur;reste logé sur;la barre de les 50;-1
+l' indice d' activité manufacturière régionale générale de la FED de Dallas pour le mois de juin 2016 est ressorti négatif à -18,3 , contre -20,8 un mois auparavant .
+211;l' indice d' activité manufacturière régionale générale de la FED de Dallas;est ressorti négatif à;-18,3;pour le mois de juin 2016;-1
+211;l' indice d' activité manufacturière régionale générale de la FED de Dallas;est ressorti négatif à;-20,8;un mois auparavant;-1
+un indice négatif reflète un déclin de l' activité .
+212;un indice négatif;reflète;un déclin de l' activité;-1
+212;l' activité;déclin;-1
+la parité euro / dollar se stabilise à 1,10 , mais la livre est encore sous pression à 1,32 .
+213;la parité euro / dollar;stabilise;à 1,10;-1
+213;la livre;est encore sous pression;à 1,32;-1
+le baril de Brent se négocie aussi en recul à 47,25 $ .
+214;le baril de Brent;négocie aussi en recul;à 47,25 $;-1
+214;le baril de Brent;en recul;à 47,25 $;-1
+Nicox : +5 % avec Cegedim ( +3 % ) .
+215;Nicox;:;+5 %;-1
+215;Cegedim;(;+3 %;-1
+Stef : +2 % suivi de Affine , Vetoquinol .
+215;Stef;:;+2 %;-1
+215;Stef;suivi de;Affine;-1
+215;Stef;suivi de;Vetoquinol;-1
+Sanofi : +1,5 % .
+215;Sanofi;:;+1,5 %;-1
+le laboratoire et Boehringer Ingelheim ont trouvé un accord définitif après avoir annoncé en décembre 2015 négocier un échange entre l' activité santé animale de le français ( Merial ) et l' activité santé grand public de le groupe allemand .
+216;le laboratoire;ont trouvé un accord définitif;-1
+216;Boehringer Ingelheim;ont trouvé un accord définitif;-1
+216;le laboratoire;avoir annoncé;négocier un échange entre l' activité santé animale de le français ( Merial ) et l' activité santé grand public de le groupe allemand;en décembre 2015;-1
+216;Boehringer Ingelheim;avoir annoncé;négocier un échange entre l' activité santé animale de le français ( Merial ) et l' activité santé grand public de le groupe allemand;en décembre 2015;-1
+216;le laboratoire;négocier un échange entre;l' activité santé animale de le français ( Merial );et l' activité santé grand public de le groupe allemand;en décembre 2015;-1
+216;Boehringer Ingelheim;négocier un échange entre;l' activité santé animale de le français ( Merial );et l' activité santé grand public de le groupe allemand;en décembre 2015;-1
+216;l' activité santé animale de le français;(;Merial;-1
+la transaction devrait être finalisée en fin d' année , après le feu vert espéré de plusieurs autorités de la concurrence .
+217;la transaction;devrait être finalisée;en fin d' année;-1
+217;le feu vert;espéré de;plusieurs autorités de la concurrence;-1
+l' activité santé grand public de Boehringer Ingelheim ( hors chine ) est valorisée à 6,7 milliards d' euros et Merial à 11,4 mdse , en conséquence de quoi l' allemand versera à Sanofi une soulte brute de 4,7 mdse , correspondant à l' écart de valorisation entre les deux activités .
+218;l' activité santé grand public de Boehringer Ingelheim ( hors chine );est valorisée;à 6,7 milliards d' euros;-1
+218;Merial;est valorisée;à 11,4 mdse;-1
+218;l' allemand;versera;à Sanofi;une soulte brute de 4,7 mdse;-1
+218;4,7 mdse;correspondant à;l' écart de valorisation entre les deux activités;-1
+Eurotunel : rechute de 17 % .
+219;Eurotunel;rechute;de 17 %;-1
+le titre reste évidemment pénalisé par le brexit .
+220;le titre;reste évidemment pénalisé par;le brexit;-1
+vendredi le groupe avait toutefois réitéré ses objectifs financiers en dépit de la sortie de le Royaume-Uni de l' UE .
+221;le groupe;avait toutefois réitéré;ses objectifs financiers;en dépit de la sortie de le Royaume-Uni de l' UE;vendredi;-1
+221;le Royaume-Uni;sortie;de l' UE;-1
+TF1 : 11 % avec Nexans , JC Decaux et AXA ( -10 % ) .
+222;TF1;:;11 %;-1
+222;AXA;(;-10 %;-1
+222;Nexans;(;-10 %;-1
+222;JC Decaux;(;-10 %;-1
+Peugeot : -9 % avec Renault ( -6 % ) dans un secteur automobile qui reste l' un de les plus touché par le brexit avec les banques .
+223;Peugeot;:;-9 %;-1
+223;Renault;(;-6 %;-1
+223;un secteur automobile;reste;l' un de les plus touché par le brexit avec les banques;-1
+223;un secteur automobile;touché par;le brexit;-1
+223;les banques;touché par;le brexit;-1
+Société Générale : -8 % avec BNP PARIBAS ( -6 % ) et Crédit Agricole ( -5 % ) .
+224;Société Générale;:;-8 %;-1
+224;BNP PARIBAS;(;-6 %;8
+224;Crédit Agricole;(;-5 %;15
+Accorhotels : -9 % avec Wendel , Cgg , Vallourec , Valeo , Vicat , Capgemini .
+225;Accorhotels;:;-9 %;-1
+225;Wendel;:;-9 %;-1
+225;Cgg;:;-9 %;-1
+225;Vallourec;:;-9 %;-1
+225;Valeo;:;-9 %;-1
+225;Vicat;:;-9 %;-1
+225;Capgemini;:;-9 %;-1
+Atos : -6 % en compagnie de Air France Klm , Lafarge Holcim .
+226;Atos;:;-6 %;-1
+226;Air France Klm;:;-6 %;-1
+226;Lafarge Holcim;:;-6 %;-1
+Eutelsat : -6 % .
+227;Eutelsat;:;-6 %;-1
+le groupe avertit à nouveau sur ses résultats .
+228;le groupe;avertit à nouveau sur;ses résultats;-1
+confronté à le ralentissement de ses activités traditionnelles dans le secteur de les services fixes par satellite , à une conjoncture économique dégradée dans des zones comme la Russie ou l' amérique latine , et à une féroce concurrence dans les services de données où le groupe anticipe la poursuite de la pression les prix , l' opérateur satellites revoit ses objectifs financiers 2016-2017 à la baisse .
+229;l' opérateur satellites;confronté;à le ralentissement de ses activités traditionnelles dans le secteur de les services fixes par satellite;-1
+229;l' opérateur satellites;confronté;à une conjoncture économique dégradée dans des zones comme la Russie ou l' amérique latine;-1
+229;l' opérateur satellites;confronté;à une féroce concurrence dans les services de données;-1
+229;ses activités traditionnelles;ralentissement;dans le secteur de les services fixes par satellite;-1
+229;à une conjoncture économique;dégradée dans;des zones;-1
+229;à une conjoncture économique;dégradée dans;la Russie;-1
+229;à une conjoncture économique;dégradée dans;l' amérique latine;-1
+229;une féroce concurrence;dans;les services de données;-1
+229;le groupe;anticipe;la poursuite de la pression les prix;dans les services de données;-1
+229;l' opérateur satellites;revoit;ses objectifs financiers 2016-2017 à la baisse;-1
+229;ses objectifs financiers 2016-2017;à la baisse;-1
+Findworks Technologies , éditeur de le moteur de recherche de voyages Liligo , vient de boucler un deuxième tour de table .
+230;Findworks Technologies;éditeur de;Liligo;-1
+230;Findworks Technologies;vient de boucler;un deuxième tour de table;-1
+230;Liligo;moteur de recherche de;voyages;-1
+Orkos Capital , un investisseur que l' on retrouve rarement en Early Stage , mène l' opération en misant 2,25 m euros ,,, Alven Capital , à la tête de le premier tour , en 2007 , le complète à 3 m euros .
+231;Orkos Capital;,;un investisseur que l' on retrouve rarement en Early Stage;-1
+231;un investisseur;rarement;en Early Stage;-1
+231;on;retrouve rarement;un investisseur;en Early Stage;-1
+231;Orkos Capital;mène;l' opération;en misant 2,25 m euros;-1
+231;Orkos Capital;misant;2,25 m euros;-1
+231;Alven Capital;à la tête de;le premier tour;en 2007;-1
+231;Alven Capital;complète;le;à 3 m euros;-1
+délivrés en une tranche , les fonds aideront la start-up parisienne à poursuivre sa croissance à l' international , mais aussi à faire face à la concurrence dans un climat économique plus difficile .
+232;les fonds;délivrés en;une tranche;-1
+232;les fonds;aideront;la start-up parisienne à poursuivre sa croissance à l' international , mais aussi à faire face à la concurrence dans un climat économique plus difficile;-1
+232;la start-up parisienne;faire face à;la concurrence;dans un climat économique plus difficile;-1
+232;un climat économique;plus difficile;-1
+232;la start-up parisienne;poursuivre sa croissance;à l' international;-1
+déjà proche de l' équilibre , avec une trentaine de salariés en France et en Hongrie , Findworks Technologies gère cinq sites de comparaison de voyages en europe ( le chiffre d' affaires total reste non communiqué ) .
+233;Findworks Technologies;proche de;l' équilibre;-1
+233;Findworks Technologies;avec;une trentaine de salariés;en France;-1
+233;Findworks Technologies;avec;une trentaine de salariés;en Hongrie;-1
+233;Findworks Technologies;gère;cinq sites de comparaison de voyages en europe;-1
+233;le chiffre d' affaires total;reste non communiqué;-1
+a l' instar de les autres sites spécialisés d' intermédiation comme Sprice , soutenu par Sofinnova , et surtout Easyvoyage , sous LBM avec Actem Partners et Seventure ( cf.nos 852 , 872 ) , Liligo se rémunère en fonction de le nombre de transactions qu' il génère chez ses fournisseurs - voyagistes , compagnies aériennes , loueurs de voitures ... dont il compare les prestations .
+234;les autres sites;spécialisés d';intermédiation;-1
+234;les autres sites spécialisés d' intermédiation;comme;Sprice;-1
+234;Sprice;soutenu par;Sofinnova;-1
+234;Sprice;soutenu par;Easyvoyage;-1
+234;Liligo;rémunère en fonction de;le nombre de transactions qu' il génère chez ses fournisseurs - voyagistes , compagnies aériennes , loueurs de voitures;-1
+234;il;génère;le nombre de transactions;chez ses fournisseurs - voyagistes;-1
+234;il;génère;le nombre de transactions;compagnies aériennes;-1
+234;il;génère;le nombre de transactions;loueurs de voitures;-1
+234;il;compare;les prestations;ses fournisseurs - voyagistes;-1
+234;il;compare;les prestations;compagnies aériennes;-1
+234;il;compare;les prestations;loueurs de voitures;-1
+la bourse de Paris devrait marquer une pause après son rebond de la veille , dans un marché tiraillé entre la bonne tenue de les marchés asiatiques ce matin et la perspective d' un resserrement monétaire en chine .
+235;la bourse de Paris;devrait marquer;une pause;-1
+235;la bourse de Paris;rebond;la veille;-1
+235;son;rebond;la veille;-1
+a Tokyo , l' indice Nikkei 225 a terminé en hausse de 0,1 % , le fabricant de moteurs Isuzu bondissant de 6,2 % à la suite d' informations évoquant le rachat de tout ou partie de le groupe par Volkswagen .
+236;l' indice Nikkei 225;a terminé en hausse;de 0,1 %;a Tokyo;-1
+236;Isuzu;fabricant de;moteurs;-1
+236;Isuzu;bondissant de;6,2 %;-1
+236;informations;évoquant;le rachat de tout ou partie de le groupe par Volkswagen;-1
+236;Volkswagen;rachat;de tout ou partie de le groupe;-1
+dans son livre beige publié hier soir , la FED a indiqué que l' économie américaine avait poursuivi sa reprise à le cours de le mois dernier tout en soulignant que les entreprises ressentent l' impact de l' envolée de les prix de l' énergie et de les matières premières .
+237;son livre beige;publié;hier soir;-1
+237;la FED;a indiqué que;l' économie américaine avait poursuivi sa reprise à le cours de le mois dernier;-1
+237;l' économie américaine;avait poursuivi sa reprise;à le cours de le mois dernier;-1
+237;la FED;soulignant que;les entreprises ressentent l' impact de l' envolée de les prix de l' énergie et de les matières premières;-1
+237;les entreprises;ressentent l' impact de;l' envolée de les prix de l' énergie et de les matières premières;-1
+237;les prix de l' énergie et de les matières premières;envolée;-1
+de le côté de les valeurs , Danone a publié un chiffre d' affaires trimestriel supérieur à les attentes de les analystes .
+238;Danone;a publié;un chiffre d' affaires trimestriel supérieur à les attentes de les analystes;-1
+238;un chiffre d' affaires trimestriel;supérieur à;les attentes de les analystes;-1
+Carrefour doit faire le point sur son activité trimestrielle après la clôture .
+239;Carrefour;doit faire le point sur;son activité trimestrielle;après la clôture;-1
+le géant de l' internet Google publiera ses comptes dans la soirée .
+240;Google;géant de;l' internet;-1
+240;Google;publiera;ses comptes;dans la soirée;-1
+vers 8 h 30 , le contrat Future Avril sur indice CAC40 perd 17,5 à 3.987,5 points .
+241;le contrat Future Avril sur indice CAC40;perd;17,5;à 3.987,5 points;vers 8 h 30;-1
+de le côté de les matières premières , le baril de brut léger américain s' inscrit en hausse de 13 cents à 107,24 dollar sur fond de tensions persistantes à le moyen-orient , mais les opérateurs continuent de craindre que le niveau élevé de les cours ne finisse par peser sur la demande .
+242;le baril de brut léger américain;inscrit en hausse;de 13 cents;à 107,24 dollar;-1
+242;tensions;persistantes à;le moyen-orient;-1
+242;les opérateurs;continuent de craindre que;le niveau élevé de les cours ne finisse par peser sur la demande;-1
+242;le niveau élevé de les cours;ne finisse par peser sur;la demande;-1
+le baril de brent de la mer de le nord cède 38 cents à 122,50 dollars .
+243;le baril de brent de la mer de le nord;cède;38 cents;à 122,50 dollars;-1
+sur le marché de les changes , l' euro repart de l' avant à 1,4512 dollar , contre 1,4443 hier soir à New York .
+244;l' euro;repart de l' avant;à 1,4512 dollar;à New York;-1
+244;l' euro;repart de l' avant;1,4443;à New York;hier soir;-1
+l' agenda macroéconomique se résume à deux statistiques américaines , toutes deux programmées pour 14 h 30 : les inscriptions hebdomadaires à le chômage et les prix à la production de mars .
+245;l' agenda macroéconomique;résume à;deux statistiques américaines;-1
+245;deux statistiques américaines;:;les inscriptions hebdomadaires à le chômage;-1
+245;deux statistiques américaines;:;les prix à la production de mars;-1
+245;toutes deux;programmées pour;14 h 30;-1
+Danone a enregistré une croissance de 19,6 % , à 4,75 milliards d' euros à le premier trimestre .
+246;Danone;a enregistré une croissance;de 19,6 %;à 4,75 milliards d' euros;à le premier trimestre;-1
+a données comparables , les ventes progressent de 8,5 % .
+247;les ventes;progressent de;8,5 %;-1
+le consensus établi par Reuters tablait sur 4,64 milliards d' euros .
+248;le consensus établi par Reuters;tablait sur;4,64 milliards d' euros;-1
+248;le consensus;établi par;Reuters;-1
+le groupe agroalimentaire maintient sa prévision de hausse de 6 % à 8 % de son chiffre d' affaires à données comparables et d' amélioration d' environ 0,2 % de sa marge opérationnelle cette année .
+249;le groupe agroalimentaire;maintient sa prévision de;hausse de 6 % à 8 % de son chiffre d' affaires;-1
+249;son chiffre d' affaires;hausse de;6 % à 8 %;-1
+il table par ailleurs sur une augmentation moyenne de 6 % à 9 % de l' ensemble de ses coûts liés à les matières premières et à l' emballage en 2011 .
+250;il;table;sur une augmentation moyenne de 6 % à 9 % de l' ensemble de ses coûts liés à les matières premières et à l' emballage en 2011;-1
+250;l' ensemble de ses coûts liés à les matières premières et à l' emballage en 2011;augmentation moyenne de;6 % à 9 %;-1
+250;l' ensemble de ses coûts;liés à;les matières premières;en 2011;-1
+250;l' ensemble de ses coûts;liés à;l' emballage;en 2011;-1
+Schneider Electric reste intéressé par un rachat de Tyco International et a approché des banques concernant le financement d' une telle opération , indique Reuters en citant de les sources proches de le dossier .
+251;Schneider Electric;reste intéressé par un rachat de;Tyco International;-1
+251;Schneider Electric;intéressé par un rachat de;Tyco International;-1
+251;Schneider Electric;a approché;des banques;concernant le financement d' une telle opération;-1
+251;des banques;financement d';une telle opération;-1
+251;Reuters;indique;Schneider Electric reste intéressé par un rachat de Tyco International et a approché des banques concernant le financement d' une telle opération;-1
+251;Reuters;en citant de;les sources proches de le dossier;-1
+251;les sources;proches de;le dossier;-1
+quoi qu' il arrive , Tyco est désormais devenu la cible d' une opa ou d' une scission après un bond de plus de 10 % de son action depuis vendredi , estiment des analystes cités par Bloomberg .
+252;Tyco;est désormais devenu la cible;d' une opa;-1
+252;Tyco;est désormais devenu la cible;d' une scission;-1
+252;son action;bond de plus;de 10 %;depuis vendredi;-1
+NYSE Euronext et Deutsche Börse réfléchissent à des incitations financières pour obtenir le soutien à leur projet de fusion après l' offre hostile lancée par Nasdaq OMX et Intercontinental Exchange , rapporte Bloomberg en citant de les sources proches de le dossier .
+253;NYSE Euronext;réfléchissent à;des incitations financières;pour obtenir le soutien à leur projet de fusion;-1
+253;Deutsche Börse;réfléchissent à;des incitations financières;pour obtenir le soutien à leur projet de fusion;-1
+253;NYSE Euronext;obtenir le soutien à;leur projet de fusion;-1
+253;Deutsche Börse;obtenir le soutien à;leur projet de fusion;-1
+253;l' offre hostile;lancée par;Nasdaq OMX;-1
+253;l' offre hostile;lancée par;Intercontinental Exchange;-1
+253;Bloomberg;rapporte;NYSE Euronext et Deutsche Börse réfléchissent à des incitations financières pour obtenir le soutien à leur projet de fusion après l' offre hostile lancée par Nasdaq OMX et Intercontinental Exchange;-1
+253;Bloomberg;en citant;de les sources proches de le dossier;-1
+253;les sources;proches de;le dossier;-1
+si aucune décision n' aurait été prise pour l' instant , cette incitation pourrait prendre la forme d' un dividende extraordinaire , précisent ces sources .
+254;aucune décision;n' aurait été prise;pour l' instant;-1
+254;cette incitation;pourrait prendre la forme d';un dividende extraordinaire;-1
+254;ces sources;précisent;si aucune décision n' aurait été prise pour l' instant , cette incitation pourrait prendre la forme d' un dividende extraordinaire;-1
+Unibail Rodamco a annoncé la cession de trois centres commerciaux et d' un hypermarché en Suède pour 268 millions d' euros .
+255;Unibail Rodamco;a annoncé la cession;de trois centres commerciaux;en Suède;pour 268 millions d' euros;-1
+255;Unibail Rodamco;a annoncé la cession;d' un hypermarché;en Suède;pour 268 millions d' euros;-1
+255;trois centres commerciaux;en;Suède;-1
+255;un hypermarché;en;Suède;-1
+Kaufman & Broad a fait état d' une hausse de 19 % , à 232,9 millions d' euros , de son chiffre d' affaires à le premier trimestre .
+256;Kaufman & Broad;a fait état d';une hausse de 19 % , à 232,9 millions d' euros , de son chiffre d' affaires à le premier trimestre;-1
+256;son chiffre d' affaires;hausse;de 19 %;à 232,9 millions d' euros;à le premier trimestre;-1
+le bénéfice net a quant à lui plus que quintuplé à 7,3 millions d' euros .
+257;le bénéfice net;a;quant à lui plus que quintuplé à 7,3 millions d' euros;-1
+257;le bénéfice net;quintuplé à;7,3 millions d' euros;-1
+pour l' ensemble de l' exercice , le promoteur immobilier anticipe une croissance d' environ 10 % de ses ventes et un profit plus que doublé .
+258;le promoteur immobilier;anticipe;une croissance d' environ 10 % de ses ventes;-1
+258;le promoteur immobilier;anticipe;un profit plus que doublé;-1
+258;ses ventes;croissance d';environ 10 %;-1
+258;un profit;plus que doublé;-1
+Thierry et Hervé Defforey , fils de le co-fondateur de le groupe , voteront « non » à le projet de scission de 25 % de la division Carrefour Property et de la totalité de l' enseigne de Hard Discount Dia , écrit la tribune , en citant Thierry Defforey .
+259;Thierry et Hervé Defforey;fils de;le co-fondateur de le groupe;-1
+259;Thierry et Hervé Defforey;voteront;« non »;à le projet de scission de 25 % de la division Carrefour Property et de la totalité de l' enseigne de Hard Discount Dia;-1
+259;la division Carrefour Property;scission;de 25 %;-1
+259;l' enseigne de Hard Discount Dia;scission;de la totalité;-1
+259;Dia;enseigne de;Hard Discount;-1
+259;la tribune;écrit;Thierry et Hervé Defforey , fils de le co-fondateur de le groupe , voteront « non » à le projet de scission de 25 % de la division Carrefour Property et de la totalité de l' enseigne de Hard Discount Dia;-1
+259;la tribune;en citant;Thierry Defforey;-1
+le groupe de distribution dévoilera son chiffre d' affaires de le premier trimestre après la clôture .
+260;le groupe de distribution;dévoilera;son chiffre d' affaires de le premier trimestre;après la clôture;-1
+parmi les recommandations d' analystes , Morgan Stanley a relevé Accor de « pondération en ligne » à « surpondérer » .
+261;Morgan Stanley;parmi les recommandations d';analystes;-1
+261;Morgan Stanley;a relevé;Accor;de « pondération en ligne »;à « surpondérer »;-1
+UBS a intégré l' Oréal à sa liste de valeurs préférées en estimant que le groupe a la capacité de faire mieux que son marché .
+262;UBS;a intégré;l' Oréal;à sa liste de valeurs préférées;-1
+262;UBS;estimant que;le groupe a la capacité de faire mieux que son marché;-1
+262;le groupe;a la capacité de faire mieux que;son marché;-1
+le conseil constitutionnel déclare conformes plusieurs dispositions de le code général de les impôts relatives à le régime fiscal d' opérations réalisées avec des etats ou des territoires non coopératifs .
+263;le conseil constitutionnel;déclare conformes;plusieurs dispositions de le code général de les impôts;-1
+263;plusieurs dispositions de le code général de les impôts;relatives à;le régime fiscal d' opérations réalisées avec des etats ou des territoires non coopératifs;-1
+263;le régime fiscal d' opérations;réalisées avec;des etats ou des territoires non coopératifs;-1
+le conseil constitutionnel vient de déclarer conformes plusieurs dispositions de le code général de les impôts relatives à le régime fiscal d' opérations réalisées avec des etats ou des territoires non coopératifs , dont il était saisi par une question prioritaire de constitutionnalité ( QPC ) soulevée par l' association française de les entreprises privées ( AFEP ) et les sociétés anonymes Air Liquide s.a. ,Lafarge s.a. , Pernod-Ricard,Technip , Total s.a. et Veolia Environnement .
+264;Air Liquide s.a.;sociétés anonymes;-1
+264;Lafarge s.a.;sociétés anonymes;-1
+264;Pernod-Ricard;sociétés anonymes;-1
+264;Technip;sociétés anonymes;-1
+264;Total s.a.;sociétés anonymes;-1
+264;Veolia Environnement;sociétés anonymes;-1
+au maximum , 330 emplois maximum vont disparaître , rapporte jeudi 5 novembre les échos , citant une annonce faite à les représentants syndicaux .
+265;330 emplois maximum;vont disparaître;-1
+265;les échos;rapporte;au maximum , 330 emplois maximum vont disparaître;jeudi 5 novembre;-1
+265;les échos;citant;une annonce faite à les représentants syndicaux;-1
+265;une annonce;faite à;les représentants syndicaux;-1
+le groupe français a annoncé début juillet un plan de restructuration qui prévoit la suppression de 6.000 emplois , soit plus de 15 % de ses effectifs , afin de faire face à un environnement plus difficile de le marché pétrolier et gazier , lié notamment à la forte baisse de les prix de le pétrole .
+266;le groupe français;a annoncé;un plan de restructuration;début juillet;-1
+266;un plan de restructuration;prévoit la suppression de;6.000 emplois;faire face à un environnement plus difficile de le marché pétrolier et gazier;-1
+266;un plan de restructuration;faire face à;un environnement plus difficile de le marché pétrolier et gazier;-1
+266;un environnement;plus difficile de;le marché pétrolier et gazier;-1
+266;6.000 emplois;soit;plus de 15 % de ses effectifs;-1
+266;un environnement plus difficile de le marché pétrolier et gazier;lié notamment à;la forte baisse de les prix de le pétrole;-1
+266;les prix de le pétrole;forte baisse;-1
+la baisse prolongée de le pétrole pousse BP à couper à nouveau dans ses investissements , les prestataires pourraient également être impactés .
+267;la baisse prolongée de le pétrole;pousse;BP;à couper à nouveau dans ses investissements;-1
+267;pétrole;baisse prolongée;-1
+267;les prestataires;pourraient également être impactés;-1
+si les salariés français se sentent à l' étroit , ils peuvent tout de même se réjouir : la très grande majorité d' entre eux échappe à le desk sharing , le dernier système imaginé par les anglo-saxons pour économiser des mètres carrés .
+268;les salariés français;sentent à;l' étroit;-1
+268;ils;peuvent tout de même se réjouir;-1
+268;la très grande majorité d' entre eux;échappe à;le desk sharing;-1
+268;le desk sharing;,;le dernier système imaginé par les anglo-saxons;-1
+268;le desk sharing;imaginé par;les anglo-saxons;pour économiser des mètres carrés;-1
+268;le dernier système;imaginé par;les anglo-saxons;pour économiser des mètres carrés;-1
+268;le desk sharing;économiser;des mètres carrés;-1
+268;le dernier système;économiser;des mètres carrés;-1
+introduit en France par Accenture , le partage de bureau part de le constat que de nombreux postes de travail sont inoccupés durant la journée .
+269;le partage de bureau;introduit;par Accenture;en France;-1
+269;le partage de bureau;part de le constat que;de nombreux postes de travail sont inoccupés durant la journée;-1
+269;de nombreux postes de travail;sont inoccupés;durant la journée;-1
+le transfert de les équipes et de le siège Parisiens de le Crédit Agricole vers montrouge ( hauts-de-seine ) représente l' un de les plus gros déplacements de ces dernières années .
+270;les équipes et de le siège Parisiens de le Crédit Agricole;transfert;vers montrouge;-1
+270;montrouge;(;hauts-de-seine;-1
+270;le transfert de les équipes et de le siège Parisiens de le Crédit Agricole vers montrouge;représente;l' un de les plus gros déplacements de ces dernières années;-1
+après Rome , Osklen , le Ralph Lauren brésilien , devrait bientôt ouvrir sa première boutique à Paris .
+271;Osklen;,;le Ralph Lauren brésilien;-1
+271;Osklen;devrait bientôt ouvrir;sa première boutique;à Paris;après Rome;-1
+et son compatriote , le chausseur haut de gamme Carmen Steffens , déjà implanté à aix et à marseille , projette pour 2013 huit points de vente en France - sa priorité avec les Etats-Unis - et un investissement de 10 millions d' euros sur deux ans .
+272;le chausseur haut de gamme Carmen Steffens;compatriote;son;-1
+272;Carmen Steffens;chausseur haut de gamme;-1
+272;Carmen Steffens;implanté;à aix;-1
+272;Carmen Steffens;implanté;à marseille;-1
+272;Carmen Steffens;projette;huit points de vente en France;pour 2013;-1
+272;Carmen Steffens;projette;un investissement de 10 millions d' euros sur deux ans;-1
+272;France;priorité;sa;-1
+272;les Etats-Unis;priorité;sa;-1
+en septembre dernier , les designers exubérants Humberto et Fernando Campana ont exposé à le musée de les arts décoratifs de la capitale onze de leurs prototypes de mobilier .
+273;Humberto;designers exubérants;-1
+273;Fernando Campana;designers exubérants;-1
+273;Humberto;ont exposé;onze de leurs prototypes de mobilier;à le musée de les arts décoratifs de la capitale;en septembre dernier;-1
+273;Fernando Campana;ont exposé;onze de leurs prototypes de mobilier;à le musée de les arts décoratifs de la capitale;en septembre dernier;-1
+le développement économique et sa créativité naturelle aidant , le brésil connaît un véritable foisonnement de marques de luxe .
+274;le développement économique;aidant;le brésil;-1
+274;sa créativité naturelle;aidant;le brésil;-1
+274;sa créativité naturelle;connaît un véritable foisonnement de;marques de luxe;-1
+après avoir établi de solides positions sur leur marché , à l' abri de protections tarifaires relativement élevées , ces dernières cherchent à présent une reconnaissance internationale et de les relais de croissance en europe et en amérique de le nord .
+275;ces dernières;établi de solides positions;sur leur marché;-1
+275;ces dernières;cherchent;une reconnaissance internationale;à présent;-1
+275;ces dernières;cherchent;de les relais de croissance en europe et en amérique de le nord;à présent;-1
+275;de solides positions sur leur marché;à l' abri;de protections tarifaires relativement élevées;-1
+275;protections tarifaires;relativement élevées;-1
+anticipant ce décollage , Hermès , le groupe suisse Richemont , Kering ( ex-ppr ) ou encore l' Oréal se sont déjà positionnés en investissant dans des marques locales à lesquelles elles apportent leur savoir-faire et leur label : « les chinois ne veulent pas être traités à part .
+276;Kering;(;ex-ppr;-1
+276;Hermès;anticipant;ce décollage;-1
+276;l' Oréal;anticipant;ce décollage;-1
+276;Kering;anticipant;ce décollage;-1
+276;Richemont;anticipant;ce décollage;-1
+276;Hermès;sont déjà positionnés;-1
+276;l' Oréal;sont déjà positionnés;-1
+276;Kering;sont déjà positionnés;-1
+276;Richemont;sont déjà positionnés;-1
+276;Hermès;investissant dans;des marques locales;-1
+276;l' Oréal;investissant dans;des marques locales;-1
+276;Kering;investissant dans;des marques locales;-1
+276;Richemont;investissant dans;des marques locales;-1
+276;elles;apportent;des marques locales;leur label;-1
+276;elles;apportent;des marques locales;leur savoir-faire;-1
+276;les chinois;ne veulent pas être traités;à part;-1
+dès cet automne , une boutique de sa marque « chinoise » Shang Xia devrait s' installer à Paris , en face de le concept store d' Hermès rue de sèvres !
+277;une boutique de sa marque « chinoise » Shang Xia;devrait s' installer;à Paris;en face de le concept store d' Hermès rue de sèvres;dès cet automne;-1
+277;Hermès;concept store;rue de sèvres;-1
+277;Shang Xia;marque « chinoise »;sa;-1
+d' août 2007 à avril 2010 , la banque centrale américaine a prêté jusqu' à 1 200 milliards de dollars à les banques pour les aider à passer la crise de les subprimes .
+278;la banque centrale américaine;a prêté;à les banques;jusqu' à 1 200 milliards de dollars;pour les aider à passer la crise de les subprimes;d' août 2007 à avril 2010;-1
+278;la banque centrale américaine;aider;les;à passer la crise de les subprimes;-1
+278;la banque centrale américaine;aider;les banques;à passer la crise de les subprimes;-1
+278;les banques;passer;la crise de les subprimes;-1
+278;les;passer;la crise de les subprimes;-1
+Dexia , BNP PARIBAS , Société Générale et Natixis ont touché à elles quatre 120 milliards .
+279;Société Générale;ont touché;120 milliards;-1
+279;Natixis;ont touché;120 milliards;-1
+279;Dexia;ont touché;120 milliards;-1
+279;BNP PARIBAS;ont touché;120 milliards;-1
+toutes ont remboursé , sauf Dexia qui à le 30 juin 2011 devait encore 34 milliards à la FED .
+280;toutes;ont remboursé;sauf Dexia;-1
+280;Dexia;devait encore;34 milliards;à la FED;à le 30 juin 2011;-1
+selon le dernier observatoire de l' e-pub réalisé par Capgemini Consulting , les entreprises françaises investissent encore peu les réseaux sociaux , pourtant véritables carrefours d' audience .
+281;les entreprises françaises investissent encore peu les réseaux sociaux , pourtant véritables carrefours d' audience;selon;le dernier observatoire;-1
+281;le dernier observatoire de l' e-pub;réalisé par;Capgemini Consulting;-1
+281;les entreprises françaises;investissent encore peu;les réseaux sociaux;-1
+281;les réseaux sociaux;véritables carrefours d';audience;-1
+de fait , d' après le site eMarketer , les revenus publicitaires de Facebook l' an dernier - 1,86 milliard de dollars de chiffre d' affaires - ont été à 65 % le fait d' entreprises américaines .
+282;Facebook;revenus publicitaires;1,86 milliard de dollars de chiffre d' affaires;l' an dernier;-1
+282;les revenus publicitaires de Facebook;ont été;le fait d' entreprises américaines;à 65 %;l' an dernier;-1
+282;les revenus publicitaires de Facebook;-;1,86 milliard de dollars de chiffre d' affaires;l' an dernier;-1
+le CAC reprend 0,3 % de retour sur les 4 200 points .
+283;le CAC;reprend;0,3 %;-1
+283;le CAC;retour sur;les 4 200 points;-1
+les tensions entre l' Ukraine et la Russie restent en effet d' actualité et que le « défaut sélectif » de l' argentine reste encore dans les esprits de les opérateurs .
+284;tensions;entre;l' Ukraine et la Russie;-1
+284;les tensions entre l' Ukraine et la Russie restent;d' actualité;-1
+284;le « défaut sélectif » de l' argentine;reste encore dans;les esprits de les opérateurs;-1
+en parlant d' esprits , la banque Banco Espirito Santo a été sauvée par l' etat portugais .
+285;la banque Banco Espirito Santo;a été sauvée par;l' etat portugais;-1
+celui-ci a décidé dimanche de renflouer à hauteur de 4,4 milliards d' euros la banque portugaise , en isolant les actifs toxiques et sous condition que les actionnaires mettent fortement la main à la poche .
+286;celui-ci;a décidé;de renflouer à hauteur de 4,4 milliards d' euros;la banque portugaise;dimanche;-1
+286;celui-ci;renflouer;la banque portugaise;à hauteur de 4,4 milliards d' euros;-1
+286;celui-ci;renflouer;isolant;les actifs toxiques;-1
+286;les actifs;toxiques;-1
+286;les actionnaires;mettent fortement;la main à la poche;-1
+après le déluge de les résultats d' entreprises , les opérateurs n' auront pas grand-chose à se mettre sous la dent en attendant la réunion de la BCE jeudi .
+287;les résultats d' entreprises;déluge;-1
+287;les opérateurs;n' auront pas;grand-chose à se mettre sous la dent;en attendant la réunion de la BCE jeudi;-1
+287;se;mettre;grand-chose;sous la dent;-1
+287;les opérateurs;mettre;grand-chose;sous la dent;-1
+287;les opérateurs;attendant;la réunion de la BCE;jeudi;-1
+AXA reprend 3,40 % à 17,955 euros .
+288;AXA;reprend;3,40 %;à 17,955 euros;-1
+les analystes sont positifs sur le titre après les solides résultats publiés par l' assureur vendredi .
+289;les analystes;sont positifs sur;le titre;-1
+289;les solides résultats;publiés par;l' assureur;vendredi;-1
+289;résultats;solides;-1
+Berenberg est à l' achat sur le titre et vise 22,70 euros , contre 22,40 euros auparavant .
+290;Berenberg;est à l' achat sur;le titre;-1
+290;Berenberg;vise;22,70 euros;-1
+290;Berenberg;vise;22,40 euros;auparavant;-1
+Alcatel-Lucent ( +2,10 % à 2,623 euros ) qui avait été sacrément secoué en fin de semaine , reprend de la hauteur après avoir été relevé de pondération en ligne à surperformance par Morgan Stanley .
+291;Alcatel-Lucent;(;+2,10 %;à 2,623 euros;-1
+291;Alcatel-Lucent;avait été sacrément secoué;en fin de semaine;-1
+291;Alcatel-Lucent;reprend de;la hauteur;-1
+291;Alcatel-Lucent;avoir été relevé;de pondération en ligne;à surperformance;par Morgan Stanley;-1
+le titre est suivi de Lafarge qui gagne 1,63 % à 57,96 euros .
+292;le titre;est suivi de;Lafarge;-1
+292;Lafarge;gagne;1,63 %;à 57,96 euros;-1
+Credit Agricole , qui publie ses résultats mardi , progresse de 1,14 % à 10,20 euros après à le sauvetage de la banque en difficulté Espirito Santo ( BES ) , dont il est actionnaire à hauteur de 14,6 % .
+293;Credit Agricole;publie;ses résultats;mardi;-1
+293;Credit Agricole;progresse;de 1,14 %;à 10,20 euros;-1
+293;la banque en difficulté Espirito Santo;sauvetage;-1
+293;Espirito Santo;en difficulté;-1
+293;il;est actionnaire;Espirito Santo;à hauteur de 14,6 %;-1
+293;Credit Agricole;est actionnaire;Espirito Santo;à hauteur de 14,6 %;-1
+plusieurs fonds d' investissement étudieraient le scénario d' un rachat de 10 milliards de dollars de médicaments appartenant à Sanofi et GSK , selon ' le Financial Times '.
+294;plusieurs fonds d' investissement;étudieraient;le scénario d' un rachat de 10 milliards de dollars de médicaments appartenant à Sanofi et GSK;-1
+294;plusieurs fonds d' investissement étudieraient le scénario d' un rachat de 10 milliards de dollars de médicaments appartenant à Sanofi et GSK;selon;le Financial Times;-1
+294;plusieurs fonds d' investissement;rachat;de 10 milliards de dollars de médicaments appartenant à Sanofi et GSK;-1
+294;médicaments;appartenant à;Sanofi;-1
+294;médicaments;appartenant à;GSK;-1
+le titre ne profite pas de ce regain de spéculation et grappille 0,13 % à 79,01 euros .
+295;le titre;ne profite pas de;ce regain de spéculation;-1
+295;le titre;grappille;0,13 %;à 79,01 euros;-1
+hors CAC , Areva rebondit de près de 4 % ce matin à proximité de les 13 euros après avoir chuté de 20 % vendredi suite à son avertissements sur résultats .
+296;Areva;rebondit;de près de 4 %;à proximité de les 13 euros;ce matin;-1
+296;Areva;à proximité de;les 13 euros;-1
+296;Areva;chuté;de 20 %;vendredi;-1
+par ailleurs , Oddo passe de « achat » à « neutre » mais abaisse son objectif de cours à 15,50 euros , contre 23 euros auparavant .
+297;Oddo;passe;de « achat »;à « neutre »;-1
+297;Oddo;abaisse;son objectif de cours;à 15,50 euros;-1
+297;son;objectif de cours;à 15,50 euros;-1
+297;son;objectif de cours;23 euros;auparavant;-1
+297;Oddo;objectif de cours;à 15,50 euros;-1
+297;Oddo;objectif de cours;23 euros;auparavant;-1
+Genfit gagne 3,80 % à 28,50 euros après avoir perdu près de 9 % sur la semaine .
+298;Genfit;gagne;3,80 %;à 28,50 euros;-1
+298;Genfit;perdu;près de 9 %;sur la semaine;-1
+sur le marché de les changes , l' euro est stable sur les 1,3421 dollar .
+299;l' euro;est stable;sur les 1,3421 dollar;sur le marché de les changes;-1
+le Wti reprend 0,43 % à 98,11 dollars et le brent gagne 0,38 % à 105,09 dollars .
+300;le Wti;reprend;0,43 %;à 98,11 dollars;-1
+300;le brent;gagne;0,38 %;à 105,09 dollars;-1
+l' once d' or perd 0,05 % à 1 293 dollars .
+301;l' once d' or;perd;0,05 %;à 1 293 dollars;-1 
+pour ses dix ans à la tête de l' entreprise familiale Plastic Omnium , le Benjamin de les enfants de le fondateur n' est pas peu fier d' afficher l' un de les bilans de santé les plus florissants de les équipementiers automobiles français et même mondiaux .
+302;le Benjamin de les enfants de le fondateur;à la tête de;l' entreprise familiale Plastic Omnium;dix ans;-1
+302;Plastic Omnium;entreprise familiale;-1
+302;le Benjamin de les enfants de le fondateur;n' est pas peu fier d' afficher;l' un de les bilans de santé les plus florissants de les équipementiers automobiles français et même mondiaux;-1
+302;l' un de les bilans de santé;plus florissants de;les équipementiers automobiles français et même mondiaux;-1
+302;les équipementiers automobiles;français;-1
+302;les équipementiers automobiles;mondiaux;-1
+« c' est l' une de les grandes réussites de l' équipement automobile français avec Michelin , Valeo , Faurecia , ou encore MGI Coutier » , estime Hervé Guyot , directeur de le fonds de modernisation de la filière ( FMEA ) mis en place depuis deux ans .
+303;Hervé Guyot;estime;c' est l' une de les grandes réussites de l' équipement automobile français avec Michelin , Valeo , Faurecia , ou encore MGI Coutier;-1
+303;Hervé Guyot;directeur de;le fonds de modernisation de la filière;-1
+303;le fonds de modernisation de la filière;(;FMEA;-1
+303;le fonds de modernisation de la filière;mis en place;depuis deux ans;-1
+303;c';est l' une de les grandes réussites de;l' équipement automobile français;-1
+303;Michelin;est l' une de les grandes réussites de;l' équipement automobile français;-1
+303;Valeo;est l' une de les grandes réussites de;l' équipement automobile français;-1
+303;Faurecia;est l' une de les grandes réussites de;l' équipement automobile français;-1
+303;MGI Coutier;est l' une de les grandes réussites de;l' équipement automobile français;-1
+en revanche , les géants américains Visteon et Lear , tous deux cotés à Wall Street , ont dû recourir à la protection de le chapitre 11 de la loi américaine sur les faillites .
+304;Visteon;géants américains;-1
+304;Lear;géants américains;-1
+304;Visteon;cotés;à Wall Street;-1
+304;Lear;cotés;à Wall Street;-1
+304;Visteon;cotés;ont dû recourir à la protection de;le chapitre 11 de la loi américaine sur les faillites;-1
+304;Lear;ont dû recourir à la protection de;le chapitre 11 de la loi américaine sur les faillites;-1
+pour autant , Plastic Omnium n' a pas relâché ses investissements de R&D ou de capacités de production sur les marchés en plein essor d' asie et d' amérique latine .
+305;Plastic Omnium;n' a pas relâché;ses investissements de R&D ou de capacités de production sur les marchés en plein essor d' asie et d' amérique latine;-1
+305;Plastic Omnium;investissements;de R&D;sur les marchés en plein essor d' asie et d' amérique latine;-1
+305;Plastic Omnium;investissements;de capacités de production;sur les marchés en plein essor d' asie et d' amérique latine;-1
+305;ses;investissements;de R&D;sur les marchés en plein essor d' asie et d' amérique latine;-1
+305;ses;investissements;de capacités de production;sur les marchés en plein essor d' asie et d' amérique latine;-1
+305;les marchés;en plein essor;-1
+l' hécatombe a été telle que les constructeurs ont sollicité le soutien de quelques fournisseurs clés pour assurer la continuité de leurs approvisionnements , quitte à ce que ces derniers reprennent des entreprises défaillantes contre des garanties de volumes .
+306;l' hécatombe;a été telle que;les constructeurs ont sollicité le soutien de quelques fournisseurs clés pour assurer la continuité de leurs approvisionnements , quitte à ce que ces derniers reprennent des entreprises défaillantes contre des garanties de volumes;-1
+306;les constructeurs;ont sollicité le soutien de;quelques fournisseurs clés;pour assurer la continuité de leurs approvisionnements;-1
+306;les constructeurs;assurer la continuité de;leurs approvisionnements;-1
+306;ces derniers;reprennent;des entreprises défaillantes;contre des garanties de volumes;-1
+306;des entreprises;défaillantes;-1
+« la mondialisation de l' automobile s' accélère » , confirme Yann Delabrière , le pdg de le concurrent Faurecia qui a augmenté cette année de 30 % ( à 450 millions d' euros ) ses investissements industriels en asie et en amérique de le nord .
+307;la mondialisation de l' automobile;accélère;-1
+307;Yann Delabrière;confirme;la mondialisation de l' automobile s' accélère;-1
+307;Yann Delabrière;pdg de;le concurrent Faurecia;-1
+307;Faurecia;concurrent;-1
+307;Faurecia;a augmenté;ses investissements industriels en asie et en amérique de le nord;cette année;de 30 % ( à 450 millions d' euros );-1
+307;30 %;(;à 450 millions d' euros );-1
+307;Faurecia;investissements industriels;en asie et en amérique de le nord;-1
+307;ses;investissements industriels;en asie et en amérique de le nord;-1
+307;l' automobile;mondialisation;-1
+dans une industrie considérée comme cyclique , le pdg de Plastic Omnium a bon espoir de maintenir durablement cette rentabilité , grâce à les 30 % de hausse de la production automobile mondiale prévue d' ici 2015 .
+308;une industrie;considérée comme;cyclique;-1
+308;le pdg de Plastic Omnium;a bon espoir de maintenir durablement;cette rentabilité;-1
+308;30 % de hausse de la production automobile mondiale;prévue;d' ici 2015;-1
+308;la production automobile mondiale;hausse;30 %;-1
+une aubaine que Plastic Omnium n'a pas hésité à saisir , en rachetant une usine Peguform ( pare-chocs ) en Catalogne et , pour une bouchée de pain , la production de réservoirs de Ford à les Etats-Unis , soit plus de 1 million d' unités par an !
+309;Plastic Omnium;n'a pas hésité à saisir;une aubaine;-1
+309;Plastic Omnium;rachetant;une usine Peguform;en Catalogne;-1
+309;Plastic Omnium;rachetant;la production de réservoirs de Ford;à les Etats-Unis;pour une bouchée de pain;-1
+309;une usine Peguform;(;pare-chocs;-1
+s' il a été devancé par Faurecia lors de la vente de les plus beaux actifs de le suédois Plastal , Plastic Omnium a pris les pleins pouvoirs chez Inergy , entreprise de réservoirs codétenue avec le belge Solvay dont il a acquis la part .
+310;il;a été devancé;par Faurecia;lors de la vente de les plus beaux actifs de le suédois Plastal;-1
+310;les plus beaux actifs de le suédois Plastal;vente;-1
+310;Plastal;suédois;-1
+310;Plastic Omnium;a pris les pleins pouvoirs chez;Inergy;-1
+310;Inergy;,;entreprise de réservoirs codétenue avec le belge Solvay;-1
+310;Inergy;entreprise de;réservoirs;-1
+310;Inergy;codétenue avec;le belge Solvay;-1
+310;entreprise de réservoirs;codétenue avec;le belge Solvay;-1
+310;Solvay;belge;-1
+310;il;a acquis la part;Solvay;-1
+310;Plastic Omnium;a acquis la part;Solvay;-1
+en chine , où Plastic Omnium a été le premier équipementier français à s' implanter avec une joint-venture , 25 usines sont prévues d' ici cinq ans .
+311;Plastic Omnium;a été;le premier équipementier français à s' implanter avec une joint-venture;en chine;-1
+311;le premier équipementier français;implanter avec;une joint-venture;en chine;-1
+311;Plastic Omnium;implanter avec;une joint-venture;en chine;-1
+311;25 usines;sont prévues;d' ici cinq ans;-1
+Plastic Omnium a également un portefeuille produits très porteur , à l' heure où la réglementation sur les émissions de Co2 et autres polluants se durcit .
+312;Plastic Omnium;a également;un portefeuille produits très porteur;-1
+312;un portefeuille produits;très porteur;-1
+312;la réglementation sur les émissions de Co2 et autres polluants;durcit;-1
+après les pare-chocs , la face avant , les ailes , le capot , Plastic Omnium monte en puissance dans les ouvrants arrières réalisés à moitié en composites ( Peugeot 508 SW , Range Rover Evoque ) et espère convaincre d' autres clients que Renault ( Mégane ) d' adopter ses planchers , en attendant de conquérir les montants latéraux de le véhicule .
+313;Plastic Omnium;monte en puissance dans;les ouvrants arrières;-1
+313;Plastic Omnium;monte en puissance dans;les pare-chocs;-1
+313;Plastic Omnium;monte en puissance dans;la face avant;-1
+313;Plastic Omnium;monte en puissance dans;les ailes;-1
+313;Plastic Omnium;monte en puissance dans;le capot;-1
+313;Plastic Omnium;espère convaincre;d' autres clients que Renault;d' adopter ses planchers;-1
+313;d' autres clients que Renault;adopter;ses planchers;-1
+313;d' autres clients que Renault;attendant de conquérir;les montants latéraux de le véhicule;-1
+313;Renault;(;Mégane;-1
+313;les ouvrants arrières;réalisés à moitié;en composites;-1
+313;les ouvrants arrières réalisés à moitié en composites;(;Peugeot 508 SW;-1
+313;les ouvrants arrières réalisés à moitié en composites;(;Range Rover Evoque;-1
+le 21 juillet , l' action Plastic Omnium a atteint un record de plus de 26 euros .
+314;l' action Plastic Omnium;a atteint;un record de plus de 26 euros;le 21 juillet;-1
+hors ces facteurs exogènes , les analystes font toutefois confiance à Plastic Omnium pour respecter ses engagements .
+315;les analystes;font toutefois confiance;à Plastic Omnium pour respecter ses engagements;hors ces facteurs exogènes;-1
+315;Plastic Omnium;respecter;ses engagements;-1
+l' affaire de collecte de déchets ménagers fondée par son grand-père en 1914 a été fusionnée avec Plastic Omnium en 1967 .
+316;l' affaire de collecte de déchets ménagers fondée;par son grand-père;en 1914;-1
+316;l' affaire de collecte de déchets ménagers fondée;a été fusionnée;avec Plastic Omnium;en 1967;-1
+une accélération soutenue par la société commune annoncée en juin avec Baic , le quatrième constructeur chinois déjà associé à Mercedes et Hyundai .
+317;une accélération;soutenue;par la société commune;-1
+317;la société commune;annoncée;avec Baic;en juin;-1
+317;Baic;,;le quatrième constructeur chinois déjà associé à Mercedes et Hyundai;-1
+317;le quatrième constructeur chinois;associé à;Mercedes;-1
+317;le quatrième constructeur chinois;associé à;Hyundai;-1
+317;Baic;associé à;Mercedes;-1
+317;Baic;associé à;Hyundai;-1
+« dans un avenir proche nous devrions pouvoir réduire de 50 kg le poids de le châssis de le véhicule , explique François Tardif , directeur recherche-innovation de la division pièces extérieures .
+318;nous;devrions pouvoir réduire;le poids de le châssis de le véhicule;de 50 kg;dans un avenir proche;-1
+318;François Tardif;explique;dans un avenir proche nous devrions pouvoir réduire de 50 kg le poids de le châssis de le véhicule;-1
+318;François Tardif;directeur recherche-innovation de;la division pièces extérieures;-1
+si l' automobile est devenue l' activité prépondérante par rapport à l' environnement , « celui-ci fait partie de les gènes de l' entreprise » , affirme le pdg Laurent Burelle .
+319;l' automobile;est devenue;l' activité prépondérante;par rapport à l' environnement;-1
+319;l' activité;prépondérante par rapport à;l' environnement;-1
+319;celui-ci;fait partie de les gènes de;l' entreprise;-1
+319;Laurent Burelle;affirme;si l' automobile est devenue l' activité prépondérante par rapport à l' environnement , « celui-ci fait partie de les gènes de l' entreprise »;-1
+319;Laurent Burelle;pdg;-1
+fort de ces succès , le groupe ne peut que se féliciter de s' être désengagé de les planches de bord , revendues à Visteon en 1999 .
+320;le groupe;fort de;ces succès;-1
+320;le groupe;ne peut que se féliciter;de s' être désengagé de les planches de bord;-1
+320;le groupe;être désengagé de;les planches de bord;-1
+320;les planches de bord;revendues;à Visteon;en 1999;-1
+construit en 2002 dans la région Lyonnaise , son premier centre de recherches dédié à les pare-chocs héberge depuis 2009 les équipes spécialisées dans les conteneurs de déchets .
+321;son premier centre de recherches;construit;en 2002;dans la région Lyonnaise;-1
+321;son premier centre de recherches;dédié;à les pare-chocs;-1
+321;son premier centre de recherches;héberge;les équipes spécialisées dans les conteneurs de déchets;depuis 2009;-1
+321;les équipes;spécialisées dans;les conteneurs de déchets;-1
+Valérie Pécresse , présidente d’ Ile-de-France Mobilités ( IDFM ) , a annoncé le début de les expérimentations de paiement de les passes navigo et tickets à l’ unité par smartphone .
+322;Valérie Pécresse;présidente d’;Ile-de-France Mobilités;-1
+322;Ile-de-France Mobilités;(;IDFM;-1
+322;Valérie Pécresse;a annoncé;le début de les expérimentations de paiement de les passes navigo et tickets à l’ unité par smartphone;-1
+322;les expérimentations de paiement de les passes navigo et tickets à l’ unité par smartphone;début;-1
+322;paiement de les passes navigo et tickets à l’ unité par smartphone;expérimentations;-1
+322;tickets;paiement;par smartphone;à l’ unité;-1
+322;les passes navigo;paiement;par smartphone;à l’ unité;-1
+Natixis n' aura pas fait long feu : un an seulement après son entrée dans le CAC40 , la banque cède sa place à Safran .
+323;Natixis;n' aura pas fait long feu;-1
+323;son;entrée dans;le CAC40;an seulement;-1
+323;Natixis;entrée dans;le CAC40;an seulement;-1
+323;la banque;cède;sa place;à Safran;-1
+Safran , issue de la fusion de Snecmaet de Sagem en 2005 , n' est pas n' importe laquelle , il est vrai.
+324;Safran;issue de;la fusion de Snecmaet de Sagem en 2005;-1
+324;Safran;n' est pas;n' importe laquelle;-1
+324;Snecmaet;fusion;Sagem;en 2005;-1
+associé à General Electric à le sein de CFM international , Safran surfe sur le succès de leur moteur leap qui équipera des milliers d' Airbus A320 Neo et de Boeing 737 Max ces prochaines années .
+325;Safran;associé;à General Electric;à le sein de CFM international;-1
+325;Safran;surfe sur;le succès de leur moteur leap;-1
+325;leur moteur leap;succès;-1
+325;leur moteur leap;équipera;des milliers d' Airbus A320 Neo et de Boeing 737 Max;ces prochaines années;-1
+« la France possède un tissu d' ETI plutôt performantes , globalisées , qui exportent , croissent et innovent » , observe Gilles le Blanc , chercheur à le Cerna .
+326;Gilles le Blanc;observe;la France possède un tissu d' ETI plutôt performantes , globalisées , qui exportent , croissent et innovent;-1
+326;la France;possède;un tissu d' ETI plutôt performantes , globalisées;-1
+326;un tissu d' ETI;plutôt performantes;-1
+326;un tissu d' ETI;globalisées;-1
+326;un tissu d' ETI;exportent;-1
+326;un tissu d' ETI;croissent;-1
+326;un tissu d' ETI;innovent;-1
+326;Gilles le Blanc;chercheur;à le Cerna;-1
+« nombre de PME ont compris qu' il fallait innover , grandir , s' internationaliser et vont devenir des ETI » , s' enthousiasme Eric Patrux , qui « coache » aussi des entrepreneurs dans le cadre de l' institut de le mentorat de la chambre de commerce et d' industrie de Paris .
+327;nombre de PME;ont compris qu';il fallait innover , grandir , s' internationaliser et vont devenir des ETI;-1
+327;il;fallait;internationaliser;-1
+327;il;fallait;innover;-1
+327;il;fallait;grandir;-1
+327;Eric Patrux;enthousiasme;nombre de PME ont compris qu' il fallait innover , grandir , s' internationaliser et vont devenir des ETI;-1
+327;Eric Patrux;coache;aussi des entrepreneurs;dans le cadre de l' institut de le mentorat de la chambre de commerce et d' industrie de Paris;-1
+de même , Jean-Yves Gilet , le directeur général de le fonds stratégique d' investissement ( FSI ) créé par les pouvoirs publics fin 2008 , assure « rencontrer dans tous les domaines de les chefs d' entreprise qui ont des schémas de compétitivité gagnants » .
+328;Jean-Yves Gilet;assure;rencontrer dans tous les domaines de les chefs d' entreprise qui ont des schémas de compétitivité gagnants;-1
+328;Jean-Yves Gilet;rencontrer;de les chefs d' entreprise qui ont des schémas de compétitivité gagnants;dans tous les domaines;-1
+328;les chefs d' entreprise;ont;des schémas de compétitivité gagnants;-1
+328;des schémas de compétitivité;gagnants;-1
+328;Jean-Yves Gilet;directeur général de;le fonds stratégique d' investissement;-1
+328;le fonds stratégique d' investissement;(;FSI;-1
+328;le fonds stratégique d' investissement;créé;par les pouvoirs publics;fin 2008;-1
+« nous peinons à développer des PME capables de grandir et de créer des emplois » , assure Stanislas de Bentzmann , président de Devoteam et membre de le comité directeur de croissanceplus , qui fait la comparaison avec une allemagne plus prolifique ( les echos , 14 / 6 / 2011 ) .
+329;nous;peinons à développer;des PME capables de grandir et de créer des emplois;-1
+329;des PME;capables;de grandir;-1
+329;des PME;capables;de créer des emplois;-1
+329;des PME;créer;des emplois;-1
+un objectif en forme de paradoxe car les ETI , ces « championnes cachées de notre économie » , selon l' expression de leur porte-parole Yvon Gattaz - ancien président de le CNPF , devenu MEDEF , et ancien pdg de l' ETI Radiall - , font aussi figure d' entreprises mystères .
+330;ETI;championnes cachées de;notre économie;-1
+330;ETI;font aussi figure d';entreprises mystères;-1
+330;entreprises;mystères;-1
+330;un objectif en forme de paradoxe car les ETI , ces « championnes cachées de notre économie »;selon;l' expression de leur porte-parole Yvon Gattaz;-1
+330;font aussi figure d' entreprises mystères;selon;l' expression de leur porte-parole Yvon Gattaz;-1
+330;Yvon Gattaz;porte-parole;leur;-1
+330;Yvon Gattaz;ancien président de;le CNPF;-1
+330;Yvon Gattaz;ancien pdg de;l' ETI Radiall;-1
+330;le CNPF;devenu;MEDEF;-1
+330;un objectif;en forme;de paradoxe;-1
+« maintenant que Lafourchette est rentable , il s' agit d' accélérer son développement en recrutant et en identifiant de nouveaux marchés en europe » , explique son pdg et cofondateur , Bertrand Jelensperger .
+331;Lafourchette;est rentable;maintenant;-1
+331;il;agit d' accélérer;son développement;en recrutant;-1
+331;il;agit d' accélérer;son développement;en identifiant de nouveaux marchés en europe;-1
+331;il;identifiant;de nouveaux marchés;en europe;-1
+331;Bertrand Jelensperger;explique;maintenant que Lafourchette est rentable , il s' agit d' accélérer son développement en recrutant et en identifiant de nouveaux marchés en europe;-1
+331;son pdg et cofondateur;explique;maintenant que Lafourchette est rentable , il s' agit d' accélérer son développement en recrutant et en identifiant de nouveaux marchés en europe;-1
+331;Bertrand;pdg;son;-1
+331;Bertrand;cofondateur;son;-1
+331;Bertrand Jelensperger;pdg;Lafourchette;-1
+331;Bertrand Jelensperger;cofondateur;Lafourchette;-1
+les actionnaires familiaux de ce groupe 100 % français basé à Saint-Etienne réinvestissent la totalité de les bénéfices dans l' entreprise .
+332;les actionnaires familiaux de ce groupe 100 % français;basé;à Saint-Etienne;-1
+332;ce groupe;français;100 %;-1
+332;les actionnaires familiaux de ce groupe 100 % français;réinvestissent;la totalité de les bénéfices;dans l' entreprise;-1
+déjà leader de les textiles techniques médicaux en europe , Thuasne vise désormais « le grand international » , selon l' expression d' Elisabeth Ducottet qui dirige l' entreprise depuis presque vingt ans .
+333;Thuasne;leader de;les textiles techniques médicaux;en europe;-1
+333;Thuasne;vise désormais;« le grand international »;-1
+333;déjà leader de les textiles techniques médicaux en europe , Thuasne vise désormais « le grand international »;selon;l' expression d' Elisabeth Ducottet;-1
+333;l' expression d' Elisabeth Ducottet;dirige;l' entreprise;depuis presque vingt ans;-1
+« ce sont des entreprises très souples , dans lesquelles la direction peut prendre très vite de les décisions » , commente Jacky Lintignat , directeur général de KPMG France .
+334;Jacky Lintignat;commente;ce sont des entreprises très souples , dans lesquelles la direction peut prendre très vite de les décisions;-1
+334;Jacky Lintignat;directeur général de;KPMG France;-1
+Eric Patrux , le patron d' Iorga , une SSII qui côtoie moult PME et ETI dont il conçoit et opère les systèmes d' information , n' est guère étonné : « toutes les ETI ont un potentiel de différenciation , un adn de créativité .
+335;Eric Patrux;patron d';Iorga;-1
+335;toutes les ETI;ont;un potentiel de différenciation;-1
+335;toutes les ETI;ont;un adn de créativité;-1
+335;Eric Patrux;n' est guère étonné;-1
+335;Iorga;,;une SSII qui côtoie moult PME et ETI;-1
+335;une SSII;côtoie moult;PME;-1
+335;une SSII;côtoie moult;ETI;-1
+335;il;conçoit;les systèmes d' information;PME;-1
+335;il;conçoit;les systèmes d' information;ETI;-1
+335;il;opère;les systèmes d' information;PME;-1
+335;il;opère;les systèmes d' information;ETI;-1
+« en France , le patron de PME est confronté à la solitude de le chef , seul à plancher sur son business plan » , commente Gonzague de Blignières , président de Barclays Private Equity Europe et de le réseau Entreprendre Paris .
+336;le patron de PME;est confronté à;la solitude de le chef;en France;-1
+336;le patron de PME;plancher;sur son business plan;-1
+337;Gonzague de Blignières;commente;en France , le patron de PME est confronté à la solitude de le chef , seul à plancher sur son business plan;-1
+337;Gonzague de Blignières;président;de Barclays Private Equity Europe;-1
+337;Gonzague de Blignières;président;de le réseau Entreprendre Paris;-1
+« très présentes sur les marchés proches , nos ETI risquent d' être affectées par la crise de cet été , qui est révélatrice de les difficultés de les pays européens à réduire de façon crédible et pérenne le poids de leurs dettes » , tempère Bernard Gainnier , associé de PWC .
+338;nos ETI;présentes sur;les marchés proches;-1
+338;nos ETI;risquent d' être affectées;par la crise de cet été;-1
+338;la crise de cet été;est révélatrice de;les difficultés de les pays européens à réduire de façon crédible et pérenne le poids de leurs dettes;-1
+338;les pays européens;difficultés;à réduire de façon crédible et pérenne le poids de leurs dettes;-1
+338;les pays européens;réduire;le poids de leurs dettes;de façon crédible et pérenne;-1
+338;Bernard Gainnier;associé de;PWC;-1
+338;Bernard Gainnier;tempère;très présentes sur les marchés proches , nos ETI risquent d' être affectées par la crise de cet été , qui est révélatrice de les difficultés de les pays européens à réduire de façon crédible et pérenne le poids de leurs dettes;-1
+« pour moi , la PME est beaucoup mieux armée face à l' avenir lorsqu' elle dépasse une certaine taille , en particulier le seuil de 250 personnes , et est donc devenue une ETI » , estime quant à lui François Drouin , le pdg d' Oseo , dont le rôle est de faciliter le financement et le développement de le potentiel d' innovation de les PME et de les ETI .
+339;François Drouin;estime;pour moi , la PME est beaucoup mieux armée face à l' avenir lorsqu' elle dépasse une certaine taille , en particulier le seuil de 250 personnes , et est donc devenue une ETI;-1
+339;François Drouin;pdg d';Oseo;-1
+339;François Drouin;rôle est de faciliter;le financement;de le potentiel d' innovation de les PME et de les ETI;-1
+339;François Drouin;rôle est de faciliter;le développement;de le potentiel d' innovation de les PME et de les ETI;-1
+« les fonds peuvent jouer un rôle , ils prennent des risques mais c' est parfois difficile de vivre avec eux » , précise Reinold Geiger , le président de l' occitane - une société qui avait été reprise par un fonds il y a quinze ans - en ajoutant : « aujourd'hui , les grands groupes nous contactent , mais cette société familiale , dotée d' une vraie personnalité , risquerait d' y perdre son identité . »
+340;Reinold Geiger;précise;les fonds peuvent jouer un rôle , ils prennent des risques mais c' est parfois difficile de vivre avec eux;-1
+340;Reinold Geiger;ajoutant;aujourd'hui , les grands groupes nous contactent , mais cette société familiale , dotée d' une vraie personnalité , risquerait d' y perdre son identité;-1
+340;cette société familiale;dotée d';une vraie personnalité;-1
+340;cette société familiale;risquerait d' y perdre;son identité;-1
+340;société;familiale;-1
+340;les grands groupes;contactent;nous;aujourd'hui;-1
+340;Reinold Geiger;président de;l' occitane;-1
+340;l' occitane;-;une société qui avait été reprise par un fonds il y a quinze ans;-1
+340;une société;avait été reprise;par un fonds;il y a quinze ans;-1
+340;l' occitane;avait été reprise;par un fonds;il y a quinze ans;-1
+340;les fonds;peuvent jouer;un rôle;-1
+340;ils;prennent;des risques;-1
+340;c';est parfois difficile de;vivre avec eux;-1
+l' occitane a été la première société française à se coter à Hong Kong en 2010 ( voir enjeux n° 280 , juin 2011 ) , levant à le passage 700 millions de dollars .
+341;l' occitane;a été;la première société française à se coter à Hong Kong en 2010;-1
+341;la première société française;coter;à Hong Kong;en 2010;-1
+341;l' occitane;coter;à Hong Kong;en 2010;-1
+341;l' occitane;levant;700 millions de dollars;à le passage;-1
+« plus d' un quart de les chefs d' entreprise français disent ne pas vouloir faire grandir leur entreprise de peur d' en perdre le contrôle ou de prendre des risques excessifs » , assure Dominique Dauxerre , le représentant de le MEDEF à le conseil économique social et environnemental régional ( CESER ) .
+342;Dominique Dauxerre;assure;plus d' un quart de les chefs d' entreprise français disent ne pas vouloir faire grandir leur entreprise de peur d' en perdre le contrôle ou de prendre des risques excessifs;-1
+342;plus d' un quart de les chefs d' entreprise français;disent;ne pas vouloir faire grandir leur entreprise;-1
+342;plus d' un quart de les chefs d' entreprise français;ne pas vouloir faire grandir;leur entreprise;de peur d' en perdre le contrôle;-1
+342;plus d' un quart de les chefs d' entreprise français;ne pas vouloir faire grandir;leur entreprise;de prendre des risques excessifs;-1
+342;plus d' un quart de les chefs d' entreprise français;peur;d' en perdre le contrôle;-1
+342;plus d' un quart de les chefs d' entreprise français;peur;de prendre des risques excessifs;-1
+342;Dominique Dauxerre;représentant de;le MEDEF;à le conseil économique social et environnemental régional;-1
+342;le conseil économique social et environnemental régional;(;CESER;-1
+on a ainsi assisté tout l' été à des joutes entre Apple , Samsung , Google , HTC , Microsoft et autres acteurs de le mobile et de l' informatique .
+343;on;a ainsi assisté;à des joutes entre Apple , Samsung , Google , HTC , Microsoft et autres acteurs de le mobile et de l' informatique;tout l' été;-1
+343;des joutes;entre;Apple;-1
+343;des joutes;entre;Samsung;-1
+343;des joutes;entre;Google;-1
+343;des joutes;entre;HTC;-1
+343;des joutes;entre;Microsoft;-1
+343;des joutes;entre;autres acteurs de le mobile et de l' informatique;-1
+cette lutte fratricide a connu son point d' orgue en août avec le rachat par Google de Motorola pour 12,5 milliards de dollars .
+345;cette lutte fratricide;a connu son point d' orgue;avec le rachat par Google de Motorola;pour 12,5 milliards de dollars;en août;-1
+345;lutte;fratricide;-1
+345;Google;rachat;Motorola;pour 12,5 milliards de dollars;-1
+« un smartphone peut mettre en jeu jusqu' à 250 000 brevets , expliquait alors David Drummond , directeur juridique de Google .
+346;un smartphone;peut mettre en jeu;jusqu' à 250 000 brevets;-1
+346;David Drummond;expliquait;un smartphone peut mettre en jeu jusqu' à 250 000 brevets;-1
+346;David Drummond;directeur juridique de;Google;-1
+le canadien RIM , producteur de le Blackberry , avait dû interrompre son service en 2006 avant de transiger pour plus de 600 millions de dollars avec l' un de ces chasseurs de primes .
+347;RIM;producteur de;le Blackberry;-1
+347;RIM;avait dû interrompre;son service;en 2006;-1
+347;RIM;transiger;pour plus de 600 millions de dollars;avec l' un de ces chasseurs de primes;-1
+347;RIM;canadien;-1
+début juillet , c' était un consortium emmené par Apple et Ericsson qui avait fait main basse , pour 4,5 milliards de dollars , sur les brevets de le canadien Nortel en faillite .
+348;c';était;un consortium emmené par Apple et Ericsson;début juillet;-1
+348;Apple Ericsson;avait fait main basse;sur les brevets de le canadien Nortel;pour 4,5 milliards de dollars;-1
+348;Nortel;en faillite;-1
+348;Nortel;canadien;-1
+fin août , Christine Lagarde , la directrice générale de le FMI , a jeté un pavé dans la mare .
+349;Christine Lagarde;directrice générale de;le FMI;-1
+349;Christine Lagarde;a jeté;un pavé;dans la mare;-1
+cette prédation de les dirigeants a été largement commentée par William Lazonick , chercheur à le mit et à l' université Bordeaux -iv.
+350;cette prédation de les dirigeants;a été largement commentée par;William Lazonick;-1
+350;William Lazonick;chercheur;à le mit;-1
+350;William Lazonick;chercheur;à l' université Bordeaux -iv;-1
+si les stock-options n' ont pas disparu , les dirigeants insistent cependant moins sur l' impact personnel qui justifie leur attribution à le regard de la performance boursière de l' entreprise : « le passage à les normes IFRS en 2005 a montré la fragilité de le concept de retour sur fonds propres ( ROE ) et sa volatilité » , explique Sonia Bonnet-Bernard , associée à le cabinet Ricol Lasteyrie .
+351;les stock-options;n' ont pas disparu;-1
+351;les dirigeants;insistent cependant moins sur;l' impact personnel;-1
+351;l' impact personnel;justifie;leur attribution;-1
+351;le passage à les normes IFRS en 2005;a montré;la fragilité de le concept de retour sur fonds propres ( ROE ) et sa volatilité;-1
+351;le concept de retour sur fonds propres ( ROE );fragilité;-1
+351;le concept de retour sur fonds propres ( ROE );volatilité;-1
+351;retour sur fonds propres;(;ROE;-1
+351;les normes IFRS;passage;en 2005;-1
+351;Sonia Bonnet-Bernard;associée à;le cabinet Ricol Lasteyrie;-1
+351;Sonia Bonnet-Bernard;explique;le passage à les normes IFRS en 2005 a montré la fragilité de le concept de retour sur fonds propres ( ROE ) et sa volatilité;-1
+« les vrais court-termistes ne sont pas les marchés , mais les dirigeants indélicats , influencés par leur système de rémunération inadéquat et mal corrélé avec la véritable création de valeur » , avance Félix Bogliolo , pdg d' Evafine , qui introduisit en France avec le cabinet Stern & Stewart la notion de valeur pour l' actionnaire .
+352;les vrais court-termistes;ne sont pas;les marchés;-1
+352;les dirigeants indélicats;influencés par;leur système de rémunération inadéquat et mal corrélé avec la véritable création de valeur;-1
+352;dirigeants;indélicats;-1
+352;leur système de rémunération;inadéquat;avec la véritable création de valeur;-1
+352;leur système de rémunération;mal corrélé;avec la véritable création de valeur;-1
+352;Félix Bogliolo;pdg d';Evafine;-1
+352;Félix Bogliolo;avance;les vrais court-termistes ne sont pas les marchés , mais les dirigeants indélicats , influencés par leur système de rémunération inadéquat et mal corrélé avec la véritable création de valeur;-1
+352;Evafine;introduisit;la notion de valeur pour l' actionnaire;avec le cabinet Stern & Stewart;en France;-1
+il y a bien eu en 2003 ils vont tuer le capitalisme , brûlot contre le capitalisme financier de Claude Bébéar , l' ancien patron d' AXA .
+353;ils;vont tuer;le capitalisme;-1
+353;Claude Bébéar;ancien patron;d' AXA;-1
+c' était une invention de Jack Welch , l' ancien patron de General Electric , sur laquelle il est d' ailleurs revenu .
+354;c';était une invention de;Jack Welch;-1
+354;Jack Welch;ancien patron de;General Electric;-1
+354;il;est d' ailleurs revenu;une invention de Jack Welch;-1
+ce sera Jack Welch , ancien pdg de General Electric ( GE ) .
+355;Jack Welch;ancien pdg de;General Electric;-1
+355;General Electric;(;GE;-1
+ancien pdg d' AXA , cofondateur de l' institut Montaigne dont il est le président .
+356;ancien pdg d' AXA;cofondateur de;l' institut Montaigne;-1
+356;il;est le président;l' institut Montaigne;-1
+Armand Hatchuel directeur adjoint de le centre de gestion scientifique de l' Ecole de les MinesParistech .
+357;Armand Hatchuel;directeur adjoint de;le centre de gestion scientifique de l' Ecole de les MinesParistech;-1
+Pierre-Yves Gomez professeur de management stratégique et directeur de l' institut français de gouvernement de les entreprises de l' EM Lyon .
+358;Pierre-Yves Gomez;professeur de;management stratégique;-1
+358;Pierre-Yves Gomez;directeur de;l' institut français de gouvernement de les entreprises de l' EM Lyon;-1
+il est coauteur de l' entreprise dans la démocratie .
+359;il;est coauteur de;l' entreprise dans la démocratie;-1
+« a ne regarder que le cours , explique emmanuel bourdeix , directeur de la gestion actions de Natixis Asset Management , un investisseur qui aurait acheté le CAC40 en 1999 n' aurait pas récupéré sa mise en mai 2011 .
+360;emmanuel bourdeix;directeur;de la gestion actions;de Natixis Asset Management;-1
+360;emmanuel bourdeix;explique;a ne regarder que le cours;-1
+360;emmanuel bourdeix;explique;un investisseur qui aurait acheté le CAC40 en 1999 n' aurait pas récupéré sa mise en mai 2011;-1
+360;un investisseur;aurait acheté;le CAC40;en 1999;n' aurait pas récupéré sa mise en mai 2011;-1
+360;un investisseur qui aurait acheté le CAC40 en 1999;n' aurait pas récupéré;sa mise;en mai 2011;-1
+Gilles Vermot-Desroches directeur de le développement durable de Schneider Electric .
+361;Gilles Vermot-Desroches;directeur;de le développement durable;de Schneider Electric;-1 
+Michel Aglietta professeur d' économie à Paris-x Nanterre , membre de le conseil d' analyse économique et conseiller à le CEPII .
+362;Michel Aglietta;professeur;d' économie;à Paris-x Nanterre;-1
+362;Michel Aglietta;membre de;le conseil d' analyse économique;-1
+362;Michel Aglietta;conseiller à;le CEPII;-1
+Jean-Marc Daniel professeur d' économie à l' ESCP-EAP , à l' ecole de les mines , à Paris-x et à l' ENSAE .
+363;Jean-Marc Daniel;professeur;d' économie;à l' ESCP-EAP;-1
+363;Jean-Marc Daniel;professeur;d' économie;à l' ecole de les mines;-1
+363;Jean-Marc Daniel;professeur;d' économie;à Paris-x;-1
+363;Jean-Marc Daniel;professeur;d' économie;à l' ENSAE;-1
+il dirige la revue sociétal .
+364;il;dirige;la revue sociétal;-1
+Paul Volcker , le président de la FED , remonte les taux d' intérêt pour casser l' inflation .
+365;Paul Volcker;président de;la FED;-1
+365;Paul Volcker;remonte;les taux d' intérêt;pour casser l' inflation;-1
+365;Paul Volcker;casser;l' inflation;-1
+la FED remonte les taux pour casser l' inflation .
+366;la FED;remonte;les taux;pour casser l' inflation;-1
+366;la FED;casser;l' inflation;-1
+elle l' était encore moins dix ans plus tôt quand Milton Friedman , futur prix nobel d' économie à l' université de Chicago , écrit dans le New York Times .
+367;elle;était encore moins;dix ans plus tôt;-1
+367;Milton Friedman;futur prix nobel;d' économie;à l' université de Chicago;-1
+367;Milton Friedman;écrit dans;le New York Times;dix ans plus tôt;-1
+Baudoin Roger , un cadre devenu jésuite , y présentait devant un parterre de chercheurs et de patrons les résultats d' un programme de recherche de deux ans mené avec les équipes d' olivier favereau de l' université de Nanterre et d' Armand Hatchuel de l' Ecole de les Minesde Paris , sur le thème « l' entreprise , formes de la propriété et responsabilités sociales » ( 5 ) .
+368;Baudoin Roger;,;un cadre devenu jésuite;-1
+368;un cadre;devenu;jésuite;-1
+368;Baudoin Roger;devenu;jésuite;-1
+368;Baudoin Roger;présentait;les résultats d' un programme de recherche de deux ans mené avec les équipes d' olivier favereau de l' université de Nanterre et d' Armand Hatchuel de l' Ecole de les Minesde Paris;sur le thème « l' entreprise , formes de la propriété et responsabilités sociales »;devant un parterre de chercheurs et de patrons;-1
+368;les résultats d' un programme de recherche de deux ans;mené avec;les équipes d' olivier favereau de l' université de Nanterre et d' Armand Hatchuel de l' Ecole de les Minesde Paris;-1
+pour convaincre les sceptiques qui se demandent comment justifier auprès de leurs actionnaires cette allocation sous-optimale de leurs ressources - puisque ces activités environnementales et sociétales ne relèvent pas de « leur coeur de métier » - , Michael Porter avait invité Indra Nooyi , la patronne de Pepsico , auteur d' un guide stratégique pour l' action intitulé « des résultats et des finalités » ( 4 ) .
+369;Michael Porter;avait invité;Indra Nooyi;pour convaincre les sceptiques qui se demandent comment justifier auprès de leurs actionnaires cette allocation sous-optimale de leurs ressources;-1
+369;Michael Porter;convaincre;les sceptiques qui se demandent comment justifier auprès de leurs actionnaires cette allocation sous-optimale de leurs ressources;-1
+369;les sceptiques;demandent comment justifier;cette allocation sous-optimale de leurs ressources;auprès de leurs actionnaires;-1
+369;leurs ressources;allocation;sous-optimale;-1
+369;Michael Porter;avait invité;Indra Nooyi , la patronne de Pepsico , auteur d' un guide stratégique pour l' action intitulé « des résultats et des finalités »;-1
+369;Indra Nooyi;patronne de;Pepsico;-1
+369;Indra Nooyi;auteur d';un guide stratégique pour l' action intitulé « des résultats et des finalités »;-1
+369;un guide stratégique pour l' action;intitulé;« des résultats et des finalités »;-1
+369;« des résultats et des finalités »;guide stratégique;pour l' action;-1
+369;ces activités environnementales et sociétales;ne relèvent pas de;leur coeur de métier;-1
+enhardis par la sortie de le gourou américain , Paul Polman et Leo Apotheker , les dirigeants respectifs de les groupes européens Unilever et SAP , ont enfoncé le clou à Davos en 2010 .
+370;le gourou américain;,;Paul Polman;-1
+370;le gourou américain;,;Leo Apotheker;-1
+370;les dirigeants respectifs de les groupes européens Unilever et SAP;enhardis par la sortie de;le gourou américain;-1
+370;les dirigeants respectifs de les groupes européens Unilever et SAP;enhardis par la sortie de;Paul Polman;-1
+370;les dirigeants respectifs de les groupes européens Unilever et SAP;enhardis par la sortie de;Leo Apotheker;-1
+370;les dirigeants respectifs de les groupes européens Unilever et SAP;ont enfoncé le clou;à Davos;en 2010;-1
+en France , en 2009 , selon l' autorité de les marchés financiers , 35 sociétés ont distribué en tout 165 millions d' euros à 75 dirigeants ( contre 217 millions à 87 dirigeants en 2008 ) , les stock-options représentant 32 % de leur rémunération totale , contre 47 % l' année précédente .
+371;35 sociétés;ont distribué en tout;165 millions d' euros;à 75 dirigeants;en France;en 2009;-1
+371;35 sociétés;ont distribué en tout;217 millions;à 87 dirigeants;en France;en 2008;selon;l' autorité de les marchés financiers;-1
+371;35 sociétés ont distribué en tout 165 millions d' euros à 75 dirigeants ( contre 217 millions à 87 dirigeants en 2008 );selon;l' autorité de les marchés financiers;-1
+en France , en 2009 , selon l' autorité de les marchés financiers , 35 sociétés ont distribué en tout 165 millions d' euros à 75 dirigeants ( contre 217 millions à 87 dirigeants en 2008 ) , les stock-options représentant 32 % de leur rémunération totale , contre 47 % l' année précédente .
+371;les stock-options;représentant;32 % de leur rémunération totale;-1
+371;les stock-options;représentant;47 %;l' année précédente;-1

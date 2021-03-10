@@ -1,0 +1,1521 @@
+Earlier this year , President Bush made a final " take - it - or - leave it " offer on the minimum wage : an increase to $ 4.25 an hour over three years , and only if accompanied by a lower wage for the first six months of a job .
+0;President Bush;made a final " take - it - or - leave it " offer on;the minimum wage;Earlier this year;-1
+1;Bush;President;-1
+2;final " take - it - or - leave it " offer on the minimum wage;an increase to;$ 4.25 an hour;over three years;-1
+3;final " take - it - or - leave it " offer on the minimum wage;accompanied by;a lower wage;for the first six months of a job;-1
+4;a lower wage;for;a job;in the first six months;-1
+This finding indicated that organic compounds could carry current .
+5;This finding;indicated that;organic compounds could carry current;-1
+Blagoja ` Billy ' Celeski is an Australian footballer who plays as a midfielder for the Newcastle Jets .
+6;Blagoja ` Billy ' Celeski;is;an Australian footballer;-1
+7;Blagoja ` Billy ' Celeski;plays;as a midfielder;for the Newcastle Jets;-1
+7;Blagoja ` Billy ' Celeski;as a midfielder for;the Newcastle Jets;-1
+7;Blagoja ` Billy ' Celeski;midfielder for;the Newcastle Jets;-1
+Mr. Baker found an opening under the house that led to a fume - filled coal mine .
+10;Mr. Baker;found;an opening;under the house;-1
+11;an opening;led to;a fume - filled coal mine;under the house;-1
+12;coal mine;fume - filled;-1
+Tom Bradley joined the London , Midland and Scottish Railway Company as a junior clerk in the Goods Depot at Kettering in 1941 .
+13;Tom Bradley;joined;the London , Midland and Scottish Railway Company;as a junior clerk in the Goods Depot;at Kettering;in 1941;-1
+14;Tom Bradley;as a junior clerk;in the Goods Depot;at Kettering;in 1941;-1
+15;a Goods Depot;at;Kettering;in 1941;-1
+16;the London , Midland and Scottish Railway Company;at;Kettering;in 1941;-1
+17;Tom Bradley;in;1941;-1
+However , Jesus is not accepted as the son by Muslims , who strictly maintain that he was a human being who was loved by God and exalted by God to ranks of the most righteous .
+19;Jesus;is not accepted as;the son;by Muslims;-1
+20;he;was;a human being;-1
+21;he;was loved by;God;-1
+22;he;exalted;to ranks of the most righteous;by God;-1
+From 1970 to 1985 , Gideon Rodan taught at the University of Connecticut School of Dental Medicine until he switched over to Merck .
+23;Gideon Rodan;taught;at the University of Connecticut School of Dental Medicine;From 1970;to 1985;-1
+From 1970 to 1985 , Gideon Rodan taught at the University of Connecticut School of Dental Medicine until he switched over to Merck .
+26;he;switched over;to Merck;-1
+After a short absence Keibler began a short feud with the evil Jillian Hall , which led to the two having a match on " Velocity " , which Keibler lost . 
+28;Keibler;began a short feud;with the evil Jillian Hall;After a short absence;-1
+29;a short feud with the evil Jillian Hall;led to;the two having a match on " Velocity ";-1
+29;the two;having a match;on " Velocity ";-1
+30;Keibler;lost;a match on " Velocity ";-1
+Walcott was brought on one knee in the third round and the fight ended with hardly a scratch on Langford .
+31;Walcott;was brought on one knee;the fight;in the third round;-1
+Walcott was brought on one knee in the third round and the fight ended with hardly a scratch on Langford .
+33;the fight;ended with hardly a scratch on;Langford;-1
+On 12 July 2006 , Hezbollah launched a series of rocket attacks and raids into Israeli territory , where they killed three Israeli soldiers and captured a further two .
+34;Hezbollah;launched a series of;rocket attacks;into Israeli territory;On 12 July 2006;-1
+35;Hezbollah;launched a series of;raids;into Israeli territory;On 12 July 2006;-1
+36;they;killed;three Israeli soldiers;in Israeli territory;On 12 July 2006;-1
+37;Hezbollah;captured;a further two;in Israeli territory;On 12 July 2006;-1
+Courtelary is first mentioned in 968 as " Curtis Alerici " in a list of the properties of Moutier - Grandval Abbey .
+40;Courtelary;is first mentioned;as " Curtis Alerici ";in a list of the properties of Moutier - Grandval Abbey;in 968;-1
+The strike obtained political support from the Political Affairs Committee , and the workers were addressed at numerous public meetings by Dr. Cheddi Jagan , Janet Jagan and leaders of the GIWU .
+44;The strike;obtained political support from;the Political Affairs Committee;-1
+45;the workers;were addressed;by Dr. Cheddi Jagan;at numerous public meetings;-1
+45;the workers;were addressed;Janet Jagan;at numerous public meetings;-1
+45;the workers;were addressed;leaders of the GIWU;at numerous public meetings;-1
+US 258 and NC 122 parallel the river north before the two routes diverge northeast of Tarboro .
+49;US 258;parallel;the river north;-1
+49;NC 122;parallel;the river north;-1
+US 258 and NC 122 parallel the river north before the two routes diverge northeast of Tarboro .
+52;the two routes;diverge;northeast of Tarboro;-1
+53;US 258;diverge;northeast of Tarboro;-1
+53;NC 122;diverge;northeast of Tarboro;-1
+A number of rare and endemic plants are adapted to the unique limestone soils of the mountains , including the cliffdweller , bristlecone cryptantha , and Inyo rock daisy .
+54;A number of rare and endemic;are adapted to;the unique limestone soils of the mountains;-1
+55;limestone soils of the mountains;unique;-1
+56;the cliffdweller;are adapted to;the unique limestone soils of the mountains;-1
+57;the bristlecone cryptantha;are adapted to;the unique limestone soils of the mountains;-1
+58;Inyo rock daisy;are adapted to;the unique limestone soils of the mountains;-1
+59;cliffdweller;rare;-1
+61;Inyo rock daisy;rare;-1
+60;bristlecone cryptantha;rare;-1
+60;plants;rare;-1
+59;cliffdweller;endemic;-1
+60;bristlecone cryptantha;endemic;-1
+61;Inyo rock daisy;endemic;-1
+60;plants;endemic;-1
+These include any Assistant to the President , Deputy Assistant to the President , and Special Assistant to the President .
+62;These;include;any Assistant to the President;-1
+63;These;include;any Deputy Assistant to the President;-1
+64;These;include;any Special Assistant to the President;-1
+He was awarded the Queen 's Police Medal in the 1957 New Year Honours .
+65;He;was awarded;the Queen 's Police Medal;New Year Honours;in 1957;-1
+Competition in the sale of complete bikes is heating up too .
+67;Competition in the sale of complete bikes;is heating up too;-1
+68;Competition;in;the sale of complete bikes;-1
+with a .535 slugging percentage , and the Astros , where he batted .260 in 64 games , primarily at second base .
+69;he;batted;.260 in 64 games;at second base;the Astros;-1
+71;he;with;.535 slugging percentage;-1
+They are also known in Japan as " Northern Territories " .
+74;They;are also known;as " Northern Territories ";in Japan;-1
+She resigns after the events of " The Last Precinct " and relocates to Florida to become a private forensic consultant .
+75;She;resigns;after the events of " The Last Precinct ";-1
+76;She;relocates to;Florida;to become a private forensic consultant;-1
+77;She;become;a private forensic consultant;Florida;-1
+Upon exiting Davidson Township , Sullivan County , Muncy Creek enters Lycoming County and flows along the border between Shrewsbury Township and Penn Township for several miles .
+79;Muncy Creek;enters;Lycoming County;-1
+80;Muncy Creek;Upon exiting;Davidson Township , Sullivan County;-1
+81;Davidson Township;,;Sullivan County;-1
+82;Muncy Creek;flows along;the border between Shrewsbury Township and Penn Township;for several miles;-1
+83;the border;between;Shrewsbury Township and Penn Township;-1
+Although the villages were located close to industrial sites , they were generally physically separated from them and generally consisted of relatively high quality housing , with integrated community amenities and attractive physical environments .
+84;the villages;were located close to;industrial sites;-1
+85;the villages;were generally physically separated from;the industrial sites;-1
+85;the villages;were generally physically separated from;them;-1
+85;they;were generally physically separated from;the industrial sites;-1
+85;they;were generally physically separated from;them;-1
+86;the villages;generally consisted of;relatively high quality housing;with integrated community amenities and attractive physical environments;-1
+86;they;generally consisted of;relatively high quality housing;with integrated community amenities and attractive physical environments;-1
+86;the villages;with;integrated community amenities;-1
+86;the villages;with;attractive physical environments;-1
+86;they;with;integrated community amenities;-1
+86;they;with;attractive physical environments;-1
+86;physical environments;attractive;-1
+86;community amenities;integrated;-1
+The RSNO 's base is at Henry Wood Hall in Glasgow and is also used as its recording venue ,,, a new base is being constructed within the Royal Concert Hall , Buchanan Street .
+87;The RSNO;'s;base;at Henry Wood Hall in Glasgow;-1
+88;Henry Wood Hall;in;Glasgow;-1
+89;The RSNO 's base;is also used as;its recording venue;-1
+90;a new base;is being constructed;within the Royal Concert Hall , Buchanan Street;-1
+91;the Royal Concert Hall;,;Buchanan Street;-1
+Dripping can be clarified by adding a sliced raw potato and cooking until potato turns brown .
+92;Dripping;can be clarified;by adding a sliced raw potato and cooking;until potato turns brown;-1
+In recent years , Nissan has instituted flex - time work schedules and allowed employees to dress casually , even in blue jeans .
+93;Nissan;has instituted;flex - time work schedules;In recent years;-1
+95;Nissan;allowed;employees to dress casually , even in blue jeans;In recent years;-1
+95;employees;dress;even in blue jeans;In recent years;-1
+95;employees;dress;casually;In recent years;-1
+A character notes some practical difficulties with such a map and states that " we now use the country itself , as its own map , and I assure you it does nearly as well . "
+96;A character;with such;a map;-1
+96;A character;states that;we now use the country itself , as its own map , and I assure you it does nearly as well;-1
+96;we;use;the country itself;as its own map;now;-1
+96;I;assure;you;it does nearly as well;-1
+96;it;does;nearly;as well;-1
+97;A character;notes;some practical difficulties;-1
+In stock - index arbitrage , traders buy and sell large amounts of stocks with offsetting trades in stock - index futures and options .
+98;traders;buy;large amounts of stocks;In stock - index arbitrage;-1
+99;traders;sell;large amounts of stocks;In stock - index arbitrage;-1
+100;traders;offsetting trades in;stock - index futures and options;In stock - index arbitrage;-1
+102;stock - index;arbitrage;-1
+Having returned to the Second Division at the first attempt , they gained promotion to the First Division in 1974 .
+103;they;gained promotion;to the First Division;in 1974;-1
+104;they;returned to;the Second Division;at the first attempt;-1
+He stayed for less than a year before being appointed Chief Constable of Kent in July 1946 .
+105;He;stayed;for less than a year;-1
+106;He;being appointed Chief Constable;of Kent;in July 1946;-1
+In many of her writings , King often refers to the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmother .
+109;King;often refers to;the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmother;In many of her writings;-1
+110;her grandmother;snobbish behavior;-1
+111;contradictions;comical;-1
+112;her upbringing;material reality;-1
+McLay also suggests that the songs negate what many consider to be a " heretical " ending for a comedy .
+113;McLay;also suggests that;the songs negate what many consider to be a " heretical " ending for a comedy;-1
+113;the songs;negate;what many consider to be a " heretical " ending for a comedy;-1
+114;many;consider;ending;" heretical ";for a comedy;-1
+Byrom Street Cutting became a runaway catch point for runaway trains in the tunnel .
+115;Byrom Street Cutting;became;a runaway catch point for runaway trains;in the tunnel;-1
+The division maintained defensive positions until the offensive of 23 May , when it broke out of the beachhead , took Cisterna , and raced to Civitavecchia and Rome .
+117;The division;maintained;defensive positions;until the offensive of 23 May;-1
+118;the offensive;of;23 May;-1
+119;The division;broke out of;the beachhead;on 23 May;-1
+119;it;broke out of;the beachhead;on 23 May;-1
+120;The division;took;Cisterna;on 23 May;-1
+121;The division;raced to;Civitavecchia;on 23 May;-1
+122;The division;raced to;Rome;on 23 May;-1
+The novel follows Cashel Byron , a world champion prizefighter , as he tries to woo wealthy aristocrat Lydia Carew without revealing his illegal profession .
+123;The novel;follows;Cashel Byron;-1
+124;Cashel Byron;,;a world champion prizefighter;-1
+125;Cashel Byron;tries to woo;wealthy aristocrat Lydia Carew;without revealing his illegal profession;-1
+126;Lydia Carew;wealthy;-1
+127;Lydia Carew;aristocrat;-1
+128;his;illegal profession;-1
+129;Cashel Byron;without revealing;his illegal profession;-1
+A different judge then ordered the case reviewed by a higher court .
+130;A different judge;ordered;the case reviewed by a higher court;-1
+131;the case;reviewed;by a higher court;-1
+In 1717 Lady Mary Wortley Montagu observed the practice in Istanbul and attempted to popularize it in Britain , but encountered considerable resistance .
+132;Lady Mary Wortley Montagu;observed;the practice;in Istanbul;In 1717;-1
+133;Lady Mary Wortley Montagu;attempted to popularize;the practice;in Britain;In 1717;12
+133;Lady Mary Wortley Montagu;attempted to popularize;it;in Britain;In 1717;12
+134;Lady Mary Wortley Montagu;encountered;considerable resistance;in Britain;In 1717;-1
+136;Mary Wortley Montagu;Lady;-1
+Wallonia is also home to about 80 % of the population of the French Community of Belgium , a political level responsible for matters related mainly to culture and education , with the remainder living in Brussels .
+137;Wallonia;is also home to;about 80 % of the population of the French Community of Belgium;-1
+137;a political level;responsible for;matters related mainly to culture and education;-1
+137;matters;related mainly to;culture;-1
+137;matters;related mainly to;education;-1
+139;the remainder;living in;Brussels;-1
+For liquid-packed vessels , thermal relief valves are generally characterized by the relatively small size of the valve necessary to provide protection from excess pressure caused by thermal expansion .
+141;thermal relief valves;are generally characterized by;the relatively small size of the valve;For liquid-packed vessels;-1
+142;excess pressure;caused by;thermal expansion;For liquid-packed vessels;-1
+143;the valve;provide protection from;excess pressure;For liquid-packed vessels;-1
+The Original Celtics were a barnstorming professional basketball team in the 1920s .
+145;The Original Celtics;were;a barnstorming professional basketball team;in the 1920s;-1
+As the student of Torah ascends through the thought of the Pardes system , as the interpretations become more inward and spiritual , it becomes progressively understood that God desires man 's observance of the Jewish precepts , so to speak .
+146;the student of Torah;ascends through;the thought of the Pardes system;-1
+147;the interpretations;become more;inward;-1
+148;the interpretations;become more;spiritual;-1
+149;it;becomes progressively understood that;God desires man 's observance of the Jewish precepts;-1
+150;God;desires;man 's observance of the Jewish precepts;-1
+150;man;observance of;the Jewish precepts;-1
+All these vehicles have sharply improved Nissan 's morale and image -- but have n't done much for its market share .
+151;All these vehicles;have sharply improved;Nissan 's morale and image;-1
+153;All these vehicles;have n't done much for;its market share;-1
+Just above seen is a replica of a Shiva lingam .
+154;a replica of a Shiva lingam;seen;Just above;-1
+Around the " triangle area " , which includes Quanzhou , Xiamen and Zhangzhou , locals all speak Minnan languages .
+155;the " triangle area;includes;Quanzhou;-1
+156;the " triangle area;includes;Xiamen;-1
+157;the " triangle area;includes;Zhangzhou;-1
+158;locals;speak;Minnan languages;Around the " triangle area;-1
+Chrysler has had to temporarily close the St. Louis and Toledo plants recently because of excess inventories of vehicles built there .
+159;Chrysler;has had to temporarily close;the St. Louis and Toledo plants;-1
+160;vehicles;built;there;-1
+160;inventories of vehicles built there;excess;-1
+This used the section of the C&HP line from Buxton as far as Parsley Hay , from where a single line ran south to Ashbourne , where it connected with the North Staffordshire Railway .
+161;This;used;the section of the C&HP line;from Buxton;-1
+162;This;used;the section of the C&HP line;as far as Parsley Hay;-1
+163;a single line;ran south;to Ashbourne;Parsley Hay;-1
+164;a single line;connected with;the North Staffordshire Railway;in Ashbourne;-1
+164;it;connected with;the North Staffordshire Railway;Ashbourne;-1
+Though this form of violence is often portrayed as an issue within the context of heterosexual relationships , it also occurs in lesbian relationships , daughter-mother relationships , roommate relationships and other domestic relationships involving two women .
+165;this form of violence;is often portrayed as;an issue within the context of heterosexual relationships;-1
+166;this form of violence;occurs in;lesbian relationships;-1
+166;it;occurs in;lesbian relationships;-1
+167;this form of violence;occurs in;daughter-mother relationships;-1
+167;it;occurs in;daughter-mother relationships;-1
+168;this form of violence;occurs in;roommate relationships;-1
+168;it;occurs in;roommate relationships;-1
+168;this form of violence;occurs in;domestic relationships involving two women;-1
+168;it;occurs in;domestic relationships involving two women;-1
+169;domestic relationships;involving;two women;-1
+I worry more about things becoming so unraveled on the other side that they might become unable to negotiate .
+172;I;worry more about;things becoming so unraveled on the other side;that they might become unable to negotiate;-1
+173;things;becoming so unraveled;on the other side;-1
+173;they;might become unable to negotiate;-1
+The second session , taking place on November 12 , 1960 , produced Joe Primrose 's " St. James Infirmary " and the sad and mood " I 've Just Got to Forget You " .
+174;The second session;produced;Joe Primrose 's " St. James Infirmary ";on November 12 , 1960;-1
+174;The second session;produced;the sad and mood " I 've Just Got to Forget You ";on November 12 , 1960;-1
+175;" I 've Just Got to Forget You ";sad;-1
+175;" I 've Just Got to Forget You ";mood;-1
+176;The second session;taking place;on November 12 , 1960;-1
+177;" St. James Infirmary ";'s;Joe Primrose;-1
+23.8 % of all households were made up of individuals and 13.0 % had someone living alone who was 65 years of age or older .
+180;23.8 % of all households;made up of;individuals;-1
+181;13.0 %;had;someone living alone who was 65 years of age or older;-1
+181;someone;living;alone;-1
+181;someone;was;65 years of age or older;-1
+He held the post as Attorney-General until 1834 ,,, he was readmitted in 1841 and after serving for a year , became Master of the Rolls in Ireland .
+182;He;held;the post;as Attorney-General;until 1834;-1
+183;he;was readmitted;the post;in 1841;-1
+184;He;became;Master of the Rolls;in Ireland;after serving for a year;-1
+184;he;became;Master of the Rolls;in Ireland;after serving for a year;-1
+184;he;serving for;a year;-1
+Great Northern Nekoosa soared $ 20.125 a share , to $ 62.875 , substantially above the $ 58 a share Georgia - Pacific is offering .
+185;Great Northern Nekoosa;soared;$ 20.125 a share;to $ 62.875;-1
+187;$ 62.875;substantially above;the $ 58 a share Georgia - Pacific is offering;-1
+188;Georgia - Pacific;is offering;$ 58 a share;-1
+Mr. Moon 's support for a Watergate - beleaguered Richard Nixon , the Koreagate scandal , and his prison sentence for income - tax evasion did not help the church 's recruitment efforts .
+189;Mr. Moon 's;support for;a Watergate - beleaguered Richard Nixon;-1
+189;Mr. Moon 's;support for;the Koreagate scandal;-1
+189;his prison sentence for income - tax evasion;did not help;the church 's recruitment efforts;-1
+189;his;sentence;prison;for income - tax evasion;-1
+The latest research pact bolsters Du Pont 's growing portfolio of investments in superconductors .
+190;The latest research pact;bolsters;Du Pont 's growing portfolio of investments in superconductors;-1
+191;Du Pont 's growing portfolio;investments in;superconductors;-1
+192;Du Pont;'s growing;of investments;-1
+She began her film career in 1947 in the film " A New Oath " .
+193;She;began;her film career;in 1947;-1
+194;" A New Oath ";film;in 1947;9
+195;She;in;the film " A New Oath ";in 1947;-1
+196;her career;in;film;-1
+Continuing duties specified for freed slaves in manumission agreements became more common into the Hellenistic era , and they may have been customary earlier .
+197;Continuing duties specified for freed slaves;became more common;in manumission agreements;into the Hellenistic era;-1
+198;Continuing duties specified for freed slaves;may have been customary;in manumission agreements;earlier;19
+198;Continuing duties specified for freed slaves;may have been customary;in manumission agreements;earlier;19
+199;Continuing duties;specified for;freed slaves;in manumission agreements;-1
+He returned to Cleveland , working in clubs as a singer , dancer , and comedian , often appearing in character as Prince DuMarr .
+200;He;returned to;Cleveland;-1
+201;He;working;in clubs;as a singer;-1
+202;He;working;in clubs;dancer;-1
+203;He;working;in clubs;comedian;-1
+204;He;often appearing in character as;Prince DuMarr;-1
+The Israeli controlled sector was captured by Israel in the Six-Day War of June 1967 .
+205;The Israeli controlled sector;was captured by;Israel;in the Six-Day War of June 1967;-1
+206;sector;controlled;Israeli;-1
+A company spokesman did n't know Mr. Wakeman 's age .
+207;A company spokesman;did n't know;Mr. Wakeman 's age;-1
+Voyslava has killed Mlada , Yaromir 's bride , to have him for herself .
+208;Voyslava;has killed;Yaromir 's bride;to have him for herself;-1
+209;Voyslava;has killed;Mlada;to have him for herself;-1
+209;Voyslava;have;him;for herself;-1
+210;Mlada;'s bride;Yaromir;-1
+Mr. Ackerman contended that it was a direct response to his efforts to gain control of Datapoint .
+211;Mr. Ackerman;contended that;it was a direct response to his efforts to gain control of Datapoint;-1
+211;it;was a direct response to;his efforts to gain control of Datapoint;-1
+212;Mr. Ackerman;efforts to gain control of;Datapoint;-1
+212;his;efforts to gain control of;Datapoint;-1
+Newport Electronics Inc. named a new slate of officers , a move that follows replacement of the company 's five incumbent directors last week .
+213;Newport Electronics Inc.;named;a new slate of officers;-1
+214;Newport Electronics Inc. named a new slate of officers;,;a move that follows replacement of the company 's five incumbent directors last week;-1
+214;a move;follows;replacement of the company 's five incumbent directors last week;-1
+214;Newport Electronics Inc. naming a new slate of officers;follows;replacement of the company 's five incumbent directors last week;-1
+215;the company 's five incumbent directors;replacement;last week;-1
+216;Newport Electronics Inc.;'s;five incumbent directors;-1
+Here , equality between the two vectors in homogeneous coordinates means that the numbers on the right side are equal to the numbers on the left side up to some common scaling factor formula_8 .
+219;equality;between;the two vectors;in homogeneous coordinates;-1
+220;equality between the two vectors in homogeneous coordinates;means that;the numbers on the right side are equal to the numbers on the left side;Here;-1
+221;numbers;on;the right side;-1
+222;numbers;on;the left side;-1
+223;the numbers on the right side;are equal to;the numbers on the left side;up to some common scaling factor formula_8;-1
+225;formula_8;some common scaling factor;-1
+Many lodge members , youth and adult , are active staff members of both Scout and Cub Scout camps .
+232;Many lodge members;are active staff members of;both Scout and Cub Scout camps;-1
+234;youth;are active staff members of;both Scout and Cub Scout camps;-1
+234;adult;are active staff members of;both Scout and Cub Scout camps;-1
+These tracks have subsequently been included on CD reissues of the album " The Plan " .
+235;These tracks;have subsequently been included on;CD reissues of the album " The Plan ";-1
+236;the album " The Plan ";CD reissues;-1
+The Institut Constant de Rebecque is a Swiss free-market , classical liberal and libertarian think tank founded in January 2005 in Lausanne , named after writer and political philosopher Benjamin Constant .
+237;The Institut Constant de Rebecque;is;Swiss free-market;-1
+239;The Institut Constant de Rebecque;is;classical liberal;-1
+240;The Institut Constant de Rebecque;is;libertarian think tank;-1
+241;The Institut Constant de Rebecque;founded;in Lausanne;in January 2005;-1
+242;The Institut Constant de Rebecque;named after;writer and political philosopher Benjamin Constant;-1
+243;Benjamin Constant;writer;-1
+244;Benjamin Constant;political philosopher;-1
+Owen and the French socialist Henri de Saint-Simon were the fathers of the utopian socialist movement ,,, they believed that the ills of industrial work relations could be removed by the establishment of small cooperative communities .
+245;the French socialist Henri de Saint-Simon;were the fathers of;the utopian socialist movement;-1
+245;Owen;were the fathers of;the utopian socialist movement;-1
+246;Henri de Saint-Simon;French socialist;-1
+247;Owen;believed that;the ills of industrial work relations could be removed;-1
+247;Henri de Saint-Simon;believed that;the ills of industrial work relations could be removed;-1
+247;they;believed that;the ills of industrial work relations could be removed;-1
+248;the ills of industrial work relations;could be removed by;the establishment of small cooperative communities;-1
+248;small cooperative communities;establishment;-1
+Mr. Achenbaum 's move follows the announcement last month that his consulting partner , Stanley Canter , 66 , would retire .
+249;Mr. Achenbaum;'s;move;-1
+250;Mr. Achenbaum 's move;follows;the announcement last month that his consulting partner , Stanley Canter , 66 , would retire;-1
+251;Stanley Canter;consulting partner;his;-1
+253;Stanley Canter;,;66;-1
+253;Stanley Canter;would retire;-1
+It finally closed to all traffic in July 1985 , when it was deemed too expensive to make extensive repairs to keep Latchford viaduct operational .
+254;Latchford viaduct;finally closed to;all traffic;in July 1985;-1
+254;It;finally closed to;all traffic;in July 1985;-1
+255;it;was deemed;too expensive;to make extensive repairs to keep Latchford viaduct operational;in July 1985;-1
+FEDERAL NATIONAL MORTGAGE ASSOCIATION ( Fannie Mae ) : Posted yields on 30 year mortgage commitments for delivery within 30 days ( priced at par ) 9.75 % , standard conventional fixed-rate mortgages : 8.75 % , 6\/2 rate capped one - year adjustable rate mortgages .
+257;FEDERAL NATIONAL MORTGAGE ASSOCIATION;(;Fannie Mae;-1
+258;Posted yields on 30 year mortgage commitments for delivery within 30 days;priced at par;9.75 %;-1
+259;standard conventional fixed-rate mortgages;:;8.75 %;-1
+260;Posted yields;on;30 year mortgage commitments for delivery within 30 days;-1
+261;Posted yields;on;standard conventional fixed-rate mortgages;-1
+262;Posted yields;on;6\/2 rate capped one - year adjustable rate mortgages;-1
+263;30 year mortgage commitments;for delivery within;30 days;-1
+264;mortgage commitments for delivery within 30 days;30 year;-1
+265;rate mortgages;adjustable;one - year;-1
+The previous champions in 2005 were Kilmacud Crokes , who were knocked out of the 2006 competition at the semi-final stage .
+266;The previous champions;were;Kilmacud Crokes;in 2005;-1
+268;Kilmacud Crokes;knocked out of;competition;at the semi-final stage;2006;-1
+268;The previous champions;knocked out of;competition;at the semi-final stage;2006;-1
+That night , 300 soldiers of the 1st SS Battalion were able to reinforce the hotel and defeat several attacks on the building .
+270;300 soldiers of the 1st SS Battalion;were able to;reinforce the hotel;That night;-1
+271;300 soldiers of the 1st SS Battalion;were able to;defeat several attacks on the building;That night;-1
+270;300 soldiers of the 1st SS Battalion;reinforce;the hotel;That night;-1
+271;300 soldiers of the 1st SS Battalion;defeat;several attacks on the building;That night;-1
+272;several attacks;on;the building;That night;-1
+273;300 soldiers;of;the 1st SS Battalion;-1
+That would be a formula for ensuring even more FHA red ink .
+274;That;would be;a formula;for ensuring even more FHA red ink;-1
+274;That;ensuring;even more FHA red ink;-1
+He develops significance both as a recurrent character in the series and friend to Dream , appearing in a total of seven issues spanning six hundred years .
+275;He;develops significance both as;a recurrent character in the series;-1
+276;He;develops significance both as;friend to Dream;-1
+275;He;as a recurrent character;in the series;-1
+276;He;friend to;Dream;-1
+277;He;appearing in;a total of seven issues;-1
+278;a total of seven issues;spanning;six hundred years;-1
+The company is expected to spend about $ 30 million a year on its two - year corporate campaign , created by WPP Group 's Ogilvy & Mather unit in New York .
+279;corporate campaign;created by;WPP Group 's Ogilvy & Mather unit;-1
+280;WPP Group;'s;Ogilvy & Mather unit;-1
+281;Ogilvy & Mather unit;in;New York;-1
+282;The company;is expected to spend;about $ 30 million;a year;on its two - year corporate campaign;-1
+283;corporate campaign;two - year;-1
+From 1953 till 1957 Speranskaya worked as chief artist in Kazan Dolls Theatre , since 1957 she worked as stage-artist director in Kazan theatres , also she was invited to other cities of Russian Federation .
+284;Speranskaya;worked as chief artist;in Kazan Dolls Theatre;From 1953;till 1957;-1
+285;Speranskaya;worked as stage-artist director;in Kazan theatres;since 1957;-1
+285;she;worked as stage-artist director;in Kazan theatres;since 1957;-1
+286;Speranskaya;was invited to;other cities of Russian Federation;since 1957;-1
+286;she;was invited to;other cities of Russian Federation;since 1957;-1
+On April 13 , 1987 , the Iowa Terminal Railroad was sold to Dave Johnson and renamed to Iowa Traction Railroad .
+287;the Iowa Terminal Railroad;was sold to;Dave Johnson;On April 13 , 1987;-1
+288;the Iowa Terminal Railroad;renamed to;Iowa Traction Railroad;On April 13 , 1987;-1
+289;Terminal Railroad;Iowa;-1
+His works span a wide range of topics from the occult to natural history , literary criticism , biology , cartography , and iconography .
+290;His works;span;a wide range of topics;-1
+291;His works;span;the occult;-1
+292;His works;span;natural history;-1
+293;His works;span;literary criticism;-1
+294;His works;span;biology;-1
+295;His works;span;cartography;-1
+296;His works;span;iconography;-1
+In 1981 , when staying in New York State , the pair developed the idea of running workshops for professional artists , which became the Triangle Arts Trust .
+297;the pair;developed;the idea of running workshops for professional artists;in New York State;In 1981;-1
+298;the idea of running workshops for professional artists;became;the Triangle Arts Trust;-1
+299;the pair;staying;in New York State;In 1981;-1
+This currently sees the club ranked sixth in terms of premierships won .
+300;the club;ranked sixth in terms of;premierships won;currently;-1
+301;This;sees;the club ranked sixth in terms of premierships won;currently;-1
+Arrangements were made for mid-August performances in 1944 , but , following the 20 July plot to assassinate Hitler , Joseph Goebbels declared " total war " and closed all theatres within the Third Reich , resulting in the work not being allowed a public staging .
+302;Arrangements;were made for;mid-August performances;in 1944;-1
+303;plot;assassinate;Hitler;the 20 July;-1
+304;Joseph Goebbels;declared;total war;following the 20 July plot to assassinate Hitler;-1
+305;Joseph Goebbels;closed;all theatres;within the Third Reich;-1
+306;the work;not being allowed;a public staging;-1
+307;Joseph Goebbels declared " total war " and closed all theatres within the Third Reich;resulting;in the work not being allowed a public staging;-1
+307;Joseph Goebbels declared " total war " and closed all theatres within the Third Reich;following;the 20 July plot to assassinate Hitler;-1
+Fishing boats and cargo ships typically have one or more cargo holds .
+307;Fishing boats;typically have;one or more cargo holds;-1
+308;cargo ships;typically have;one or more cargo holds;-1
+After the GASB was founded in 1984 , 11 years after the FASB , the government - owned entities were supposed to follow FASB rules unless the GASB superceded them .
+309;the GASB;was founded;in 1984;-1
+310;the GASB;was founded;11 years after the FASB;-1
+311;1984;,;11 years after the FASB;-1
+312;entities;owned;the government;-1
+312;the government - owned entities;were supposed to follow;FASB rules;unless the GASB superceded them;After the GASB was founded in 1984;-1
+312;the GASB;superceded;them;-1
+Premark International Inc. , for example , peddles the M8.7sp Electronic Cycling Simulator , a $ 2,000 stationary cycle .
+313;Premark International Inc.;peddles;the M8.7sp Electronic Cycling Simulator;-1
+314;the M8.7sp Electronic Cycling Simulator;,;a $ 2,000 stationary cycle;-1
+316;Premark International Inc.;peddles;a $ 2,000 stationary cycle;-1
+Furious at being passed over again , Michael secures another job with a rival company and plans on leaving his family behind for good .
+317;Michael;Furious at;being passed over again;-1
+318;Michael;being passed over;again;-1
+319;Michael;secures;another job;with a rival company;-1
+320;another job;with;a rival company;-1
+321;Michael;plans on leaving;his family;behind for good;-1
+In October 2008 , Bond apologized to former U.S. Attorney Todd Graves , after a U.S. Justice Department report cited Bond for forcing Graves out over a disagreement with Representative Sam Graves .
+322;Bond;apologized to;former U.S. Attorney Todd Graves;In October 2008;-1
+323;Todd Graves;Attorney;U.S.;-1
+325;a U.S. Justice Department report;cited;Bond;for forcing Graves out over a disagreement with Representative Sam Graves;-1
+326;Bond;forcing;Graves;out over a disagreement with Representative Sam Graves;-1
+327;Graves;disagreement with;Representative Sam Graves;-1
+328;Sam Graves;Representative;-1
+He toured extensively throughout the world , and earned the marketing nickname " the Pavarotti of the Organ " .
+330;He;toured extensively;throughout the world;-1
+331;He;earned;the marketing nickname " the Pavarotti of the Organ ";-1
+332;" the Pavarotti of the Organ ";nickname;marketing;-1
+XM did offer a free month of service to subscribers who called in complaints of the suspension .
+334;XM;did offer;a free month of service;to subscribers who called in complaints of the suspension;-1
+336;subscribers;called in;complaints of the suspension;-1
+336;subscribers;complaints of;the suspension;-1
+The gene thus can prevent a plant from fertilizing itself .
+338;The gene;can prevent;a plant from fertilizing itself;-1
+339;a plant;fertilizing;itself;-1
+Mr. Baker hears her out , pokes around a bit , asks a few questions and proposes some explanations .
+340;Mr. Baker;hears;her;out;-1
+340;Mr. Baker;pokes;around;a bit;-1
+340;Mr. Baker;asks;a few questions;-1
+340;Mr. Baker;proposes;some explanations;-1
+The first , at a severity of Mw 6.0 , occurred on May 26 , 1994 .
+342;The first;occurred on;May 26 , 1994;-1
+343;The first;at a severity of;Mw 6.0;on May 26 , 1994;-1
+The Federal Trade Commission began an investigation in late 1995 .
+344;The Federal Trade Commission;began an investigation;in late 1995;-1
+Although the Algeciras Conference temporarily solved the First Moroccan Crisis , it only worsened the tensions between the Triple Alliance and Triple Entente that ultimately led to the First World War .
+345;the tensions between the Triple Alliance and Triple Entente;led to;the First World War;-1
+345;it;led to;the First World War;-1
+345;it;worsened;the tensions between the Triple Alliance and Triple Entente;-1
+345;the tensions;between;the Triple Alliance;-1
+345;the tensions;between;Triple Entente;-1
+345;Algeciras Conference;solved;the First Moroccan Crisis;temporarily;-1
+By the end of this experiment several results were found .
+346;several results;were found;By the end of this experiment;-1
+According to individuals familiar with the situation , the Frankfurt loss stemmed from a computer program for calculating prices on forward - rate agreements that failed to envision an interest - rate environment where short - term rates were equal to or higher than long - term rates .
+348;individuals;familiar with;the situation;-1
+349;the Frankfurt loss stemmed from a computer program for calculating prices on forward - rate agreements that failed to envision an interest - rate environment where short - term rates were equal to or higher than long - term rates;According to;individuals familiar with the situation;-1
+349;the Frankfurt loss;stemmed from;a computer program for calculating prices on forward - rate agreements;-1
+350;Frankfurt;loss;-1
+351;a computer program for calculating prices on forward - rate agreements;failed to envision;an interest - rate environment where short - term rates were equal to or higher than long - term rates;-1
+352;a computer program;calculating prices on;forward - rate agreements;-1
+353;short - term rates;were equal to or higher than;long - term rates;an interest - rate environment;-1
+Blackburne 's statement that he " would not tolerate a refusal to ratify the appointment " , is an indication of the influence which could then be wielded by a strong Attorney General .
+354;Blackburne 's;statement that;he " would not tolerate a refusal to ratify the appointment ";-1
+354;he;would not tolerate;a refusal;to ratify the appointment;-1
+355;Blackburne 's statement;is an indication of;the influence which could then be wielded by a strong Attorney General;-1
+355;the influence;be wielded by;a strong Attorney General;-1
+The latter was lifted only as the b-side of " Keep on Loving Me " .
+356;The latter;was lifted only as the;b-side of " Keep on Loving Me ";-1
+357;The latter;as the b-side of;" Keep on Loving Me ";-1
+However , the two sometimes work as partners , and during a point in which Robin and Ariana were unable to see each other , he and Stephanie grow even closer .
+358;the two;work as;partners;sometimes;5
+360;he and Stephanie;work as;partners;sometimes;5
+361;he and Stephanie;grow even closer;during a point in which Robin and Ariana were unable to see each other;-1
+363;Robin and Ariana;were unable to see;each other;during a point;-1
+Thus , a woman who used RU-486 to have an abortion would have to make three trips to the clinic past those picket lines ,,, an initial visit for medical screening ( anemics and those with previous pregnancy problems are eliminated ) and to take the pill , a second trip 48 hours later for the prostaglandin , administered either via injection or vaginal suppository , and a third trip a week later to make sure she has completely aborted .
+364;a woman who used RU-486 to have an abortion;would have to make;three trips;to the clinic;-1
+365;a woman who used RU-486 to have an abortion;would have to make;past those picket lines;-1
+366;a woman who used RU-486 to have an abortion;would have to make;an initial visit for;medical screening;-1
+367;anemics;are eliminated;-1
+368;those with previous pregnancy problems;are eliminated;-1
+369;a woman who used RU-486 to have an abortion;visit for;medical screening;-1
+370;a woman who used RU-486 to have an abortion;would have to make;a second trip;to the clinic;for the prostaglandin;48 hours later;-1
+370;a woman who used RU-486 to have an abortion;would have to make;a third trip;to make sure she has completely aborted;a week later;-1
+370;a woman who used RU-486 to have an abortion;make sure;she has completely aborted;-1
+370;she;has completely aborted;-1
+370;she;has completely aborted;-1
+371;the prostaglandin;administered either via;injection;-1
+372;the prostaglandin;administered either via;vaginal suppository;-1
+374;a woman;have;an abortion;-1
+374;a woman;used;RU-486;to have an abortion;-1
+Agen would have another successful run in the 1940s , beginning with the 1943 season when they defeated Stade Bordelais 11 to 4 to win the Coupe de France . 
+375;Agen;would have;another successful run;in the 1940s;-1
+376;Agen;defeated;Stade Bordelais;11 to 4;to win the Coupe de France;in the 1943 season;-1
+376;they;defeated;Stade Bordelais;11 to 4;to win the Coupe de France;in the 1943 season;-1
+377;Agen;win;the Coupe de France;-1
+377;they;win;the Coupe de France;-1
+Terms call for First Security to issue about 0.55 share of its stock for each Deseret share held , or a total of about 550,000 First Security shares .
+378;First Security;to issue;about 0.55 share of its stock;for each Deseret share held;-1
+379;First Security;to issue;a total of about 550,000 First Security shares;-1
+380;First Security;held;Deseret share;-1
+His elder brother , Conte Quinto Mazzolini , served as Italian consul in Jerusalem , and undertook negotiations with Abraham Stern , head of the Lehi terrorist group , which sought to obtain Italian recognition of Jewish sovereignty in Palestine in exchange for placing Zionism under the aegis of Italian fascism .
+381;Conte Quinto Mazzolini;elder brother;His;-1
+382;His elder brother;served as;Italian consul;in Jerusalem;-1
+383;His elder brother;undertook negotiations with;Abraham Stern;-1
+384;Abraham Stern;head of;the Lehi terrorist group;-1
+385;the Lehi terrorist group;sought to obtain;Italian recognition of Jewish sovereignty in Palestine in exchange for placing Zionism under the aegis of Italian fascism;-1
+385;Italian;recognition of;Jewish sovereignty in Palestine;in exchange for placing Zionism under the aegis of Italian fascism;-1
+385;Jewish;sovereignty in;Palestine;-1
+387;the Lehi terrorist group;placing;Zionism;under the aegis of Italian fascism;-1
+In the first volume of the series , The Noh 's nature and background is explained .
+388;The Noh 's nature and background;is explained;In the first volume of the series;-1
+Both companies are allies of Navigation Mixte in its fight against a hostile takeover bid launched last week by Cie .
+390;Both companies;are allies of;Navigation Mixte;-1
+391;Navigation Mixte;fight against;a hostile takeover bid;last week;-1
+391;its;fight against;a hostile takeover bid;last week;-1
+392;a hostile takeover bid;launched;by Cie;last week;-1
+That amounts to more than $ 350 billion a year .
+395;That;amounts to;more than $ 350 billion;a year;-1
+Plans to artificially oxygenate areas of the Baltic that have experienced eutrophication have been proposed by the University of Gothenburg and Inocean AB .
+396;Plans;artificially oxygenate;areas of the Baltic that have experienced eutrophication;-1
+397;Plans to artificially oxygenate areas of the Baltic that have experienced eutrophication;have been proposed by;the University of Gothenburg;-1
+398;Plans to artificially oxygenate areas of the Baltic that have experienced eutrophication;have been proposed by;Inocean AB;-1
+399;areas of the Baltic;experienced;eutrophication;-1
+Overseas teams would not return to Russia until 1998 , when a youth tournament was held in Moscow .
+400;Overseas teams;would not return to;Russia;until 1998;-1
+401;a youth tournament;was held in;Moscow;1998;-1
+Because of this association , St. Michael was considered to be the patron saint of colonial Maryland , and as such was honored by the river being named for him .
+404;St. Michael;was considered to be the patron saint of;colonial Maryland;-1
+405;St. Michael;was honored by;the river being named for him;-1
+405;the river;being named for;him;-1
+Because the companies have lacked office computers considered standard equipment in the U.S. and Western Europe , Japanese corporations ' reputation as hi - tech powerhouses is only half right .
+406;office computers;considered;standard equipment;in the U.S.;-1
+407;office computers;considered;standard equipment;Western Europe;-1
+408;companies;have lacked;office computers;-1
+410;Japanese corporations;reputation as;hi - tech powerhouses;-1
+411;Japanese corporations ' reputation as hi - tech powerhouses;is only;half right;-1
+He ran for Speaker of the Rhode Island House of Representatives four times .
+413;He;ran for;Speaker of the Rhode Island House of Representatives;four times;-1
+By opening for acts such as U2 and Bob Dylan , they became a popular alternative rock band of the 1980s , retaining a loyal following to the present day .
+414;they;opening for;acts such as U2 and Bob Dylan;-1
+415;they;became;a popular alternative rock band of the 1980s;-1
+416;they;retaining;a loyal following to the present day;-1
+Separate berthings and heads are found on sailboats over about .
+418;berthings;are found on;sailboats;-1
+419;heads;are found on;sailboats;-1
+420;berthings and heads;Separate;on sailboats;-1
+Municipal bonds were little changed to 1\/2 point higher in late dealings .
+421;Municipal bonds;were little changed;to 1\/2 point higher;in late dealings;-1
+Their performance was well received and inspired Ruby Hunter , Archie Roach 's partner , to dub the trio Tiddas , which is Koori English for the word sisters .
+422;Their performance;was;well received;-1
+423;Their performance;inspired;Ruby Hunter;to dub the trio Tiddas;-1
+423;Ruby Hunter;dub;the trio Tiddas;-1
+424;Tiddas;is Koori English for;the word sisters;-1
+425;Ruby Hunter;partner;Archie Roach 's;-1
+426;Archie Roach;'s;partner;-1
+These skills were readily proven when squadrons and personnel were mobilized and recalled back to active duty during the Korean War and the Berlin Crisis .
+429;squadrons;were mobilized;during the Korean War;-1
+430;personnel;were mobilized;during the Korean War;-1
+429;squadrons;were mobilized;the Berlin Crisis;-1
+430;personnel;were mobilized;the Berlin Crisis;-1
+431;squadrons;recalled back to;active duty;during the Korean War;-1
+432;squadrons;recalled back to;active duty;the Berlin Crisis;-1
+437;personnel;recalled back to;active duty;during the Korean War;-1
+438;personnel;recalled back to;active duty;the Berlin Crisis;-1
+439;These skills;were readily proven when;squadrons and personnel were mobilized and recalled back to active duty;during the Korean War;-1
+441;These skills;were readily proven when;squadrons were mobilized and recalled back to active duty;the Berlin Crisis;-1
+Charles prorogued parliament on 25 June , but the army was not disbanded , which worried Shaftesbury .
+443;Charles;prorogued;parliament;on 25 June;-1
+444;the army;was not disbanded;-1
+445;the army was not disbanded;worried;Shaftesbury;-1
+A British version of this show was developed , known as " Gladiators : Train 2 Win " .
+447;A British version of this show;was developed;-1
+447;A British version of this show;known as;" Gladiators : Train 2 Win ";-1
+The mouse is around nine inches long , and can jump in bounds of four feet when threatened .
+448;The mouse;is;around nine inches long;-1
+449;The mouse;can jump in bounds of;four feet;when threatened;-1
+449;The mouse;threatened;-1
+Coke has tended to increase its control when results were sluggish in a given country .
+450;Coke;has tended to increase;its control;in a given country;when results were sluggish;-1
+450;results;were sluggish;-1
+His son , John Crozier , Jr. , was an early aviation pioneer who began building a human-powered flying machine in the 1890s , but was killed in a feud in Grainger County before he could complete it .
+451;John Crozier , Jr.;son;His;-1
+452;John Crozier , Jr.;was killed in;a feud;in Grainger County;in the 1890s;-1
+452;His son;was killed in;a feud;Grainger County;in the 1890s;-1
+453;His son;was;an early aviation pioneer;-1
+453;John Crozier , Jr.;was;an early aviation pioneer;-1
+453;His son;pioneer;aviation;-1
+453;John Crozier , Jr.;pioneer;aviation;-1
+454;His son;began building;a human-powered flying machine;in the 1890s;-1
+454;John Crozier , Jr.;began building;a human-powered flying machine;in the 1890s;-1
+454;an early aviation pioneer;began building;a human-powered flying machine;in the 1890s;-1
+455;he;could complete;it;-1
+455;he;could complete;a human-powered flying machine;-1
+455;John Crozier , Jr.;could complete;it;-1
+455;John Crozier , Jr.;could complete;a human-powered flying machine;-1
+455;His son;could complete;it;-1
+455;His son;could complete;a human-powered flying machine;-1
+Officials believe this has left a gaping loophole that illegal drug businesses are exploiting .
+458;Officials;believe;this has left a gaping loophole that illegal drug businesses are exploiting;-1
+458;this;has left;a gaping loophole that illegal drug businesses are exploiting;-1
+458;illegal drug businesses;are exploiting;a gaping loophole;-1
+458;drug businesses;illegal;-1
+459;loophole;gaping;-1
+Despite plans to add two new Infiniti models next year , bringing the total to four , Infiniti wo n't show profits for at least five years , he adds .
+460;plans;to add;two new Infiniti models;next year;-1
+461;plans to add two new Infiniti models next year;bringing the total to;four;-1
+462;he;adds;Despite plans to add two new Infiniti models next year , bringing the total to four , Infiniti wo n't show profits for at least five years;-1
+463;Infiniti;wo n't show profits;for at least five years;-1
+The first single , " Dreamer " , features performances by keyboardist Philippe Saisse , and vocalists Jasmine Roy and Rebeca Vega .
+464;The first single;,;Dreamer;-1
+465;The first single;features performances by;Philippe Saisse;-1
+466;The first single;features performances by;Jasmine Roy;-1
+467;The first single;features performances by;Rebeca Vega;-1
+465;Dreamer;features performances by;Philippe Saisse;-1
+466;Dreamer;features performances by;Jasmine Roy;-1
+467;Dreamer;features performances by;Rebeca Vega;-1
+468;Philippe Saisse;keyboardist;-1
+469;Jasmine Roy;vocalists;-1
+470;Rebeca Vega;vocalists;-1
+These screening activities include : review of group-based data ,,, hearing , vision , motor , and speech/language screening ,,, and review by the Special Education administration .
+471;These screening activities;include;review of group-based data;-1
+472;These screening activities;include;hearing;-1
+473;These screening activities;include;vision screening;-1
+474;These screening activities;include;motor screening;-1
+475;These screening activities;include;speech/language screening;-1
+476;These screening activities;include;review by the Special Education administration;-1
+The fractional quantum Hall effect continues to be influential in theories about topological order .
+479;Hall effect;continues to be influential in;theories about topological order;-1
+Following his death , a statue of Sir Arthur was erected behind the National Archives of Canada , overlooking the Ottawa River This is one of only two statues of civil servants erected in Ottawa , both during MacKenzie King 's tenure as Prime Minister .
+480;a statue of Sir Arthur;was erected;behind the National Archives of Canada;Following his death;-1
+480;a statue of Sir Arthur was erected behind the National Archives of Canada;Following;his death;-1
+481;a statue of Sir Arthur;overlooking;the Ottawa River;-1
+482;two statues of civil servants;erected;in Ottawa;during MacKenzie King 's tenure as Prime Minister;-1
+483;MacKenzie King;tenure as;Prime Minister;-1
+484;a statue of Sir Arthur;is;one of only two statues of civil servants erected in Ottawa;-1
+484;This;is;one of only two statues of civil servants erected in Ottawa;-1
+485;a statue of Sir Arthur;erected;in Ottawa;during MacKenzie King 's tenure as Prime Minister;-1
+485;This;erected;in Ottawa;during MacKenzie King 's tenure as Prime Minister;-1
+486;a statue;of;Sir Arthur;-1
+Unlike most economic indicators , none of these figures are adjusted for seasonal variations .
+489;none of these figures;are adjusted for;seasonal variations;-1
+490;most economic indicators;are adjusted for;seasonal variations;-1
+491;these figures;Unlike;most economic indicators;-1
+Nancy Craig , advertising manager for the Red Cross , readily admits " they 're piggybacking on our reputation " .
+492;Nancy Craig;readily admits;" they 're piggybacking on our reputation ";-1
+492;they;'re piggybacking;on our reputation;-1
+493;Nancy Craig;advertising manager;for the Red Cross;-1
+Executions , regardless of how frequently they occur , are also " proper retribution " for heinous crimes , Mr. Hatch argues .
+495;Mr. Hatch;argues;Executions , regardless of how frequently they occur , are also " proper retribution " for heinous crimes;-1
+In a proposed amendment of the party 's constitution by a delegate to hold an early leadership review of Tim Hudak , McCreadie indicated that Party President Richard Ciano should accept the same review if the motion was passed .
+496;McCreadie;indicated that;Party President Richard Ciano should accept the same review if the motion was passed;In a proposed amendment of the party 's constitution by a delegate to hold an early leadership review of Tim Hudak;-1
+498;a proposed amendment of the party 's constitution;by;a delegate;-1
+499;a proposed amendment;of;the party 's constitution;-1
+500;a proposed amendment of the party 's constitution;to hold an early leadership review of;Tim Hudak;-1
+501;Richard Ciano;President;Party;-1
+Four other countries in Europe have approved Proleukin in recent months .
+503;Four other countries in Europe;have approved;Proleukin;in recent months;-1
+504;Four other countries;in;Europe;-1
+The New York City issue included $ 757 million of tax - exempt bonds priced to yield between 6.50 % to 7.88 % , depending on the maturity .
+505;The New York City issue;included;$ 757 million of tax - exempt bonds priced to yield between 6.50 % to 7.88 % , depending on the maturity;-1
+506;tax - exempt bonds;priced to yield;between 6.50 % to 7.88 %;-1
+508;tax - exempt bonds priced to yield between 6.50 % to 7.88 %;depending on;the maturity;-1
+Within England and especially Scotland , there were repeated attempts by the deposed House of Stewart to regain the throne , leading to severe uprisings .
+510;repeated attempts;to regain;the throne;Within England;-1
+510;repeated attempts;to regain;the throne;especially Scotland;-1
+511;repeated attempts;by;the deposed House of Stewart;Within England;-1
+512;repeated attempts;by;the deposed House of Stewart;especially Within Scotland;-1
+511;the deposed House of Stewart;repeated attempts;to regain the throne;Within England;-1
+511;the deposed House of Stewart;repeated attempts;to regain the throne;especially Scotland;-1
+513;repeated attempts by the deposed House of Stewart to regain the throne;leading to;severe uprisings;Within England;-1
+514;repeated attempts by the deposed House of Stewart to regain the throne;leading to;severe uprisings;especially Scotland;-1
+Instead of ablating the tissue , the laser cuts a portion of the prostate , which is then cut into smaller pieces and flushed with irrigation fluid .
+515;the laser;cuts a portion of;the prostate;-1
+516;the laser;Instead of ablating;the tissue;-1
+517;a portion of the prostate;is then cut into;smaller pieces;-1
+518;a portion of the prostate;flushed with;irrigation fluid;then;-1
+In 1879 , he was re-elected U.S. Senator and was tipped as a Presidential candidate , but died suddenly after giving a speech in Chicago .
+520;he;was tipped as;a Presidential candidate;In 1879;-1
+520;he;was re-elected;U.S. Senator;In 1879;-1
+521;he;died suddenly;after giving a speech in Chicago;In 1879;-1
+522;he;giving a speech;in Chicago;In 1879;-1
+Their laboratory credentials established , Boyer and Swanson headed for Wall Street in 1980 .
+523;Boyer;headed for;Wall Street;in 1980;-1
+524;Swanson;headed for;Wall Street;in 1980;-1
+525;Boyer;established;laboratory credentials;-1
+526;Swanson;established;laboratory credentials;-1
+525;Their;established;laboratory credentials;-1
+They point to other easy-to-learn languages such as Tok Pisin in Papua New Guinea , which have had deleterious effects on minority languages .
+527;Tok Pisin;such as;easy-to-learn languages;-1
+529;They;point to;other easy-to-learn languages;-1
+529;They;point to;Tok Pisin;-1
+529;other easy-to-learn languages;have had deleterious effects;on minority languages;-1
+December municipal futures ended up 11\/32 point to 92-14 , having pulled off a morning low of 91-23 as cash municipals rebounded .
+530;December municipal futures;ended up;11\/32 point;to 92-14;-1
+532;December municipal futures;pulled off;low of 91-23;a morning;-1
+533;cash municipals;rebounded;-1
+534;municipal futures;December;-1
+State - owned BNL , Italy 's largest bank , has filed charges against the branch 's former manager , Christopher Drogoul , and a former branch vice president , alleging fraud and breach of their fiduciary duties .
+535;Italy 's largest bank;,;State - owned BNL;-1
+536;BNL;owned;State;-1
+537;BNL;largest bank;Italy;-1
+538;State - owned BNL;has filed charges against;the branch 's former manager;-1
+538;State - owned BNL;has filed charges against;Christopher Drogoul;-1
+539;State - owned BNL;has filed charges against;a former branch vice president;-1
+540;Christopher Drogoul;former manager;the branch 's;-1
+541;State - owned BNL;alleging;fraud;-1
+542;State - owned BNL;alleging;breach of their fiduciary duties;-1
+It was club policy to promote talent into the senior team that was adopted by Bill Dimovski .
+545;club policy;promote;talent;into the senior team;-1
+546;the senior team;was adopted by;Bill Dimovski;-1
+The Treasury bills sold yesterday settle today , rather than the standard settlement day of Thursday .
+547;The Treasury bills sold yesterday;settle;today;-1
+548;Treasury bills;sold;yesterday;-1
+She received her Master Degree in the field of Controls , Guidance and Instrumentation from I.I.T Madras and Ph.d degree from the department of Aerospace engineering .
+550;She;received her;Master Degree in the field of Controls , Guidance and Instrumentation;from I.I.T Madras;-1
+551;She;received her;Ph.d degree;from the department of Aerospace engineering;-1
+554;her Master Degree;in the field of;Controls;-1
+555;her Master Degree;in the field of;Guidance;-1
+556;her Master Degree;in the field of;Instrumentation;-1
+In colonial times all grants of land from the Lords Baltimore were in the shape of leases subject to small and nominal ground rents , reserved by the Proprietary , and payable annually at Michaelmas , the Feast of St. Michael and All Angels .
+557;all grants of land from the Lords Baltimore;were in the shape of;leases subject to small and nominal ground rents;In colonial times;-1
+557;land;grants;from the Lords Baltimore;-1
+558;small and nominal ground rents;reserved by;the Proprietary;In colonial times;-1
+559;small and nominal ground rents;payable;annually;at Michaelmas;-1
+561;Michaelmas;Feast of;St. Michael and All Angels;-1
+562;leases;subject to;small and nominal ground rents;In colonial times;-1
+563;ground rents;small;-1
+564;ground rents;nominal;-1
+The term can be applied to any vessel ,,, turning turtle is less frequent but more dangerous on ships than on smaller boats .
+565;The term;can be applied to;any vessel;2
+569;turning turtle;can be applied to;any vessel;2
+566;The term;,,,;turning turtle;-1
+567;turning turtle;less frequent;on ships;than on smaller boats;-1
+568;turning turtle;more dangerous;on ships;than on smaller boats;-1
+Since many of the rebbes of the Nadvorna Dynasty married relatives , many of the rebbes in this list are sons-in-law of other rebbes on the list .
+571;many of the rebbes of the Nadvorna Dynasty;married;relatives;-1
+572;many of the rebbes in this list;are sons-in-law of;other rebbes on the list;-1
+574;the rebbes;in;this list;-1
+In 1991 he started writing and touring full-time which he still does today .
+575;he;started;writing;full-time;In 1991;-1
+576;he;started;touring;full-time;In 1991;-1
+575;he;writing;full-time;In 1991;-1
+576;he;touring;full-time;In 1991;-1
+577;he;still does;writing;full-time;today;-1
+578;he;still does;touring;full-time;today;-1
+One of its international specialists , Steve White , took a quick interest in Mr. Stoll 's hunt , ultimately tracing the hacker to West Germany .
+579;Steve White;One of;its international specialists;-1
+580;Steve White;took a quick interest in;Mr. Stoll 's hunt;-1
+581;Mr. Stoll;'s;hunt;-1
+582;Steve White;ultimately tracing;the hacker;to West Germany;-1
+That method relies heavily on inductive logic , seeking to show that his Christian beliefs fit best with the evidence .
+583;That method;relies heavily on;inductive logic;-1
+587;That method;relies heavily on;inductive logic;-1
+588;That method;seeking to show that;his Christian beliefs fit best with the evidence;-1
+589;his Christian beliefs;fit best;with the evidence;-1
+Often , objects are so far away that they do not contribute significantly to the final image .
+590;objects;are;so far away;Often;-1
+591;objects that are so far away;do not contribute significantly to;the final image;Often;-1
+591;they;do not contribute significantly to;the final image;Often;-1
+In 1958 , he won gold medal at the 6th European Championships in Stockholm .
+592;he;won;gold medal;at the 6th European Championships in Stockholm;In 1958;-1
+593;the 6th European Championships;in;Stockholm;-1
+The enantioselectivity of this reaction is important because only the S enantiomer is medicinally desirable , whereas the R enantiomer produces harmful health effects .
+594;the S enantiomer;is;medicinally desirable;-1
+595;the R enantiomer;produces;harmful health effects;-1
+597;The enantioselectivity of this reaction;is important because;only the S enantiomer is medicinally desirable;-1
+The spirits , of course , could hardly care less whether people do or do n't believe in them .
+598;The spirits;could hardly care less whether;people do or do n't believe in them;-1
+599;people;do n't;believe;in them;-1
+599;people;do;believe;in them;-1
+The brokerage firm tracks technology stocks with its Technology Index , which appreciated only 10.59 % in the first nine months of this year .
+600;The brokerage firm;tracks;technology stocks;with its Technology Index;-1
+601;its Technology Index;appreciated;only 10.59 %;in the first nine months of this year;-1
+Later , it carried " Monitor " , the network 's very successful weekend radio service .
+603;it;carried;Monitor;Later;-1
+604;" Monitor;,;the network 's very successful weekend radio service;-1
+605;the network;'s;very successful weekend radio service;-1
+For owners who have followed the recommended oil maintenance schedule , Mazda will extend to five years or 60,000 miles the warranty term for engine damage due to abnormal engine oil deterioration .
+607;the warranty term;for;engine damage due to abnormal engine oil deterioration;-1
+608;engine damage;due to;abnormal engine oil deterioration;-1
+608;engine oil deterioration;abnormal;-1
+610;Mazda;will extend;the warranty term for engine damage due to abnormal engine oil deterioration;to five years or 60,000 miles;-1
+611;owners;have followed;the recommended oil maintenance schedule;-1
+The United States High Commissioner for Germany and his staff occupied the building from 1949 to 1952 .
+612;his staff;occupied;the building;from 1949;to 1952;-1
+613;The United States High Commissioner for Germany;occupied;the building;from 1949;to 1952;-1
+Legislation sponsored by Sweeney and signed into law provides state pensions to surviving family members of police , firefighters and emergency services workers who die in the line of duty , as well as the law that removes the remarriage prohibition to receive death benefits for spouses of police officers and firefighters killed while serving the public good .
+615;Legislation sponsored by Sweeney and signed into law;provides;state pensions;to surviving family members of police , firefighters and emergency services workers who die in the line of duty;-1
+615;surviving family members of police , firefighters and emergency services workers;die;in the line of duty;-1
+618;Legislation;signed into;law;-1
+618;Legislation;sponsored;by Sweeney;-1
+619;Legislation sponsored by Sweeney and signed into law;removes;the remarriage prohibition to receive death benefits for spouses of police officers and firefighters killed while serving the public good;-1
+620;the law;removes;the remarriage prohibition to receive death benefits for spouses of police officers and firefighters killed while serving the public good;-1
+620;spouses of police officers and firefighters killed while serving the public good;remarriage prohibition;to receive death benefits;-1
+620;spouses of police officers and firefighters;killed;while serving the public good;-1
+620;spouses of police officers and firefighters;serving;the public good;-1
+622;Legislation;signed into;law;-1
+If the introduced surface had an ionic or polar nature , there would be water molecules standing upright on 1 or 2 of the four sp3 orbitals .
+623;If the introduced surface had an ionic or polar nature;there would be;water molecules standing upright on 1 or 2 of the four sp3 orbitals;-1
+624;the introduced surface;had;an ionic or polar nature;-1
+624;water molecules;standing upright;on 1 or 2;of the four sp3 orbitals;-1
+625;sp3 orbitals;four;-1
+They acquired the Charles City Western on December 31 , 1963 .
+626;They;acquired;the Charles City Western;on December 31 , 1963;-1
+He was born to Afro-Guyanese parents & is of Afro-Guyanese descent .
+628;He;was born to;Afro-Guyanese parents;-1
+629;He;is of;Afro-Guyanese descent;-1
+Charles O. Givens of Mount Vernon , Ind. - investment broker , ex - accountant , and son of a former stable owner - bred Tennessee Walking Horses for six years , raised cattle for four , and never made a profit on either .
+630;Charles O. Givens;of;Mount Vernon , Ind.;-1
+631;Mount Vernon;,;Ind.;-1
+632;Charles O. Givens;-;investment broker;-1
+633;Charles O. Givens;-;ex - accountant;-1
+632;Charles O. Givens;investment broker;-1
+633;Charles O. Givens;ex - accountant;-1
+634;Charles O. Givens;son of;a former stable owner;-1
+635;Charles O. Givens;bred;Tennessee Walking Horses;for six years;-1
+636;Charles O. Givens;raised;cattle;for four years;-1
+637;Charles O. Givens;never made a profit on;Tennessee Walking Horses;-1
+638;Charles O. Givens;never made a profit on;cattle;-1
+Unsure of who he is , Zero helps the band of Reploids , who in turn marvel at his skills .
+639;Zero;helps;the band of Reploids;-1
+640;Zero;Unsure of;who he is;-1
+641;the band of Reploids;marvel at;his skills;-1
+The researchers also pulled off a second genetic engineering trick in order to get male - sterile plants in large enough numbers to produce a commercial hybrid seed crop .
+642;The researchers;also pulled off;a second genetic engineering trick;in order to get male - sterile plants in large enough numbers;-1
+643;genetic engineering trick;second;-1
+644;a second genetic engineering trick;to get;male - sterile plants in large enough numbers;to produce a commercial hybrid seed crop;-1
+645;male - sterile plants in large enough numbers;to produce;a commercial hybrid seed crop;-1
+645;male - sterile plants;in;large enough numbers;-1
+646;seed crop;commercial;-1
+647;seed crop;hybrid;-1
+649;plants;male;-1
+650;plants;sterile;-1
+The power cepstrum of a signal is defined as the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal .
+653;The power cepstrum of a signal;is defined as;the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal;-1
+He made several practical inventions , the most notable of which was an " index visible filing system " which he patented in 1913 and sold to Kardex Rand in 1925 .
+656;He;made;several practical inventions;-1
+657;the most notable;was;an " index visible filing system ";-1
+658;He;made;an " index visible filing system ";-1
+659;he;patented;an " index visible filing system ";in 1913;-1
+659;he;sold;an " index visible filing system ";to Kardex Rand;in 1925;-1
+The British Army had been shown to be overstretched by the Crimean War , while the mutiny in India had led to the responsibility for providing a garrison in the subcontinent from the Honourable East India Company to the Crown forces .
+662;The British Army;had been shown to be overstretched by;the Crimean War;-1
+663;the mutiny;in;India;-1
+664;the mutiny in India;had led to the responsibility for providing;a garrison;in the subcontinent from the Honourable East India Company to the Crown forces;-1
+666;responsibility for providing a garrison;from;the Honourable East India Company;in the subcontinent;-1
+667;responsibility for providing a garrison;to;the Crown forces;in the subcontinent;-1
+In the United Kingdom , community empowerment networks are networks of a collection of local community , voluntary and third sector organisations and groups , set up by the central government as part of an initiative to foster community involvement in regeneration at a local level .
+668;community empowerment networks;are networks of a collection of local;community;In the United Kingdom;-1
+668;community empowerment networks;are networks of a collection of local;organisations;In the United Kingdom;-1
+669;community empowerment networks;set up by;the central government;as part of an initiative to foster community involvement in regeneration at a local level;In the United Kingdom;-1
+670;community empowerment networks;as part of;an initiative;to foster community involvement in regeneration at a local level;In the United Kingdom;-1
+670;community empowerment networks;foster;community involvement in regeneration at a local level;In the United Kingdom;-1
+670;an initiative;foster;community involvement in regeneration at a local level;In the United Kingdom;-1
+670;community;involvement;in regeneration;at a local level;-1
+671;community empowerment networks;are networks of a collection of local;voluntary;In the United Kingdom;-1
+672;community empowerment networks;are networks of a collection of local;third sector organisations and groups;In the United Kingdom;-1
+This year , Mr. Wathen says the firm will be able to service debt and still turn a modest profit .
+673;Mr. Wathen;says;the firm will be able to service debt and still turn a modest profit;-1
+673;Mr. Wathen;says;This year;-1
+675;the firm;will be able to service;debt;This year;-1
+676;the firm;still turn;a modest profit;This year;-1
+Accomplishing both will be a balancing act as challenging as riding a unicycle .
+677;riding a unicycle;challenging;-1
+678;riding a unicycle;a balancing act;-1
+677;riding a unicycle;as;challenging;-1
+678;riding a unicycle;as;a balancing act;-1
+679;Accomplishing both;will be;a balancing act;-1
+680;Accomplishing both;will be;challenging as riding a unicycle;-1
+Mark and Marisa , the Drive Time presenters , made the announcement live on air at 5.20 pm GMT and both the staff 's personal emails and the stations website was closed shortly thereafter 10pm GMT .
+681;Mark;presenters;the Drive Time;-1
+682;Marisa;presenters;the Drive Time;-1
+683;Mark and Marisa;made;the announcement;live on air;at 5.20 pm GMT;-1
+684;the staff 's personal emails;was closed;shortly thereafter 10pm GMT;-1
+685;the stations website;was closed;shortly thereafter 10pm GMT;-1
+686;the staff;'s;personal emails;-1
+Staff were only informed of the decision to cease broadcasting 24 hours earlier at 5pm on the evening of 23 December .
+688;Staff;were only informed of;the decision to cease broadcasting;24 hours earlier;at 5pm;on the evening of 23 December;-1
+689;the decision;cease;broadcasting;24 hours earlier;at 5pm;on the evening of 23 December;-1
+Davis released about 25 singles during his seven years with Dakar , most of them big R&B sellers produced by Willie Henderson .
+692;Davis;released;about 25 singles;during his seven years with Dakar;-1
+693;big R&B sellers;produced by;Willie Henderson;during his seven years with Dakar;-1
+The waist line was put higher and the skirts became longer .
+698;The waist line;was put;higher;-1
+699;the skirts;became;longer;-1
+For patients who do not recover quickly , the protocol also includes support groups and/or psychotherapy .
+701;patients;do not recover quickly;-1
+702;the protocol;also includes;support groups;For patients who do not recover quickly;-1
+703;the protocol;also includes;psychotherapy;For patients who do not recover quickly;-1
+The narrator does not end up being sexually assaulted ,,, instead , she has grabbed her suitcase and fled the compartment .
+704;The narrator;does not end up being sexually assaulted;-1
+705;The narrator;has grabbed;her suitcase;instead;-1
+705;she;has grabbed;her suitcase;instead;-1
+706;The narrator;fled;the compartment;instead;-1
+706;she;fled;the compartment;instead;-1
+Profit after tax and minority interest but before extraordinary items rose 12 % to # 135.2 million ,,, per - share earnings rose to five pence from 4.5 pence .
+708;Profit after tax and minority interest but before extraordinary items;rose;12 %;to;# 135.2 million;-1
+Profit after tax and minority interest but before extraordinary items rose 12 % to # 135.2 million ,,, per - share earnings rose to five pence from 4.5 pence .
+710;per - share earnings;rose;to five pence;from 4.5 pence;-1
+Thomas soon became a regular in the Arsenal side , making his league debut on 14 February 1987 in a 1-1 draw with Sheffield Wednesday at Hillsborough .
+712;Thomas;soon became a regular;in the Arsenal side;-1
+713;Thomas;making;his league debut;in a 1-1 draw with Sheffield;Wednesday;Hillsborough;on 14 February 1987;-1
+714;his league debut;in;a 1-1 draw with Sheffield;-1
+715;his league debut;at;Hillsborough;-1
+715;his league debut;on;14 February 1987;-1
+He adds that gold stocks had been down so long they were " ready for a bounce " .
+717;He;adds that;gold stocks had been down so long they were " ready for a bounce ";-1
+718;gold stocks;had been down;so long;-1
+718;they;were " ready for;a bounce;-1
+718;gold stocks;were " ready for;a bounce;-1
+In 1982 Caro was trying to organise an exhibition of British abstract art in South African townships when he met Robert Loder .
+719;Caro;was trying to organise;an exhibition of British abstract art;in South African townships;In 1982;-1
+720;Caro;met;Robert Loder;In 1982;-1
+720;he;met;Robert Loder;In 1982;-1
+The brightest star in Serpens , Alpha Serpentis , or Unukalhai , is a red giant of spectral type K2III located approximately away which marks the snake 's heart .
+721;The brightest star in Serpens , Alpha Serpentis , or Unukalhai;is;a red giant of spectral type K2III;-1
+721;a red giant of spectral type K2III;located;approximately away;-1
+724;Alpha Serpentis;marks;the snake 's heart;-1
+725;Unukalhai;brightest star in;Serpens;-1
+725;Alpha Serpentis;,;Unukalhai;8
+Charles delayed declaring war , however , leading Shaftesbury to support a resolution of the House of Commons providing for immediately disbanding the army that Charles was raising .
+725;Charles;delayed declaring;war;-1
+726;Charles delayed declaring;leading;Shaftesbury;to support a resolution of the House of Commons providing for immediately disbanding the army that Charles was raising;-1
+727;Shaftesbury;support;a resolution of the House of Commons providing for immediately disbanding the army that Charles was raising;-1
+728;Charles;was raising;the army;-1
+729;a resolution of the House of Commons;providing for immediately disbanding;the army that Charles was raising;-1
+After the Battle of Culloden in 1746 , these rebellions were crushed . 
+730;these rebellions ,,, were crushed ,,, After the Battle of Culloden in 1746;-1
+Two - and three - year programs are offered in various fields , through the divisions of Games and Animation , Industrial Design , Performing Arts , Information Communications , and Human Care .
+731;Two - and three - year programs;are offered;in various fields;through the divisions of Games and Animation , Industrial Design , Performing Arts , Information Communications , and Human Care;-1
+It is best served with laksa and homemade tauhu .
+737;It;is best served with;laksa;-1
+738;It;is best served with;homemade tauhu;-1
+The RIAA lists it as one of the Best Selling Albums of All Time .
+739;The RIAA;lists;it;as one of the Best Selling Albums of All Time;-1
+741;it;as one of;the Best Selling Albums;of All Time;-1
+Alan , one of the crew , begins to behave strangely and Pete suggests taking a blood sample to check . 
+742;Alan;one of;the crew;-1
+743;Alan;begins to behave;strangely;-1
+744;Pete;suggests taking;a blood sample;to check;-1
+The far left had some good issues even if it did not have good programs for dealing with them .
+746;The far left;had;some good issues;-1
+747;The far left;did not have;good programs for dealing with them;-1
+In 1914 , the BSA gave local councils the power to segregate African Americans from white Scouts .
+749;the BSA;gave;local councils;the power;to segregate African Americans from white Scouts;In 1914;-1
+749;local councils;to segregate;African Americans;from white Scouts;-1
+They can be relieved only by changing that system , not by pouring Western money into it .
+750;They;can be relieved;only by changing that system;-1
+751;They;can be relieved;not by pouring Western money into that system;-1
+" Kormoran " was the only Axis ship to conduct attacks in Australian waters during 1941 and the last Axis surface raider to enter Australian waters until 1943 .
+753;" Kormoran ";was;the only Axis ship to conduct attacks in Australian waters during 1941;-1
+753;" Kormoran ";was;the last Axis surface raider to enter Australian waters until 1943;-1
+754;" Kormoran ";conduct attacks;in Australian waters;during 1941;-1
+754;the only Axis ship;conduct attacks;in Australian waters;during 1941;-1
+756;" Kormoran ";enter;Australian waters;-1
+756;the last Axis surface raider;enter;Australian waters;-1
+The brew , called Miller Sharp 's , will be supported by ads developed by Frankenberry , Laughlin & Constable , Milwaukee .
+761;The brew;called;Miller Sharp 's;-1
+762;The brew;will be supported by;ads developed by Frankenberry , Laughlin & Constable;-1
+762;ads;developed by;Frankenberry , Laughlin & Constable;-1
+763;Frankenberry , Laughlin & Constable;,;Milwaukee;-1
+11 million copies of the flyer were distributed to the public via an 85 - newspaper distribution chain .
+764;11 million copies of the flyer;were distributed;to the public;via an 85 - newspaper distribution chain;-1
+President Bush and Soviet leader Mikhail Gorbachev will hold an informal meeting in early December , a move that should give both leaders a political boost at home .
+765;President Bush and Soviet leader Mikhail Gorbachev;will hold;an informal meeting;in early December;-1
+766;Mikhail Gorbachev;leader;Soviet;-1
+767;an informal meeting;,;a move that should give both leaders a political boost at home;-1
+767;a move;should give;both leaders;a political boost at home;-1
+767;an informal meeting;should give;both leaders;a political boost at home;-1
+767;an informal meeting;should give;President Bush;a political boost at home;-1
+767;an informal meeting;should give;Soviet leader Mikhail Gorbachev;a political boost at home;-1
+It is amazing that the ensuing mass executions in Vietnam and Cambodia do not weight more heavily on minds so morally fine - tuned .
+770;mass executions;ensuing;in Vietnam;-1
+771;mass executions;ensuing;Cambodia;-1
+773;the ensuing mass executions in Vietnam and Cambodia;do not weight more heavily on;minds so morally fine - tuned;-1
+775;that the ensuing mass executions in Vietnam and Cambodia do not weight more heavily on minds so morally fine - tuned;is amazing;-1
+The very ease of acquiring Esperanto might even accelerate the process .
+777;The very ease of acquiring Esperanto;might even accelerate;the process;-1
+While the composite index lost less than a third of its year - to - date gains in the market 's recent decline , the technology group 's gains were more than halved .
+778;the composite index;lost less than;a third of its year - to - date gains;in the market;recent;-1
+779;the technology group 's gains;more than halved;its year - to - date gains;in the market;recent;-1
+780;the technology group;'s;gains;27
+782;the market;decline;recent;-1
+The RSNO also performs throughout Scotland , at such venues as the Glasgow Royal Concert Hall , Usher Hall , Caird Hall , Aberdeen Music Hall , Perth Concert Hall and Eden Court Inverness .
+783;The RSNO;performs;throughout Scotland;-1
+784;The RSNO;performs;the Glasgow Royal Concert Hall;-1
+785;The RSNO;performs;Usher Hall;-1
+786;The RSNO;performs;Caird Hall;-1
+787;The RSNO;performs;Aberdeen Music Hall;-1
+788;The RSNO;performs;Perth Concert Hall;-1
+789;The RSNO;performs;Eden Court Inverness;-1
+BNL previously reported that its Georgia branch had taken on loan commitments topping $ 3 billion without the Rome - based management 's approval .
+796;its Georgia branch;had taken on;loan commitments topping $ 3 billion;without the Rome - based management 's approval;-1
+796;loan commitments;topping;$ 3 billion;-1
+798;management;based;Rome;-1
+799;BNL;previously reported that;its Georgia branch had taken on loan commitments topping $ 3 billion without the Rome - based management 's approval;-1
+The city is served by two long - distance bus stations : Jiaxing North Bus Station and the new Jiaxing Transportation Center .
+800;The city;is served by;two long - distance bus stations;-1
+801;The city;is served by;Jiaxing North bus station;-1
+802;The city;is served by;the new Jiaxing Transportation Center;-1
+803;Jiaxing North Bus Station;:;long - distance bus stations;-1
+804;the new Jiaxing Transportation Center;:;long - distance bus stations;-1
+Its bus operations were merged with another city - owned company , Suomen Turistiauto , to form a new bus company called Helsingin Bussiliikenne .
+805;Its bus operations;were merged with;another city - owned company;to form a new bus company called Helsingin Bussiliikenne;-1
+805;Its bus operations;were merged with;Suomen Turistiauto;to form a new bus company called Helsingin Bussiliikenne;-1
+806;Suomen Turistiauto;owned;city;-1
+806;company;owned;city;-1
+The ninth leaf contains a circular world map measuring in circumference .
+807;The ninth leaf;contains;a circular world map;-1
+808;a circular world map;measuring;in circumference;-1
+809;world map;circular;-1
+810;leaf;ninth;-1
+Japan 's FTC says it is investigating Apple for allegedly discouraging retailers from discounting .
+811;FTC;'s;Japan;-1
+812;Japan 's FTC;says;it is investigating Apple for allegedly discouraging retailers from discounting;-1
+812;it;is investigating;Apple;for allegedly discouraging retailers from discounting;-1
+813;Apple;allegedly discouraging;retailers;from discounting;-1
+813;retailers;discounting;-1
+New York City is iconic not only for Americans , but also for many Europeans as the city of melting pot where many ethnic groups live , often in specific neighborhoods , such as Chinatown , Little Italy .
+814;New York City;is iconic;not only for Americans;as the city of melting pot;-1
+815;New York City;is iconic;also for many Europeans;as the city of melting pot;-1
+816;New York City;as the city of;melting pot;-1
+817;many ethnic groups;live;the city of melting pot;-1
+818;many ethnic groups;live;New York City;-1
+819;many ethnic groups;live;in specific neighborhoods;-1
+820;specific neighborhoods;such as;Chinatown;-1
+821;specific neighborhoods;such as;Little Italy;-1
+Accepted bids ranged from 8 % to 8.019 % .
+828;Accepted bids;ranged;from 8 %;to 8.019 %;-1
+The University of Florida however , refused to recognize BYX .
+830;The University of Florida;refused to recognize;BYX;-1
+Ely Cathedral was never vaulted and retains a wooden ceiling over the nave .
+831;Ely Cathedral;was never;vaulted;-1
+832;Ely Cathedral;retains;a wooden ceiling;over the nave;-1
+833;a wooden ceiling;over;the nave;-1
+His body was laid to rest at St. Gwynno Church in the Llanwynno forestry .
+834;His body;was laid to rest at;St. Gwynno Church in the Llanwynno forestry;-1
+835;St. Gwynno Church;in;the Llanwynno forestry;-1
+Five years later , Alvarez was reunited with his family in New York and his father was able to start a business in Hoboken , New Jersey .
+836;Alvarez;was reunited with;his family;in New York;Five years later;-1
+837;Hoboken;,;New Jersey;-1
+838;his father;was able to start;a business;in Hoboken , New Jersey;-1
+In addition , further packaging of mortgage - backed securities , such as Blackstone 's fund , have reduced the effects of prepayment risk and automatically reinvest monthly payments so institutions do n't have to .
+840;further packaging of mortgage - backed securities , such as Blackstone 's fund;have reduced the effects of;prepayment risk;-1
+840;further packaging of mortgage - backed securities , such as Blackstone 's fund;automatically reinvest;monthly payments;so institutions do n't have to;-1
+840;institutions;do n't have to;reinvest monthly payments;-1
+841;mortgage - backed securities;such as;Blackstone 's fund;-1
+With Japanese companies in a wide range of industries -- from heavy industry to securities firms -- increasing their market share world - wide , the prospect of an even more efficient Japanese economic army may rattle foreigners .
+842;Japanese companies;in;a wide range of industries;-1
+844;Japanese companies;in;heavy industry;-1
+845;Japanese companies;in;securities firms;-1
+846;a wide range of industries;from;heavy industry;to securities firms;-1
+848;Japanese companies;increasing;their market share;world - wide;-1
+849;the prospect of an even more efficient Japanese economic army;may rattle;foreigners;-1
+This church is of medieval origin , the building has undergone a radical transformation in 1885 .
+853;This church;has undergone;a radical transformation;in 1885;-1
+853;the building;has undergone;a radical transformation;in 1885;-1
+854;This church;is of;medieval origin;-1
+855;This church;,;building;-1
+El Camino High School offers the recommended A-G courses based upon the University of California that illustrates the minimum level of academic preparation students ought to achieve in high school to undertake university level work .
+856;El Camino High School;offers;the recommended A-G courses;-1
+857;the recommended A-G courses;based upon;the University of California;-1
+858;the recommended A-G courses;illustrates;the minimum level of academic preparation students ought to achieve in high school to undertake university level work;-1
+858;students;ought to achieve;the minimum level of academic preparation;in high school;to undertake university level work;-1
+858;students;undertake;university level work;-1
+The announcement effectively removes the British government as an impediment to a takeover of the company , which is being stalked by General Motors and Ford .
+859;the company;is being stalked by;General Motors;-1
+860;the company;is being stalked by;Ford;-1
+861;the British government;as an impediment to a takeover of;the company;-1
+861;The announcement;effectively removes;the British government as an impediment to a takeover of the company;-1
+It was regained by Syria on October 6 , 1973 , the first day of the Yom Kippur War , following the First Battle of Mount Hermon .
+863;It;was regained by;Syria;on October 6 , 1973;-1
+864;October 6 , 1973;,;the first day of the Yom Kippur War;-1
+865;the Yom Kippur War;following;the First Battle of Mount Hermon;-1
+Trek previously made only traditional road bikes , but " it did n't take a rocket scientist to change a road bike into a mountain bike " , says Trek 's president , Dick Burke .
+867;Trek;made;only traditional road bikes;previously;-1
+868;Dick Burke;says;" it did n't take a rocket scientist to change a road bike into a mountain bike ";-1
+868;Trek 's president;says;" it did n't take a rocket scientist to change a road bike into a mountain bike ";-1
+868;it;did n't take;a rocket scientist;to change a road bike into a mountain bike;-1
+868;a rocket scientist;change;a road bike;into a mountain bike;-1
+869;Dick Burke;president;Trek;-1
+870;Trek;'s;president;-1
+Callaghan 's decision on the Japanese pilot 's funeral in 1945 would receive praise years later , although a memorial service aboard the " Missouri " in April 2001 attracted controversy .
+872;the Japanese pilot;'s funeral;in 1945;-1
+873;Callaghan;'s decision;on the Japanese pilot 's funeral;in 1945;-1
+873;Callaghan 's decision on the Japanese pilot 's funeral;would receive praise;years later;-1
+874;a memorial service aboard the " Missouri ";attracted controversy;in April 2001;-1
+875;memorial service;aboard;the " Missouri ";in April 2001;-1
+The culture of Bhutan is fully reflected in the capital city in respect of literature , religion , customs , and national dress code , the monastic practices of the monasteries , music , dance , literature and in the media .
+880;monasteries;practices;monastic;-1
+884;The culture of Bhutan;is fully reflected in;the capital city;in respect of literature , religion , customs , and national dress code , the monastic practices of the monasteries , music , dance , literature and in the media;-1
+He could acquire a staff of loyal Pinkerton 's employees , many of whom had spent their entire careers with the firm , he could eliminate a competitor and he could get the name recognition he 'd wanted .
+885;He;could acquire;a staff of loyal Pinkerton 's employees;-1
+886;many of whom;had spent;their entire careers;with the firm;-1
+886;loyal Pinkerton 's employees;had spent;their entire careers;with the firm;-1
+887;he;could eliminate;a competitor;-1
+888;he;could get;the name recognition he 'd wanted;-1
+888;he;'d wanted;the name recognition;-1
+888;employees;loyal;Pinkerton;-1
+In 1845 , he was chosen Chief Justice of the Court of Queen 's Bench .
+889;he;was chosen;Chief Justice of the Court of Queen 's Bench;In 1845;-1
+889;he;Chief Justice;of the Court of Queen 's Bench;In 1845;-1
+It is offered by the flagship banks of New York 's Manufacturers Hanover Corp. in the one - year maturity only .
+890;It;is offered;by the flagship banks of New York 's Manufacturers Hanover Corp.;in the one - year maturity only;-1
+892;the flagship banks;of;New York 's Manufacturers Hanover Corp.;-1
+893;New York;'s;Manufacturers Hanover Corp.;-1
+Officials proposed a cut in the defense budget this year to 70.9 billion rubles ( US$ 114.3 billion ) from 77.3 billion rubles ( US$ 125 billion ) as well as large cuts in outlays for new factories and equipment .
+894;Officials;proposed;a cut in the defense budget;from 77.3 billion rubles;to 70.9 billion rubles;this year;-1
+898;Officials;proposed;large cuts in outlays;for new factories and equipment;this year;-1
+895;70.9 billion rubles;(;US$ 114.3 billion;14
+897;77.3 billion rubles;(;US$ 125 billion;23
+898;Officials;cuts;in outlays;for new factories and equipment;this year;-1
+894;Officials;cut;in the defense budget;from 77.3 billion rubles;to 70.9 billion rubles;this year;-1
+After the British capture of Madrid , Hill had responsibility for an army of 30,000 men . 
+900;Hill;had responsibility;for an army of 30,000 men;After the British capture of Madrid;-1
+900;the British;capture;Madrid;-1
+When it comes to busting ghosts , the Monroe , Conn. , couple are perfect demons .
+901;couple;,;Monroe , Conn.;11
+902;Monroe;,;Conn.;9
+903;the Monroe , Conn. , couple;are;perfect demons;When it comes to busting ghosts;-1
+904;the Monroe , Conn. , couple;busting;ghosts;-1
+One of the better units based at NAS Glenview in the post - WWII period was Attack Squadron 725 , part of NARTU Glenview until 1970 , when it was redesignated as Attack Squadron 209 and became part of Carrier Air Wing Reserve TWENTY from 1970 onward .
+905;Attack Squadron 725;was;One of the better units based at NAS Glenview;in the post - WWII period;-1
+906;Attack Squadron 725;part of;NARTU;in Glenview;until 1970;-1
+907;Attack Squadron 725;was redesignated as;Attack Squadron 209;in 1970;-1
+907;it;was redesignated as;Attack Squadron 209;in 1970;-1
+908;Attack Squadron 725;became part of;Carrier Air Wing Reserve TWENTY;from 1970 onward;-1
+909;Attack Squadron 725;based at;NAS Glenview;in the post-WWII period;-1
+909;One of the better units;based at;NAS Glenview;in the post-WWII period;-1
+Until its 2007 acquisition by Tavistock Group , Freebirds World Burrito had its corporate headquarters in College Station .
+910;Freebirds World Burrito;acquisition by;Tavistock Group;2007;-1
+910;its;acquisition by;Tavistock Group;2007;-1
+911;Freebirds World Burrito;had its corporate headquarters;in College Station;Until 2007;-1
+911;its;corporate headquarters;in College Station;Until 2007;-1
+911;Freebirds World Burrito;corporate headquarters;in College Station;Until 2007;-1
+Passengers for or should change at Twyford during off peak .
+912;Passengers;should change at;Twyford;during off peak;-1
+Later , the very different STA was converted into a flightworthy orbiter , re-designated OV-099 , and christened " Challenger " .
+913;the very different STA;was converted into;a flightworthy orbiter , re-designated OV-099 , and christened " Challenger ";Later;-1
+914;the very different STA;was converted into;a flightworthy orbiter;-1
+915;the very different STA;re-designated;OV-099;-1
+916;the very different STA;christened;" Challenger ";-1
+This font contains many largely recognized shapes and gestures as well as some recognized world symbols , such as the Star of David , the symbols of the zodiac , index or manicle signs and obscure ampersands .
+919;This font;contains;many largely recognized shapes and gestures;-1
+920;This font;contains;some recognized world symbols;-1
+927;This font;contains;the Star of David;-1
+928;This font;contains;the symbols of the zodiac;-1
+929;This font;contains;index signs;-1
+930;This font;contains;manicle signs;-1
+931;This font;contains;obscure ampersands;-1
+922;recognized world symbols;such as;the Star of David;-1
+923;recognized world symbols;such as;the symbols of the zodiac;-1
+924;recognized world symbols;such as;index signs;-1
+925;recognized world symbols;such as;manicle signs;-1
+926;recognized world symbols;such as;obscure ampersands;-1
+FEDERAL HOME LOAN MORTGAGE CORP. ( Freddie Mac ) : Posted yields on 30 - year mortgage commitments for delivery within 30 days .
+932;FEDERAL HOME LOAN MORTGAGE CORP.;(;Freddie Mac;-1
+933;FEDERAL HOME LOAN MORTGAGE CORP.;Posted yields on;30 - year mortgage commitments for delivery within 30 days;-1
+By acquiring stakes in bottling companies in the U.S. and overseas , Coke has been able to improve bottlers ' efficiency and production , and in some cases , marketing .
+934;Coke;has been able to improve;bottlers ' efficiency and production;By acquiring stakes in bottling companies in the U.S. and overseas;-1
+937;Coke;acquiring stakes in;bottling companies;in the U.S.;1
+940;Coke;acquiring stakes in;bottling companies;overseas;1
+938;bottling companies;in;the U.S.;-1
+939;bottling companies;in;overseas;-1
+Passenger services on the line were terminated on 31 December 1954 .
+941;Passenger services;were terminated on;the line;on 31 December 1954;-1
+Sikorsky and Boeing say that factors outside their control , like budget cuts , " requirement creep " and a long development period caused problems with the Comanche and not team dysfunctionality .
+942;Sikorsky;say that;factors outside their control , like budget cuts , " requirement creep " and a long development period caused problems with the Comanche and not team dysfunctionality;-1
+944;Boeing;say that;factors outside their control , like budget cuts , " requirement creep " and a long development period caused problems with the Comanche and not team dysfunctionality;-1
+946;factors outside their control;like;budget cuts;-1
+947;factors outside their control;like;" requirement creep ";-1
+948;factors outside their control;like;a long development period;-1
+946;factors;outside;their control;-1
+946;budget cuts;outside;their control;-1
+946;a long development period;outside;their control;-1
+946;" requirement creep ";outside;their control;-1
+949;problems;with;the Comanche;-1
+950;development period;long;-1
+" Billboard " magazine ranked the album thirty-second in the decade-end recap of the most successful albums of the 2000s , while placing it twelfth in the R&B field .
+951;" Billboard ";magazine;-1
+952;" Billboard " magazine;ranked;the album thirty-second;in the decade-end recap of the most successful albums of the 2000s;-1
+952;the album thirty-second;in the decade-end recap of;the most successful albums of the 2000s;-1
+952;the album thirty-second;most successful albums of;the 2000s;-1
+953;" Billboard " magazine;placing;the album thirty-second;twelfth;in the R&B field;-1
+953;" Billboard " magazine;placing;it;twelfth;in the R&B field;-1
+954;the album;of;the 2000s;-1
+" Video Concert Hall " ran daily on USA Network from 1978 to 1981 on a seemingly arbitrary schedule , appearing on early morning , daytime , late night , and early evening timeslots alike for durations ranging from one to four hours .
+956;" Video Concert Hall ";ran daily on;USA Network;from 1978 to 1981;-1
+957;" Video Concert Hall ";ran daily on;USA Network;on a seemingly arbitrary schedule;-1
+958;" Video Concert Hall ";appearing on;early morning;for durations ranging from one to four hours;-1
+958;" Video Concert Hall ";appearing on;daytime;for durations ranging from one to four hours;-1
+958;" Video Concert Hall ";appearing on;late night;for durations ranging from one to four hours;-1
+958;" Video Concert Hall ";appearing on;early evening timeslots alike;for durations ranging from one to four hours;-1
+959;durations;ranging;from one;to four hours;-1
+The district also provides recreation and leisure services to many non-residents of the area on a fee basis .
+965;The district;also provides;recreation and leisure services;to many non-residents of the area on a fee basis;-1
+Chugai agreed to pay $ 6.25 a share for Gen - Probe 's 17.6 million common shares outstanding on a fully diluted basis .
+966;Chugai;agreed to pay;$ 6.25 a share;for Gen - Probe 's 17.6 million common shares outstanding;on a fully diluted basis;-1
+969;Gen - Probe;'s;17.6 million common shares outstanding;-1
+The lodge also hosts fellowship events , conclaves , training events , and an annual family banquet , and supports the council activities at Council-run events .
+970;The lodge;hosts;fellowship events;-1
+971;The lodge;hosts;conclaves;-1
+972;The lodge;hosts;training events;-1
+973;The lodge;hosts;an annual family banquet;-1
+974;The lodge;supports;the council activities at Council-run events;-1
+In " The Scarpetta Factor " , she is working full - time and Wesley part - time in New York .
+975;she;is working;full - time;In " The Scarpetta Factor ";in New York;8
+976;Wesley;is working;part - time;In " The Scarpetta Factor ";in New York;8
+Though this time , the Brumbies won , 47 to 38 in front of a record crowd at Canberra Stadium .
+979;the Brumbies;won;47 to 38;at Canberra Stadium;in front of a record crowd;this time;-1
+980;the Brumbies;in front of;a record crowd;at Canberra Stadium;-1
+Because the Japanese " alphabet " is so huge , Japan has no history of typewriter use , and so " keyboard allergy " , especially among older workers , remains a common affliction .
+981;Japan;has no history of;typewriter use;-1
+981;the Japanese " alphabet ";is;so huge;-1
+982;keyboard allergy;remains a common affliction;especially among older workers;-1
+In " The Scarpetta Factor " , she is working full - time and Wesley is working part - time in New York .
+975;she;is working;full - time;In " The Scarpetta Factor ";in New York;8
+976;Wesley;is working;part - time;In " The Scarpetta Factor ";in New York;15
+977;she;In;" The Scarpetta Factor ";-1
+978;Wesley;In;" The Scarpetta Factor ";-1
+Dangaioh 's characters , mecha , and storyline elements appeared in Banpresto 's " Super Robot Wars " games .
+983;Dangaioh 's characters;appeared in;Banpresto 's " Super Robot Wars " games;-1
+984;mecha;appeared in;Banpresto 's " Super Robot Wars " games;-1
+985;storyline elements;appeared in;Banpresto 's " Super Robot Wars " games;-1
+986;" Super Robot Wars ";games;-1
+987;Banpresto;'s;" Super Robot Wars " games;12
+988;Dangaioh;'s;characters;1
+989;Dangaioh;'s;mecha;1
+990;Dangaioh;'s;storyline elements;1
+Aside from as much as $ 3.45 billion in recently approved federal aid , the state is expected to draw from a gubernatorial emergency fund that currently stands at an estimated $ 700 million .
+991;the state;is expected to draw;from a gubernatorial emergency fund;-1
+992;gubernatorial emergency fund;currently stands at;an estimated $ 700 million;-1
+993;the state;as much as;$ 3.45 billion in recently approved federal aid;-1
+From the , 275 or 26.1 % were Roman Catholic , while 624 or 59.3 % belonged to the Swiss Reformed Church .
+995;275;were;Roman Catholic;-1
+996;26.1 %;were;Roman Catholic;-1
+997;275;or;26.1 %;-1
+998;624;belonged to;the Swiss Reformed Church;-1
+999;59.3 %;belonged to;the Swiss Reformed Church;-1
+1000;624;or;59.3 %;-1
+Porter wrote in 1980 that strategy target either cost leadership , differentiation , or focus .
+1001;Porter;wrote;that strategy target either cost leadership , differentiation , or focus;in 1980;-1
+1002;strategy target;either cost;differentiation;-1
+1002;strategy target;either cost;focus;-1
+1002;strategy target;either cost;leadership;-1
+The supply of experienced civil engineers , though , is tighter .
+1004;The supply of experienced civil engineers;is tighter;-1
+1004;experienced civil engineers;supply;tighter;-1
+1005;The supply;of;experienced civil engineers;-1
+1006;civil engineers;experienced;-1
+He will concentrate on , among others , J.P. Morgan and Hyundai .
+1007;He;will concentrate on;J.P. Morgan;-1
+1008;He;will concentrate on;Hyundai;-1
+1009;He;will concentrate on;among others;-1
+Machines dedicated solely to word processing , which have all but disappeared in the U.S. , are still more common in Japan than PCs .
+1010;Machines dedicated solely to word processing;disappeared in;the U.S.;-1
+1010;all;have;Machines dedicated solely to word processing;-1
+1010;Machines dedicated solely to word processing;are still more common;than PCs;in Japan;-1
+1011;Machines;dedicated solely to;word processing;-1
+A better alternative in order to find the best possible results would be to use the Smith-Waterman algorithm .
+1012;A better alternative;would be to use;the Smith-Waterman algorithm;in order to find the best possible results;-1
+1012;use the Smith-Waterman algorithm;A better alternative in order to find;the best possible results;-1
+On 19 October 2010 , Tuqiri was officially named in the Australian squad for the Four Nations as a replacement for the injured Jarryd Hayne .
+1013;Tuqiri;was officially named;as a replacement for the injured Jarryd Hayne;in the Australian squad for the Four Nations;On 19 October 2010;-1
+1013;Tuqiri;as a replacement for;the injured Jarryd Hayne;-1
+1014;Jarryd Hayne;injured;-1
+New York bonds , which have been hammered in recent weeks on the pending supply and reports that the city 's economy is growing weaker , rose 1\/2 point yesterday .
+1015;New York bonds;have been hammered;on the pending supply;in recent weeks;-1
+1016;New York bonds;have been hammered;reports that the city 's economy is growing weaker;in recent weeks;-1
+1017;New York bonds;rose;1\/2 point;yesterday;-1
+1019;reports;that;the city 's economy is growing weaker;-1
+1019;the city 's economy;is growing;weaker;-1
+It 's recommended to have only two males and a dozen or so females .
+1021;It;'s recommended to have;only two males;-1
+1022;It;'s recommended to have;a dozen or so females;-1
+According to available information , the Maoists of Nepal have well - established linkages with Indian revolutionary communist organizations , primarily with the Communist Party of India , currently leading a protracted " people 's war " throughout the subcontinent .
+1023;the Maoists of Nepal;have well - established linkages with;Indian revolutionary communist organizations;According to available information;-1
+1024;the Maoists of Nepal;have well - established linkages with;the Communist Party of India;According to available information;-1
+1025;the Maoists of Nepal;leading;a protracted " people 's war ";throughout the subcontinent;According to available information;-1
+Its objective is to organize in-service Continuous Capacity Building and professional development training sessions , workshops and local and international conferences for enhancement of skills and competitive strength of faculty , staff and M.Phil and PhD students at their campuses .
+1026;Its objective;enhancement of;skills and competitive strength of faculty , staff and M.Phil and PhD students;at their campuses;-1
+1027;Its objective;to organize;in-service Continuous Capacity Building and professional development training sessions;at their campuses;-1
+1028;Its objective;to organize;workshops and local and international conferences;at their campuses;-1
+1029;Continuous Capacity Building and professional development training sessions;for enhancement of skills and competitive strength of;faculty , staff and M.Phil and PhD students;at their campuses;-1
+1030;workshops and local and international conferences;for enhancement of skills and competitive strength of;faculty , staff and M.Phil and PhD students;at their campuses;-1
+When the band is not touring , Peter Bywaters offers personal English as a second language tuition on a live - in basis at his home in Brighton .
+1031;Peter Bywaters;offers;personal English as a second language;at his home in Brighton;When the band is not touring;-1
+1032;Peter Bywaters;offers;tuition on a live - in basis;at his home in Brighton;When the band is not touring;-1
+1033;his;home;in Brighton;-1
+1033;Peter Bywaters;home;in Brighton;-1
+G-7 consists of the U.S. , Japan , Britain , West Germany , Canada , France and Italy .
+1034;G-7;consists of;the U.S.;-1
+1035;G-7;consists of;Japan;-1
+1036;G-7;consists of;Britain;-1
+1037;G-7;consists of;West Germany;-1
+1038;G-7;consists of;Canada;-1
+1039;G-7;consists of;France;-1
+1040;G-7;consists of;Italy;-1
+We just want a plan that satisfies creditors and at the end leaves a healthy Revco " .
+1041;We;just want;a plan that satisfies creditors and at the end leaves a healthy Revco;-1
+1043;a plan;satisfies;creditors;-1
+1044;a plan;leaves;a healthy Revco;at the end;-1
+The company has $ 1 billion in debt filed with the Securities and Exchange Commission .
+1045;The company;has;$ 1 billion in debt;-1
+1046;$ 1 billion in debt;filed with;the Securities and Exchange Commission;-1
+In November 1998 , the company suffered a public relations embarrassment when its sales flyer featured a prominent photograph of two grinning boys playing the board game " Scrabble " with the word " RAPE " spelled out in the center of the board , buried amongst nonsense words .
+1047;the company;suffered;a public relations embarrassment;In November 1998;-1
+1048;its sales flyer;featured;a prominent photograph of two grinning boys playing the board game " Scrabble " with the word " RAPE " spelled out in the center of the board , buried amongst nonsense words;In November 1998;-1
+1050;two grinning boys;playing;the board game " Scrabble ";-1
+1051;boys;grinning;-1
+1052;the word " RAPE ";spelled out in;the center of the board;-1
+1054;the word " RAPE ";buried amongst;nonsense words;in the center of the board;-1
+1056;photograph of two grinning boys playing the board game " Scrabble " with the word " RAPE " spelled out in the center of the board;prominent;its sales flyer;-1
+Mr. Baker heads the Kentucky Association of Science Educators and Skeptics .
+1057;Mr. Baker;heads;the Kentucky Association of Science Educators and Skeptics;-1
+Centuries later , in 1806 , during the Napoleonic era , was built the Canal de l'Ourcq , destined to the inland navigation when the Marne river is not navigable because of temporary sandbanks .
+1058;the Canal de l'Ourcq;was built;during the Napoleonic era;-1
+1059;the Canal de l'Ourcq;was built;Centuries later;-1
+1060;the Canal de l'Ourcq;was built;in 1806;-1
+1061;the Canal de l'Ourcq;destined to;the inland navigation;when the Marne river is not navigable because of temporary sandbanks;-1
+1061;the Marne river;is not navigable;because of temporary sandbanks;-1
+The RTC will have to sell or merge hundreds of insolvent thrifts over the next three years .
+1062;The RTC;will have to sell or merge;hundreds of insolvent thrifts;over the next three years;-1
+1063;thrifts;insolvent;-1
+Mortgage securities ended 2\/32 to 4\/32 higher in light trading .
+1064;Mortgage securities;ended;2\/32;to 4\/32;higher;in light trading from;-1
+1066;trading;light;-1
+Instead of having system calls specifically for process management , Plan 9 provides the codice_13 file system .
+1068;Plan 9;provides;the codice_13 file system;-1
+1069;the codice_13 file system;Instead of having;system calls specifically for process management;-1
+1069;system calls;specifically for;process management;-1
+His main power , the Omega Beam , is a form of energy that he fires from his eyes as either a concussive force or disintegrating energy , capable of transmuting or erasing living objects and organisms from existence as well as resurrecting them , depending on the dark lord 's will .
+1070;His main power;,;the Omega Beam;-1
+His main power , the Omega Beam , is a form of energy that he fires from his eyes as either a concussive force or disintegrating energy , capable of transmuting or erasing living objects and organisms from existence as well as resurrecting them , depending on the dark lord 's will .
+1071;the Omega Beam;is a form of;energy;-1
+1072;he;fires;a form of energy;from his eyes;as either a concussive force or disintegrating energy;-1
+1072;he;fires;the Omega Beam;from his eyes;as either a concussive force or disintegrating energy;-1
+1072;the Omega Beam;as either a;concussive force;-1
+1072;the Omega Beam;as either a;disintegrating energy;-1
+1075;disintegrating energy;capable of transmuting or erasing;living objects;-1
+1075;disintegrating energy;capable of transmuting or erasing;organisms;-1
+1075;disintegrating energy;resurrecting;them;-1
+1075;the Omega Beam;capable of transmuting or erasing;living objects;-1
+1075;the Omega Beam;capable of transmuting or erasing;organisms;-1
+1075;the Omega Beam;resurrecting;them;-1
+1081;the Omega Beam;depending on the;dark lord 's will;-1
+Rockwell and NASA thus retroactively re-designated the MPTA as MPTA-098 , though it was never christened with a name .
+1082;Rockwell;retroactively re-designated;the MPTA;as MPTA-098;-1
+1083;NASA;retroactively re-designated;the MPTA;as MPTA-098;-1
+1086;MPTA-098;was never christened with;a name;-1
+1086;it;was never christened with;a name;-1
+Maduveya Vayasu song from nanjundi kalyana was a track played during marriages for many many years in Kannada .
+1087;Maduveya Vayasu;song;-1
+1088;Maduveya Vayasu song;from;nanjundi kalyana;-1
+1089;Maduveya Vayasu song;was;a track played during marriages for many many years in Kannada;-1
+1089;a track;played;during marriages;for many many years;in Kannada;-1
+1089;Maduveya Vayasu song;played;during marriages;for many many years;in Kannada;-1
+Kabul had textile , cotton production , and carpet production industries , but most of its economy came through tourism which it lost during its destruction .
+1090;Kabul;had;textile;-1
+1091;Kabul;had;cotton production;-1
+1092;Kabul;had;carpet production industries;-1
+1093;Kabul;lost;tourism;during its destruction;-1
+1093;it;lost;tourism;during its destruction;-1
+1095;most of its economy;came through;tourism;in Kabul;-1
+The problem is that Japanese businesses make decisions with a view well beyond the coming months that weigh so heavily on Mr. Salinas .
+1099;The problem;is that;Japanese businesses make decisions with a view well beyond the coming months that weigh so heavily on Mr. Salinas;-1
+1100;the coming months;weigh so heavily on;Mr. Salinas;-1
+1101;Japanese businesses;make decisions with;a view well beyond the coming months;-1
+1101;a view;well beyond;the coming months;-1
+1102;businesses;Japanese;-1
+An " Dangaioh " adventure game was released for the PC-8801 in Japan in April 1990 . 
+1103;Dangaioh;adventure game;-1
+1104;An " Dangaioh " adventure game;was released for;the PC-8801;in Japan;in April 1990;-1
+Congress still is struggling to dismantle the unpopular Catastrophic Care Act of 1988 , which boosted benefits for the elderly and taxed them to pay for the new coverage .
+1105;Congress;is struggling to dismantle;the unpopular Catastrophic Care Act of 1988;still;-1
+1106;Catastrophic Care Act of 1988;unpopular;-1
+1107;Catastrophic Care Act;of;1988;-1
+1108;Catastrophic Care Act of 1988;boosted benefits for;the elderly;-1
+1109;Catastrophic Care Act of 1988;taxed;them;to pay for the new coverage;-1
+1109;them;pay for;the new coverage;-1
+1109;the elderly;pay for;the new coverage;-1
+The buyers , these analysts added , could be either foreign or other U.S. concerns .
+1110;these analysts;added;The buyers;-1
+1111;these analysts;added;could be either foreign other U.S. concerns;-1
+1112;The buyers;could be;foreign concerns;-1
+1113;The buyers;could be;other U.S. concerns;-1
+From 1698 to 1843 the famous organ built by Arp Schnitger , one of the Baroque period 's best known organ makers was the main organ .
+1114;the famous organ built by Arp Schnitger;was;the main organ;From 1698;to 1843;-1
+1114;Arp Schnitger;one of;the Baroque period 's best known organ makers;-1
+1114;Arp Schnitger;best known;organ makers;the Baroque period 's;-1
+1115;the famous organ;built by;Arp Schnitger;-1
+Declining issues outnumbered advancers 551 to 349 ,,, 224 issues were unchanged .
+1117;Declining issues;outnumbered;advancers;551 to 349;-1
+1120;224 issues;were unchanged;-1
+Mr. Mehl attributed the rise specifically to the Treasury bill increase .
+1123;Mr. Mehl;attributed;the rise;specifically to the Treasury bill increase;-1
+1123;the Treasury bill;increase;-1
+Instead he awoke when a smaller meteorite hit the Earth in 1992 , seven years too early .
+1124;he;awoke;when a smaller meteorite hit the Earth in 1992;-1
+1125;he;awoke;seven years too early;-1
+1126;a smaller meteorite;hit;the Earth;in 1992;-1
+1127;a smaller meteorite;hit;the Earth;seven years too early;-1
+The IRS has been seeking more than $ 300 million in back taxes from Mr. Hunt .
+1128;The IRS;has been seeking;from Mr. Hunt;more than $ 300 million in back taxes;-1
+SKILLED WORKERS aplenty are available to cope with earthquake damage .
+1129;SKILLED WORKERS aplenty;are available to cope with;earthquake damage;-1
+1131;SKILLED WORKERS;aplenty;-1
+On October 14 , 2012 , Sidney Rice caught the game winning touchdown from a 46-yard pass from Russell Wilson to beat the New England Patriots 24-23 .
+1132;Sidney Rice;caught;the game winning touchdown;On October 14 , 2012;from a 46-yard pass;from Russell Wilson to beat the New England Patriots 24-23;-1
+1135;Sidney Rice;beat;the New England Patriots;24-23;On October 14 , 2012;-1
+1136;a 46-yard pass;from;Russell Wilson;On October 14 , 2012;-1
+Thus , any event that would minimize such a surface is entropically favored .
+1137;any event;would minimize;such a surface;-1
+1137;any event that would minimize such a surface;is entropically favored;-1
+The theatrical flourishes and unique gimmicks she used in her stage show went beyond established burlesque routines like the fan dance and balloon dance .
+1138;she;used;theatrical flourishes and unique gimmicks;in her stage show;-1
+1138;theatrical flourishes and unique gimmicks she used in her stage show;went beyond;established burlesque routines;-1
+1138;theatrical flourishes and unique gimmicks she used in her stage show;went beyond;the fan dance;-1
+1138;theatrical flourishes and unique gimmicks she used in her stage show;went beyond;balloon dance;-1
+1139;established burlesque routines;like;the fan dance;-1
+1139;established burlesque routines;like;balloon dance;-1
+Mitsubishi Estate has n't decided how it will raise the funds for the purchase , which are due in cash next April , but the Marunouchi holdings alone are estimated to have a market value of as much as 10 trillion yen to 11 trillion yen .
+1141;Mitsubishi Estate;has n't decided;how it will raise the funds for the purchase;-1
+1142;the funds for the purchase;are due;in cash;next April;-1
+1143;the Marunouchi holdings alone;are estimated to have;a market value of as much as 10 trillion yen to 11 trillion yen;-1
+1144;it;will raise;the funds for the purchase;-1
+1144;Mitsubishi;will raise;the funds for the purchase;-1
+Latchford viaduct was opened on 8 July 1893 to carry the London and North Western Railway 's Stockport to Warrington line over the Manchester Ship Canal .
+1146;Latchford viaduct;was opened;to carry the London and North Western Railway 's Stockport to Warrington line over the Manchester Ship Canal;on 8 July 1893;-1
+1147;Latchford viaduct;carry;the London and North Western Railway 's Stockport;to Warrington line;over the Manchester Ship Canal;on 8 July 1893;-1
+At the end of 2008 the Uzbek - Italian Joint Venture Roison - Candy was established by the Uzbek Limited Liability Company Roison Electronics with partnership of Candy Group .
+1150;Roison - Candy;Uzbek - Italian Joint Venture;-1
+1151;Roison - Candy;was established by;Roison Electronics;with partnership of Candy Group;At the end of 2008;-1
+1151;Roison Electronics;with partnership of;Candy Group;-1
+1152;Roison Electronics;Uzbek Limited Liability Company;-1
+The weapons do not influence the other racers at all .
+1153;The weapons;do not influence;the other racers;-1
+Excluding the special editions , the 2004-2005 Ram SRT-10 came in three colors : Brilliant Black Crystal Pearl Coat , Bright Silver Metallic Clear Coat , and Flame Red Clear Coat .
+1154;the 2004-2005 Ram SRT-10;Excluding;the special editions;-1
+1155;the 2004-2005 Ram SRT-10;came in;Brilliant Black Crystal Pearl Coat;-1
+1156;the 2004-2005 Ram SRT-10;came in;Bright Silver Metallic Clear Coat;-1
+1157;the 2004-2005 Ram SRT-10;came in;Flame Red Clear Coat;-1
+On 15 January 1999 , Senchuk was appointed as governor of the Lviv region ,,, for some time he combined two posts .
+1159;Senchuk;was appointed as governor;of the Lviv region;On 15 January 1999;-1
+1160;Senchuk;combined;two posts;for some time;-1
+1160;he;combined;two posts;for some time;-1
+The school was founded in 1851 as the German-English Academy by a group of Milwaukee German Americans that included educationist Peter Engelmann and hardware wholesaler William Frankfurth .
+1161;The school;was founded;as the German-English Academy;by a group of Milwaukee German Americans;in 1851;-1
+1163;Milwaukee German Americans;group;-1
+1164;Peter Engelmann;educationist;-1
+1165;William Frankfurth;wholesaler;hardware;-1
+1166;a group of Milwaukee German Americans;included;Peter Engelmann;-1
+1166;a group of Milwaukee German Americans;included;William Frankfurth;-1
+Sligo town then became an incorporated municipal borough with a Royal Charter issued by the British King James I in 1613/14 .
+1167;Sligo town;became;an incorporated municipal borough;-1
+1168;Sligo town;with;a Royal Charter;-1
+1169;a Royal Charter;issued;by the British King James I;in 1613/14;-1
+1170;Sligo;town;-1
+1172;King James I;British;-1
+That compared with an operating loss of $ 1.9 million on sales of $ 27.4 million in the year - earlier period .
+1173;an operating loss of $ 1.9 million;on sales of;$ 27.4 million;in the year - earlier period;-1
+1174;That;compared with;an operating loss of $ 1.9 million on sales of $ 27.4 million in the year - earlier period;-1
+Greek and Roman pagans , who saw their relations with the gods in political and social terms , scorned the man who constantly trembled with fear at the thought of the gods , as a slave might fear a cruel and capricious master .
+1175;Greek and Roman pagans;saw their relations with;the gods in;political;-1
+1176;Greek and Roman pagans;saw their relations with;the gods in;social terms;-1
+1181;Greek and Roman pagans;scorned;the man who constantly trembled with fear at the thought of the gods;-1
+1183;the man;constantly trembled with fear at;the thought of the gods;-1
+1184;a slave;might fear;a cruel and capricious master;-1
+The neighborhood comprises an older industrial and residential harbor front area along the Kill Van Kull west of St. George .
+1187;The neighborhood;comprises;an older industrial and residential harbor front area;along the Kill Van Kull west of St. George;-1
+1189;the Kill Van Kull;west of;St. George;-1
+The department came under grant-in-aid scheme of Government of Karnataka in 1992 .
+1190;The department;came under;grant-in-aid scheme of Government of Karnataka;in 1992;-1
+1192;Government;of;Karnataka;-1
+On a 394 - 21 roll call , the House adopted the underlying transportation measure .
+1193;the House;adopted;the underlying transportation measure;On a 394 - 21 roll call;-1
+1194;transportation measure;underlying;-1
+The second marital privilege cited by Mrs. Marcos protects confidential communications between spouses .
+1196;The second marital privilege;cited by;Mrs. Marcos;-1
+1197;The second marital privilege;protects;confidential communications between spouses;-1
+1198;confidential communications;between;spouses;-1
+The cockpit was protected from the engine by a firewall ahead of the wing center section where the fuel tanks were located .
+1199;a firewall;ahead of;the wing center section;-1
+1200;the fuel tanks;were located;the wing center section;-1
+1201;The cockpit;was protected;from the engine;by a firewall;-1
+In his 2010 book " At Home " , author Bill Bryson suggests Siddal may have suffered from poisoning , because she was a " devoted swallower " of Fowler 's Solution , a so-called complexion improver made from dilute arsenic .
+1203;Bill Bryson;author;-1
+1204;" At Home ";book;his;-1
+1206;author Bill Bryson;suggests;Siddal may have suffered from poisoning , because she was a " devoted swallower " of Fowler 's Solution , a so-called complexion improver made from dilute arsenic;In his 2010 book " At Home ";-1
+1207;Fowler 's Solution;so-called;complexion improver;-1
+1208;Fowler 's Solution;made from;dilute arsenic;-1
+1209;Siddal;was a " devoted swallower " of;Fowler 's Solution;-1
+1210;Siddal;may have suffered from;poisoning;-1
+In 2004 it was expected that redevelopment work in the remaining subway would probably obliterate what remains exist .
+1211;redevelopment work;in;the remaining subway;-1
+1212;redevelopment work;would probably obliterate;what remains exist;in the remaining subway;-1
+1213;it;was expected that;redevelopment work in the remaining subway would probably obliterate what remains exist;In 2004;-1
+The Shi'a praise Muhammad ibn Abu Bakr for his devotion to ` Ali and his resistance to all the other caliphs who the Shi'a believe to be usurpers .
+1214;The Shi'a;praise;Muhammad ibn Abu Bakr for his devotion to ` Ali and his resistance to all the other caliphs;-1
+1214;Muhammad ibn Abu Bakr;devotion to;` Ali;-1
+1214;his;devotion to;` Ali;-1
+1214;Muhammad ibn Abu Bakr;resistance to;all the other caliphs;-1
+1214;his;resistance to;all the other caliphs;-1
+1216;the Shi'a;believe;all the other caliphs;to be usurpers;-1

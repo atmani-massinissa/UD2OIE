@@ -1,0 +1,971 @@
+CourtLink , which has 160 employees , developed a filing system that enables judges , lawyers and court clerks to process pleadings , motions and other documents electronically over a secure connection .
+0;CourtLink;developed;a filing system;-1
+0;CourtLink;has;160 employees;-1
+0;a filing system;enables;judges;to process pleadings , motions and other documents electronically over a secure connection;12
+0;a filing system;enables;lawyers;to process pleadings , motions and other documents electronically over a secure connection;12
+0;a filing system;enables;court clerks;to process pleadings , motions and other documents electronically over a secure connection;12
+0;judges;process;pleadings;electronically over a secure connection;20
+0;judges;process;motions;electronically over a secure connection;20
+0;judges;process;other documents;electronically over a secure connection;20
+0;lawyers;process;pleadings;electronically over a secure connection;20
+0;lawyers;process;motions;electronically over a secure connection;20
+0;lawyers;process;other documents;electronically over a secure connection;20
+0;court clerks;process;pleadings;electronically over a secure connection;20
+0;court clerks;process;motions;electronically over a secure connection;20
+0;court clerks;process;other documents;electronically over a secure connection;20
+A graduate of the University of Arizona , she is a lecturer in writing at Princeton University and an author under the name of Kathryn Watterson Burkhart .
+1;she;is a lecturer;in writing;at Princeton University;-1
+1;she;an author;under the name of Kathryn Watterson Burkhart;-1
+1;she;A graduate of;the University of Arizona;0
+The events occurred in July .
+2;The events;occurred in;July;-1
+Terrorist attacks by E.T.A. have declined in recent years and the number of its hardcore militants is thought to have fallen from the hundreds of 15 years ago to several score .
+3;Terrorist attacks by E.T.A.;have declined;in recent years;-1
+3;the number of its hardcore militants;is thought to have fallen from;the hundreds of 15 years ago;to several score;-1
+Mr. Mahdi and Mr. Chalabi say they aim to form a national unity government with Iraq 's main political leaders , presumably including Mr. Allawi .
+4;Mr. Chalabi;say;they aim to form a national unity government with Iraq 's main political leaders;-1
+4;Mr. Mahdi;say;they aim to form a national unity government with Iraq 's main political leaders;-1
+4;they;aim to form;a national unity government;with Iraq 's main political leaders;-1
+4;Iraq 's main political leaders;presumably including;Mr. Allawi;-1
+The girls want to protect themselves .
+5;The girls;want to protect;themselves;-1
+He also had stints with the New York Philharmonic , Metropolitan Opera Orchestra , CBS Symphony and Symphony of the Air , the NBC Symphony 's successor .
+6;He;also had stints with;CBS Symphony;-1
+6;He;also had stints with;Metropolitan Opera Orchestra;-1
+6;He;also had stints with;the New York Philharmonic;-1
+6;He;also had stints with;Symphony of the Air;-1
+6;Symphony of the Air;successor;NBC Symphony;-1
+In recent weeks , as the incentive wars have escalated , other automakers have beefed up their warranties .
+7;other automakers;have beefed up;their warranties;In recent weeks;-1
+7;the incentive wars;have escalated;In recent weeks;-1
+President Bush deserves much credit for sharply increasing United States financing for AIDS prevention programs overseas .
+8;President Bush;sharply increasing;United States financing for AIDS prevention programs overseas;-1
+8;President Bush;deserves much credit for;sharply increasing United States financing for AIDS prevention programs overseas;-1
+8;United States;financing for;AIDS prevention programs;overseas;-1
+The opportunity is significant and I hope we can take the opportunity to move forward , he said referring to his coming trip to Britain .
+9;I;hope;we can take the opportunity to move forward;-1
+9;we;to move;forward;-1
+9;The opportunity;is;significant;-1
+9;he;said;The opportunity is significant and I hope we can take the opportunity to move forward;referring to his coming trip to Britain;-1
+9;we;can take;the opportunity;to move forward;-1
+9;he;referring to;his coming trip to Britain;-1
+And , since , as any reputable language teacher knows , bilingualism in the school merely reinforces what the child hears at home - and slows his learning of English - the whole idea is pointless .
+10;bilingualism in the school;merely reinforces;what the child hears at home;-1
+10;bilingualism in the school;slows;his learning of English;-1
+10;the whole idea;is;pointless;-1
+10;any reputable language teacher;knows;bilingualism in the school merely reinforces what the child hears at home - and slows his learning of English;-1
+In its most recent survey , the Congress for New Urbanism , a nonprofit organization based in Chicago , reported 648 neighborhood - scale New Urbanist communities in the United States , an increase of 176 over a 12 - month period .
+11;the Congress for New Urbanism;,;a nonprofit organization;11
+11;the Congress for New Urbanism;based in;Chicago;-1
+11;a nonprofit organization;based in;Chicago;-1
+11;the Congress for New Urbanism;reported;648 neighborhood - scale New Urbanist communities;in the United States;In its most recent survey;-1
+11;648 neighborhood - scale New Urbanist communities in the United States;increase of;176;over a 12 - month period;-1
+Meanwhile , the truth - that in most families where child abuse ( sexual or otherwise ) takes place , women are also victimized , either through dominance and control or actual violence - that reality is smokescreened , and the problem of the powerful abusing their power is perpetuated .
+12;child abuse;takes place;in most families;-1
+12;reality;is smokescreened;-1
+12;women;are also victimized;either through dominance and control or actual violence;-1
+12;the problem of the powerful abusing their power;is perpetuated;-1
+12;the powerful;abusing;their power;-1
+12;the truth;- that;in most families where child abuse ( sexual or otherwise ) takes place , women are also victimized;-1
+It goes against all that this country stands for .
+13;It;goes against;all that this country stands for;-1
+13;this country;stands for;that;-1
+But inexpensive point - and - shoot cameras can do the job if they have a telephoto setting or a zoom lens .
+14;inexpensive point - and - shoot cameras;can do;the job;-1
+14;inexpensive point - and - shoot cameras;have;a zoom lens;-1
+14;inexpensive point - and - shoot cameras;have;a telephoto setting;-1
+14;point - and - shoot cameras;inexpensive;-1
+Few have tried , and far fewer have succeeded .
+15;Few;have tried;-1
+15;far fewer;have succeeded;-1
+We can use a little more of that trust this year .
+16;We;can use;a little more of that trust;this year;-1
+The Embassy said 6,700 Americans were in Pakistan .
+17;6,700 Americans;were in;Pakistan;-1
+17;The Embassy;said;6,700 Americans were in Pakistan;-1
+Along with Dow Jones and Microsoft , the companies included CNN , but not its parent , AOL Time Warner .
+18;AOL Time Warner;parent;CNN;15
+18;the companies;included;Microsoft;-1
+18;the companies;included;Dow Jones;-1
+18;the companies;included;CNN;-1
+I 'd recommend three Xanax , a great bottle of cabernet and looking for a new publicist .
+19;I;'d recommend;three Xanax;-1
+19;I;'d recommend;a great bottle of cabernet;-1
+19;I;'d recommend;looking for a new publicist;-1
+The case is being appealed .
+20;The case;is being appealed;-1
+Doctors in Pennsylvania and West Virginia are expected to notify S.M.I. bioterror experts of any suspicious event , from an unusual rash to a finger lost in an explosion , identifying but not informing the patient .
+21;Doctors in Pennsylvania and West Virginia;are expected to notify;S.M.I. bioterror experts;of any suspicious event;-1
+21;Doctors in Pennsylvania and West Virginia;are expected to notify;S.M.I. bioterror experts;from an unusual rash to a finger lost in an explosion;-1
+21;Doctors in Pennsylvania and West Virginia;not informing;the patient;of any suspicious event;-1
+21;Doctors in Pennsylvania and West Virginia;not informing;the patient;from an unusual rash to a finger lost in an explosion;-1
+21;Doctors in Pennsylvania and West Virginia;identifying;any suspicious event;-1
+21;Doctors in Pennsylvania and West Virginia;identifying;from an unusual rash to a finger lost in an explosion;-1
+21;a finger;lost in;an explosion;-1
+Nothing else is untouched , regardless of its provenance .
+22;Nothing else;is untouched;regardless of its provenance;-1
+A large influx is going to create problems .
+23;A large influx;is going to create;problems;-1
+Morningwood Ulysses S.Grant , the second - ranked basset hound in 1998 , was received , the quota had been filled .
+24;Morningwood Ulysses S.Grant;,;the second - ranked basset hound in 1998;3
+24;Morningwood Ulysses S.Grant;was received;-1
+24;the second - ranked basset hound in 1998;was received;-1
+24;the quota;had been filled;-1
+McGaughey said that Personal Ensign might race again in New York this year and definitely would race next year and be pointed for the Breeders ' Cup .
+25;McGaughey;said that;Personal Ensign might race again in New York this year and definitely would race next year and be pointed for the Breeders ' Cup;-1
+25;Personal Ensign;be pointed for;the Breeders ' Cup;-1
+25;Personal Ensign;might race again in;New York;this year;-1
+25;Personal Ensign;would race;next year;-1
+The region is still far from rebuilt , despite Government promises to have the work completed within two years , and there have been accusations of corruption and misuse of relief funds .
+26;The region;is still far from;rebuilt;-1
+26;Government;promises to have;the work completed within two years;-1
+26;the work;completed;within two years;-1
+26;there;have been accusations of;corruption;-1
+26;there;have been accusations of;misuse of relief funds;-1
+Simmons said she would not reveal her opinion on reparations so as not to influence the committee .
+27;Simmons;said;she would not reveal her opinion on reparations so as not to influence the committee;-1
+27;she;would not reveal;her opinion on reparations;not to influence the committee;-1
+27;she;not to influence;the committee;-1
+An asbestos and lead survey found a substantial amount of asbestos in the buildings .
+28;An asbestos and lead survey;found;a substantial amount of asbestos;in the buildings;-1
+Meanwhile , Ms. Coughlin is pursuing her case in a Federal court in Nevada against the last remaining defendant , the Las Vegas Hilton , which has denied it negligently failed to provide adequate security .
+29;Ms. Coughlin;is pursuing;her case;against the last remaining defendant;in a Federal court in Nevada;-1
+29;Ms. Coughlin;is pursuing;her case;the Las Vegas Hilton;-1
+29;last remaining defendant;,;the Las Vegas Hilton;19
+29;the Las Vegas Hilton;has denied;it negligently failed to provide adequate security;-1
+29;the last remaining defendant;has denied;it negligently failed to provide adequate security;-1
+29;it;negligently failed to provide;adequate security;-1
+To reach the museums by foot , leave from the station 's 30th Street exit and walk along J .
+30;;-1
+In lieu of flowers , donations in his memory can be made to the International Myeloma Foundation , 12650 Riverside Drive , Suite 206 , North Hollywood , CA .
+31;donations in his memory;can be made to;the International Myeloma Foundation;In lieu of flowers;-1
+31;the International Myeloma Foundation;,;12650 Riverside Drive , Suite 206 , North Hollywood , CA;-1
+31;12650 Riverside Drive , Suite 206 , North Hollywood;,;CA;-1
+Julian Stark does his own hapless stunts in his takeoff on the Hercules movies starring Steve Reeves ,, Shannon Plumb contributes a Chaplinesque Diary of a Mad Housewife .
+32;Julian Stark;does;his own hapless stunts;in his takeoff on the Hercules movies starring Steve Reeves;-1
+32;his;takeoff on;the Hercules movies;-1
+32;Shannon Plumb;contributes;a Chaplinesque Diary of a Mad Housewife;-1
+32;a Chaplinesque Diary;of;a Mad Housewife;-1
+32;Diary;Chaplinesque;-1
+32;Housewife;Mad;-1
+32;the Hercules movies;starring;Steve Reeves;-1
+32;stunts;hapless;-1
+The negative outlook also reflects the possibility of further managerial instability and movement , financial penalties , findings supporting shareholder litigation and further reserve adjustments .
+33;The negative outlook;also reflects the possibility of;further managerial instability and movement;-1
+33;The negative outlook;also reflects the possibility of;financial penalties;-1
+33;The negative outlook;also reflects the possibility of;findings supporting shareholder litigation;-1
+33;The negative outlook;also reflects the possibility of;further reserve adjustments;-1
+33;outlook;negative;-1
+33;findings;supporting;shareholder litigation;-1
+33;shareholder;litigation;-1
+33;penalties;financial;-1
+My words were as perishable as doodles on an Etch - a - Sketch , I got half the money for twice the work , and I had to share the writer 's credit .
+34;My words;were as perishable as;doodles on an Etch - a - Sketch;-1
+34;I;got;half the money;for twice the work;-1
+34;I;had to share;the writer 's credit;-1
+Although the classic loafer can travel anywhere , this spring 's variations are certainly a step in a new direction .
+35;the classic loafer;can travel;anywhere;-1
+35;this spring 's variations;are certainly;a step in a new direction;-1
+Eventually , they say , fares should cover about 50 percent of the costs of the system , up from the current 25 to 38 percent , depending on the method of calculation .
+36;fares;should cover;about 50 percent of the costs of the system;Eventually;-1
+36;fares;should cover;25 to 38 percent;current;-1
+36;the current 25 to 38 percent;depending on;the method of calculation;-1
+36;they;say;Eventually;-1
+36;they;say;fares should cover about 50 percent of the costs of the system , up from the current 25 to 38 percent , depending on the method of calculation;-1
+Taken for granted it sometimes may be , but this year the Defense Department sought $ 950 million in assistance from Congress ( and secured half that amount ) for Ankara 's huge military machine , which includes the biggest standing army in NATO outside the United States .
+37;Ankara 's huge military machine;includes;the biggest standing army in NATO;outside the United States;-1
+37;Ankara;'s;huge military machine;-1
+37;the Defense Department;sought;$ 950 million in assistance;from Congress;for Ankara 's huge military machine;this year;-1
+37;the Defense Department;secured;half that amount;-1
+37;it;Taken for granted;-1
+37;it;sometimes may be;Taken for granted;-1
+An article last Sunday about the purchase of 40 Wall Street referred incorrectly to the buyer 's arrangements with the owner of the land .
+38;An article;referred incorrectly to;the buyer 's arrangements with the owner of the land;-1
+38;An article;about;the purchase of 40 Wall Street;last Sunday;-1
+38;the buyer;'s arrangements with;the owner of the land;-1
+But if it does happen , Senator Pell will no longer be around to receive special back - room briefings from Uri Geller , the psychic spoon - bender .
+39;Senator Pell;will no longer be around to receive;special back - room briefings;from Uri Geller;-1
+39;Uri Geller;,;the psychic spoon - bender;23
+39;Pell will;Senator;-1
+The Giants convened today to begin their first preparations for Monday night 's game in Minnesota against the Vikings .
+40;The Giants;convened;to begin their first preparations for Monday night 's game in Minnesota against the Vikings;today;-1
+40;The Giants;begin;their first preparations;for Monday night 's game in Minnesota against the Vikings;-1
+40;their;preparations for;Monday night 's game in Minnesota against the Vikings;-1
+40;Monday night 's game;in;Minnesota;-1
+40;Monday night 's game;against;the Vikings;-1
+John Lamar Odom , pastor of the First Presbyterian Church in Oceanside , L.I. , were married yesterday .
+41;John Lamar Odom;pastor of;the First Presbyterian Church in Oceanside , L.I.;4
+41;Church;First Presbyterian;-1
+41;Oceanside;,;L.I.;-1
+41;John Lamar Odom;were married;yesterday;-1
+The World Health Organization has issued a report detailing an ambitious , often covert effort by the tobacco industry to curb global anti-smoking initiatives , dating back to the late 1980 's .
+42;The World Health Organization;has issued;a report detailing an ambitious , often covert effort by the tobacco industry to curb global anti-smoking initiatives , dating back to the late 1980 's;-1
+42;a report;detailing;an ambitious , often covert effort by the tobacco industry to curb global anti-smoking initiatives;-1
+42;the tobacco industry;curb;global anti-smoking initiatives;-1
+42;an ambitious , often covert effort;by;the tobacco industry;to curb global anti-smoking initiatives;-1
+42;global anti-smoking initiatives;dating back to;the late 1980 's;25
+Kent was not told of the situation until the game was over .
+43;Kent;was not told of;the situation;until the game was over;-1
+43;the game;was;over;-1
+It has set up a robotic system that systematically tests all 2,000 existing chemical drugs in combinations of two .
+44;It;has set up;a robotic system that systematically tests all 2,000 existing chemical drugs in combinations of two;-1
+44;a robotic system;systematically tests;all 2,000 existing chemical drugs;in combinations of two;-1
+44;chemical drugs;existing;2,000;-1
+The state - run English - language Teheran Times reported that Parliament would begin debate on the Cabinet on Tuesday , with two weeks to complete discussions and vote .
+45;Parliament;would begin debate on;the Cabinet;on Tuesday;-1
+45;Parliament;complete;vote;with two weeks;-1
+45;Parliament;complete;discussions;with two weeks;-1
+45;The state - run English - language Teheran Times;reported that;Parliament would begin debate on the Cabinet on Tuesday , with two weeks to complete discussions and vote;-1
+He said the public school from which he transferred three years ago had metal detectors that still failed to keep out the sense that danger lurked nearby .
+46;He;said;the public school from which he transferred three years ago had metal detectors that still failed to keep out the sense that danger lurked nearby;-1
+46;the public school from which he transferred three years ago;had;metal detectors that still failed to keep out the sense that danger lurked nearby;-1
+46;metal detectors;still failed to keep out;the sense that danger lurked nearby;-1
+46;danger;lurked;nearby;-1
+46;he;transferred;the public school;three years ago;-1
+Nordstrom Inc. , the retail chain based on the West Coast , said today that it had created an office of the president to strengthen its executive management team .
+47;Nordstrom Inc.;,;the retail chain;2
+47;Nordstrom Inc.;based on;the West Coast;-1
+47;Nordstrom Inc.;said;it had created an office of the president to strengthen its executive management team;today;-1
+47;it;had created;an office of the president;to strengthen its executive management team;-1
+47;an office of the president;strengthen;its executive management team;-1
+47;it;strengthen;its executive management team;-1
+All of these portraits , incidentally , are based on fact .
+48;All of these portraits;are based on;fact;-1
+Dr. Weiss graduated summa cum laude from Brandeis University and received his medical degree from Yale University .
+49;Dr. Weiss;graduated;summa cum laude;from Brandeis University;-1
+49;Dr. Weiss;received;his medical degree;from Yale University;-1
+The announced crowd was 15,568 .
+50;The announced crowd;was;15,568;-1
+In times past , getting a taxi at a New York City airport was often a Darwinian affair , a frenzied , survival - of - the - fittest scene of piled - up luggage , darting taxis and shouting cabbies looking for an edge .
+51;getting a taxi;was often;a Darwinian affair;at a New York City airport;In times past;-1
+51;getting a taxi;was often;a frenzied , survival - of - the - fittest scene of piled - up luggage;at a New York City airport;In times past;-1
+51;shouting cabbies;looking for;an edge;-1
+51;cabbies;shouting;-1
+51;darting taxis;looking for;an edge;-1
+51;taxis;darting;-1
+They won 26 of their next 31 games , including 11 straight in June .
+52;They;won;11 straight;in June;-1
+52;They;won;26 of their next 31 games;-1
+52;26 of their next 31 games;including;11 straight in June;-1
+This revelatory micro - exhibition reunites five portraits of the postal worker Joseph Roulin , whom van Gogh met while in Arles .
+53;This revelatory micro - exhibition;reunites;five portraits of the postal worker Joseph Roulin;-1
+53;van Gogh;met;Joseph Roulin;while in Arles;-1
+53;van Gogh;met;in;Arles;-1
+53;Joseph Roulin;worker;postal;-1
+We did not want to have something in our home that would be too heavy for us to lift .
+54;We;did not want to have;something;in our home;that would be too heavy for us to lift;-1
+54;something in our home;would be too heavy;for us;to lift;-1
+54;us;lift;something in our home;-1
+A defense spokesman added that British officials were aware of the potential for missile attacks along the border between the province and the Irish republic .
+55;A defense spokesman;added that;British officials were aware of the potential for missile attacks along the border between the province and the Irish republic;-1
+55;British officials;were aware of;the potential for missile attacks;along the border between the province and the Irish republic;-1
+55;the potential for missile attacks;along;the border between the province and the Irish republic;-1
+55;missile attacks;potential;along the border between the province and the Irish republic;-1
+55;the border;between;the province and the Irish republic;-1
+Like all good pamphlets , The Missionary Position , by Christopher Hitchens , is very short , zealously overwritten , and rails wildly in defense of an almost nonsensical proposition : that Mother Teresa of Calcutta is actually not a saint but an evil and selfish old woman .
+56;The Missionary Position;,;pamphlets;4
+56;The Missionary Position;Like;all good pamphlets;0
+56;The Missionary Position;by;Christopher Hitchens;9
+56;The Missionary Position;is;very short;-1
+56;The Missionary Position;is;zealously overwritten;-1
+56;The Missionary Position;rails wildly in defense of;an almost nonsensical proposition;-1
+56;The Missionary Position;rails wildly in defense of;Mother Teresa of Calcutta is actually not a saint but an evil and selfish old woman;-1
+56;an almost nonsensical proposition;:;Mother Teresa of Calcutta is actually not a saint but an evil and selfish old woman;-1
+56;Mother Teresa of Calcutta;is actually;not a saint;-1
+56;Mother Teresa of Calcutta;is actually;an evil and selfish old woman;-1
+56;old woman;evil;-1
+56;old woman;selfish;-1
+Devoted mother of Lyn Boland Dosik and the late Howard Batzar .
+57;;-1
+Steamed crabs with scallions and ginger ( $ 10.95 ) were tender , easy to open and delicately flavored .
+58;Steamed crabs with scallions and ginger;(;$ 10.95;6
+58;Steamed crabs with scallions and ginger;were;tender;-1
+58;Steamed crabs with scallions and ginger;were;easy to open;-1
+58;Steamed crabs with scallions and ginger;were;delicately flavored;-1
+58;Steamed crabs with scallions and ginger;(;$ 10.95;6
+58;crabs;Steamed;with scallions;-1
+58;crabs;Steamed;ginger;-1
+It 's only going to get worse before it gets better .
+59;It;'s only going to get;worse;-1
+59;it;gets;better;-1
+Tickets are $ 30 and $ 25 .
+60;Tickets;are;$ 25;-1
+60;Tickets;are;$ 30;-1
+He is the assistant director for policy at the Gay Men 's Health Crisis .
+61;He;is the assistant director for;policy;at the Gay Men 's Health Crisis;-1
+The Hall of Fame - bound pitcher fires a fastball .
+62;The Hall of Fame - bound pitcher;fires;a fastball;-1
+It was clear to us when we visited there in October that the Romanians hated those who had left the country , said Liselotte Leicht , program director at the Helsinki Federation .
+63;It;was clear to;us;that the Romanians hated those who had left the country;when we visited there in October;-1
+63;Liselotte Leicht;said;It was clear to us when we visited there in October that the Romanians hated those who had left the country;-1
+63;Liselotte Leicht;program director at;the Helsinki Federation;26
+63;the Romanians;hated;those who had left the country;-1
+63;those;had left;the country;-1
+63;we;visited;there;in October;-1
+Officials declined yesterday to identify the medication involved .
+64;Officials;declined yesterday to identify;the medication involved;-1
+I readied my gear for a truly local fishing trip .
+65;I;readied;my gear;for a truly local fishing trip;-1
+Yesterday , when The News led with Friendly Fire and 30 Marines wounded in attack near Nassiriya , The Post said , Saddam 's evil order to kids : Fight or your parents die , followed by How low can Iraq sink .
+66;30 Marines;wounded in;attack near Nassiriya;-1
+66;attack;near;Nassiriya;-1
+66;The News;led with;30 Marines wounded in attack near Nassiriya;Yesterday;-1
+66;The News;led with;Friendly Fire;Yesterday;-1
+66;The Post;said;Saddam 's evil order to kids : Fight or your parents die;-1
+66;The Post;said;How low can Iraq sink;-1
+66;Saddam 's evil order to kids;:;Fight or your parents die;-1
+66;order to kids;evil;-1
+66;Saddam;order to;kids;Fight or your parents die;-1
+66;Fight or your parents die;followed by;How low can Iraq sink;-1
+They live with Dirk , Weetzie 's gay best friend , his lover , Duck , and Weetzie 's daughter , Cherokee , possibly conceived during group sex with Dirk and Duck .
+67;They;live with;Dirk;-1
+67;They;live with;his lover;-1
+67;They;live with;Weetzie 's daughter;-1
+67;They;live with;Weetzie 's gay best friend;-1
+67;They;live with;Duck;-1
+67;They;live with;Cherokee;-1
+67;Dirk;gay best friend;Weetzie 's;-1
+67;Duck;lover;Dirk;-1
+67;Cherokee;daughter;Weetzie 's;-1
+67;Cherokee;possibly conceived during;group sex;with Dirk and Duck;-1
+67;Weetzie;'s;gay best friend;-1
+67;best friend;gay;-1
+Among his many honors , he won the Waterford International Biomedical Award and Eli Lilly Award in Bacteriology and citations from the American Association of Medical Colleges and the American Society of Cell Biology .
+68;he;won;Eli Lilly Award in Bacteriology;from the American Association of Medical Colleges;-1
+68;he;won;Eli Lilly Award in Bacteriology;the American Society of Cell Biology;-1
+68;he;won;citations;from the American Association of Medical Colleges;-1
+68;he;won;citations;the American Society of Cell Biology;-1
+68;he;won;the Waterford International Biomedical Award;from the American Association of Medical Colleges;-1
+68;he;won;the Waterford International Biomedical Award;the American Society of Cell Biology;-1
+Sheik Thamer is the deputy to Grand Ayatollah Ali al-Sestani , the country 's most senior Shiite cleric .
+69;Grand Ayatollah Ali al-Sestani;most senior Shiite cleric;the country;14
+69;Sheik Thamer;is the deputy to;Grand Ayatollah Ali al-Sestani;-1
+The limits , which have not been made definite , will be even lower for economy and business - class travelers .
+70;The limits;have not been made;definite;-1
+70;The limits;will be even lower for;economy and business - class travelers;-1
+The shuttle between Times Square and Grand Central also was stopped , and Flushing line trains bypassed Grand Central .
+71;Flushing line trains;bypassed;Grand Central;-1
+71;The shuttle between Times Square and Grand Central;also was;stopped;-1
+71;The shuttle;between;Times Square and Grand Central;-1
+It will not settle anything and her advisers will walk away and they 'll still be making demands .
+72;It;will not settle;anything;-1
+72;her advisers;will walk away;-1
+72;they;'ll still be making;demands;-1
+His one miscalculation was to ask for humming in the second song , for nobody can hum to fill Carnegie Hall .
+73;His one miscalculation;was;to ask for humming in the second song;-1
+73;nobody;can hum to fill;Carnegie Hall;-1
+The San Antonio News Express reported yesterday that negotiations had broken down .
+74;The San Antonio News Express;reported;negotiations had broken down;yesterday;-1
+74;negotiations;had broken down;-1
+The playing was n't bad , really ,, it just was n't good enough to justify the event .
+75;The playing;was n't;bad;-1
+75;it;just was n't;good enough to justify the event;-1
+Frauke Petersen Haasemann , the assistant conductor of the Westminster Choir and professor of conducting at the Westminster Choir College , died last Friday at her home in Princeton , N.J .
+76;Frauke Petersen Haasemann;the assistant conductor of;the Westminster Choir;4
+76;Frauke Petersen Haasemann;died;last Friday;at her home;in Princeton , N.J;-1
+76;Princeton;,;N.J;-1
+76;Frauke Petersen Haasemann;professor of conducting at;the Westminster Choir College;-1
+For the proposal itself , he toured five hotels in search of a room with a view of Central Park and selected one on a high floor of the Carlyle .
+77;he;toured;five hotels;in search of a room with a view of Central Park;For the proposal itself;-1
+77;he;in search of;a room with a view of Central Park;For the proposal itself;-1
+77;a room;with;a view of Central Park;-1
+77;he;selected;one;on a high floor of the Carlyle;-1
+77;one;on;a high floor of the Carlyle;-1
+Mr. Hashimoto , who denied the bribery charges , took his case to the Supreme Court , but the court had not issued a ruling by the time of his death .
+78;Mr. Hashimoto;denied;the bribery charges;-1
+78;Mr. Hashimoto;took;his case;to the Supreme Court;-1
+78;the court;had not issued;a ruling;by the time of his death;-1
+It is not really a camp , because no one is running things .
+79;It;is not really;a camp;-1
+79;no one;is running;things;-1
+That pushed the unemployment rate to 12.5 percent , from 12.4 percent in May .
+80;That;pushed;the unemployment rate;to 12.5 percent;from 12.4 percent;in May;-1
+It 's not that I would n't drink these -- a number of them were very good .
+81;a number of them;were;very good;-1
+81;It;'s not that;I would n't drink these;-1
+81;I;would n't drink;these;-1
+Costello 's main work since joining the Defense Department last October has been to develop a series of policies aimed at strengthening industrial technologies and manufacturing methods in areas that are deemed important to arms production .
+82;Costello 's main work;has been to develop;a series of policies;-1
+82;areas;are deemed important to;arms production;-1
+82;a series of policies;aimed at strengthening;industrial technologies;in areas that are deemed important to arms production;-1
+82;a series of policies;aimed at strengthening;manufacturing methods;in areas that are deemed important to arms production;-1
+82;Costello;joining;the Defense Department;last October;-1
+Her father retired as a representative of manufacturers of railroad equipment .
+83;Her father;retired as;a representative of manufacturers of railroad equipment;-1
+83;Her father;as a representative of;manufacturers of railroad equipment;-1
+A class - action lawsuit against the N.C.A.A. , contending that major college football teams violate antitrust laws by refusing to give athletic scholarships to all walk - on players , was filed yesterday in a United States District Court in Seattle .
+84;A class - action lawsuit against the N.C.A.A.;contending that;major college football teams violate antitrust laws by refusing to give athletic scholarships to all walk - on players;9
+84;A class - action lawsuit;was filed;against the N.C.A.A.;in a United States District Court in Seattle;yesterday;-1
+84;A class - action lawsuit;against;the N.C.A.A.;-1
+84;major college football teams;violate;antitrust laws;by refusing to give athletic scholarships to all walk-on players;-1
+84;major college football teams;refusing to give;athletic scholarships;to all walk - on players;-1
+Following the killing of Amadou Diallo , the inexorable conclusion is that this is a Police Department out of control , with elected officials who are not interested in holding anybody accountable for its actions .
+85;elected officials;are not interested in holding;anybody;accountable;for its actions;-1
+85;the inexorable conclusion;Following;the killing of Amadou Diallo;-1
+85;the inexorable conclusion;is that;this is a Police Department out of control;-1
+85;Police Department;is;out of control;-1
+85;Police Department;out of;control;-1
+Indeed , history shows that those who ignore energy prices and their impact on overall inflation do so at their own risk .
+86;history;shows that;those who ignore energy prices and their impact on overall inflation do so at their own risk;-1
+86;those;ignore;energy prices;-1
+86;those;ignore;their impact on overall inflation;-1
+86;those who ignore energy prices and their impact on overall inflation;do;so;at their own risk;-1
+The New Jersey school , like most others , issued the flag patches that have become ubiquitous on players ' uniforms these days as a gesture of support for allied efforts in the Persian Gulf .
+87;The New Jersey school;issued;the flag patches;-1
+87;the flag patches;have become ubiquitous on;players ' uniforms;as a gesture of support for allied efforts in the Persian Gulf;these days;-1
+87;the flag patches that have become ubiquitous on players ' uniforms;as a gesture of support for;allied efforts in the Persian Gulf;-1
+Two Japanese travel agencies have desks beside the finely manicured English - style garden adjacent to the lobby , busily booking free - spending guests for golf , horseback riding and guided shopping jaunts .
+88;Two Japanese travel agencies;have desks beside;the finely manicured English - style garden adjacent to the lobby;-1
+88;Two Japanese travel agencies;busily booking;free - spending guests;guided shopping jaunts;-1
+88;Two Japanese travel agencies;busily booking;free - spending guests;horseback riding;-1
+88;Two Japanese travel agencies;busily booking;free - spending guests;for golf;-1
+88;the finely manicured English - style garden;adjacent to;the lobby;-1
+88;English - style garden;finely manicured;-1
+88;garden;style;English;-1
+Net income represented net asset value .
+89;Net income;represented;net asset value;-1
+Barak also ended six weeks of total public silence on policy to reproach President Clinton for making seemingly offhand remarks about the rights of Palestinian refugees .
+90;President Clinton;making seemingly;offhand remarks;about the rights of Palestinian refugees;-1
+90;Barak;also ended;six weeks of total public silence on policy;to reproach President Clinton for making seemingly offhand remarks about the rights of Palestinian refugees;-1
+90;six weeks of total public silence;on;policy;-1
+90;Barak;reproach;President Clinton;for making seemingly offhand remarks about the rights of Palestinian refugees;-1
+We can break news at any time .
+91;We;can break;news;at any time;-1
+At least 8 schoolchildren were killed and at least 15 people were wounded when a deranged man burst into an elementary school near Osaka and began stabbing students and teachers with a kitchen knife .
+92;8 schoolchildren;were killed;At least;-1
+92;a deranged man;began stabbing;teachers;with a kitchen knife;-1
+92;a deranged man;began stabbing;students;with a kitchen knife;-1
+92;a deranged man;burst into;an elementary school near Osaka;-1
+92;an elementary school;near;Osaka;-1
+92;man;deranged;-1
+92;15 people;were wounded;at least;-1
+Fans paid close attention to the game , and the reason was Marcus Camby .
+93;Fans;paid close attention to;the game;-1
+93;the reason;was;Marcus Camby;-1
+Russia 's eavesdropping station at Lourdes , Cuba , is a cold war jewel : 28 square miles of antennae and computers that message Russian embassies , submarines and spies , and vacuum up U.S. satellite and radio communications .
+94;28 square miles of antennae and computers;message;submarines;-1
+94;28 square miles of antennae and computers;message;Russian embassies;-1
+94;28 square miles of antennae and computers;message;spies;-1
+94;28 square miles of antennae and computers;vacuum up;U.S. satellite and radio communications;-1
+94;Russia 's eavesdropping station at Lourdes , Cuba;is;a cold war jewel;-1
+94;Russia 's eavesdropping station;at;Lourdes , Cuba;-1
+94;Lourdes;,;Cuba;-1
+94;a cold war jewel;:;28 square miles of antennae and computers;-1
+A report in the Egos & Ids column of Styles of the Times on July 26 omitted the name of Annette Tabert 's co - author for the forthcoming book The Power of Style .
+95;A report in the Egos & Ids column of Styles of the Times;omitted;the name of Annette Tabert 's co - author for the forthcoming book The Power of Style;on July 26;-1
+95;Annette Tabert 's;co - author for;The Power of Style;-1
+95;The Power of Style;forthcoming book;-1
+It was The Wife of Governor Dufresne .
+96;It;was The Wife of;Governor Dufresne;-1
+Union officials say they are pleased with the G.H.I. plan and they assert that the main reason they are being asked to pay premiums is that the Oxford plan is costing Barnard $ 63,000 more than G.H.I .
+97;Union officials;say;they are pleased with the G.H.I. plan;-1
+97;the Oxford plan;is costing;Barnard;$ 63,000 more than G.H.I;-1
+97;the Oxford plan is costing Barnard $ 63,000 more than G.H.I;is the main reason;they are being asked to pay premiums;-1
+97;the Oxford plan is costing Barnard $ 63,000 more than G.H.I;the main reason;they are being asked to pay premiums;-1
+97;Union officials;are pleased with;the G.H.I. plan;-1
+97;Union officials;assert that;the main reason they are being asked to pay premiums is that the Oxford plan is costing Barnard $ 63,000 more than G.H.I;-1
+97;they;assert that;the main reason they are being asked to pay premiums is that the Oxford plan is costing Barnard $ 63,000 more than G.H.I;-1
+97;they;are being asked to pay;premiums;-1
+He chose not to do that .
+98;He;chose not to do;that;-1
+The menu , imported from Ben 's Deli in Queens , includes matzoh ball soup , corned beef and pastrami sandwiches , chopped liver , kishke and knishes .
+99;The menu;imported from;Ben 's Deli in Queens;3
+99;The menu;includes;kishke;-1
+99;The menu;includes;chopped liver;-1
+99;The menu;includes;pastrami sandwiches;-1
+99;The menu;includes;knishes;-1
+99;The menu;includes;corned beef;-1
+99;The menu;includes;matzoh ball soup;-1
+99;liver;chopped;-1
+Ashcroft said afterward , through Mr. Hilton , that the talk had been even and businesslike and that he had made the point that there would be no peace between him and the Governor until the Governor and his fellow Missouri Democrats demonstrated good faith by ending their practice of hate politics .
+100;Ashcroft;said;the talk had been even and businesslike and that he had made the point that there would be no peace between him and the Governor until the Governor and his fellow Missouri Democrats demonstrated good faith by ending their practice of hate politics;through Mr. Hilton;-1
+100;he;had made the point that;there would be no peace between him and the Governor;-1
+100;no peace;between;him and the Governor;-1
+100;fellow Missouri Democrats;demonstrated;good faith;-1
+100;the Governor;demonstrated;good faith;-1
+100;the Governor;ending;their practice of hate politics;-1
+100;fellow Missouri Democrats;ending;their practice of hate politics;-1
+100;the talk;had been;businesslike;-1
+100;the talk;had been;even;-1
+But while it may surprise anyone who has been stung by them , yellow jackets actually have a reason for existing and a place in the universe .
+101;it;may surprise;anyone who has been stung by them;-1
+101;anyone;has been stung by;them;-1
+101;yellow jackets;actually have;a reason for existing;-1
+101;yellow jackets;actually have;a place in the universe;-1
+Beat in the eggs one at a time .
+102;;-1
+The line was That is my last word , not You can't go to Berlin !
+103;The line;was;That is my last word;2
+103;The line;not;You can't go to Berlin;-1
+103;You;can't go to;Berlin;-1
+103;That;is;my last word;-1
+Most significantly , the new machines will give Sony and other makers of the devices unusual control over the presentation of programming , which could well influence what consumers choose to watch .
+104;the new machines;will give;other makers of the devices;unusual control over the presentation of programming;-1
+104;the new machines;will give;Sony;unusual control over the presentation of programming;-1
+104;other makers of the devices;unusual control over;the presentation of programming;-1
+104;Sony;unusual control over;the presentation of programming;-1
+104;unusual control over the presentation of programming;could well influence;what consumers choose to watch;-1
+104;machines;new;-1
+104;consumers;choose to;watch;-1
+As a medium - sized group of American lawyers and judges and their companions , we were able to interact on a personal basis with a number of Egyptian citizens , tourist personnel , lawyers , judges , storekeepers and families .
+105;we;were able to interact;storekeepers;on a personal basis;-1
+105;we;were able to interact;judges;on a personal basis;-1
+105;we;were able to interact;lawyers;on a personal basis;-1
+105;we;were able to interact;tourist personnel;on a personal basis;-1
+105;we;were able to interact;with a number of Egyptian citizens;on a personal basis;-1
+105;we;were able to interact;families;on a personal basis;-1
+105;we;As;a medium - sized group of American lawyers and judges and their companions;-1
+105;group of American lawyers and judges and their companions;sized;medium;-1
+Trust Company 's quest for customers among the new rich , included erroneous figures for millionaire households supplied by PSI , a financial services research firm in Tampa , Fla .
+106;PSI;research firm;financial services;in Tampa , Fla;24
+106;Tampa;,;Fla;-1
+106;Trust Company 's quest for customers among the new rich;included;erroneous figures for millionaire households supplied by PSI;-1
+106;Trust Company;quest for;customers among the new rich;-1
+106;erroneous figures for millionaire households;supplied by;PSI;-1
+106;figures;erroneous;-1
+In a sobering speech meant to register with opinion leaders in the international community , the Irish Foreign Minister , Dick Spring , has warned about the peril to the peace process if there is further delay .
+107;a sobering speech;meant to register with;opinion leaders in the international community;-1
+107;speech;sobering;-1
+107;Dick Spring;has warned about;the peril to the peace process;-1
+107;the Irish Foreign Minister;has warned about;the peril to the peace process;-1
+107;Dick Spring;Foreign Minister;the Irish;17
+Sharpe said the students were sent to work in the manure , not stand in it .
+108;Sharpe;said;the students were sent to work in the manure , not stand in it;-1
+108;the students;work in;the manure;-1
+108;the students;were sent to;work in the manure;-1
+108;the students;were sent to;not stand in it;-1
+108;the students;not stand in;it;-1
+Shown today at 2 and 6p.m. and tomorrow at 4 and 7p.m. at the Walter Reade Theater at Lincoln Center , 165 West 65th Street , Manhattan , as part of the 32nd New Directors/New Films series of the Film Society of Lincoln Center and the department of film and media of the Museum of Modern Art .
+109;the Walter Reade Theater;at;Lincoln Center , 165 West 65th Street , Manhattan;-1
+109;Lincoln Center , 165 West 65th Street;,;Manhattan;-1
+A table in Business Day on Thursday showing the New York Stock Exchange 's uncovered short sales , or short interest , for the four weeks ended June 15 included an incorrect amount for the Tech - Sym Corporation , provided by the company to the exchange , and misstated the total accordingly .
+110;A table in Business Day;showing;the New York Stock Exchange 's uncovered short sales;on Thursday;-1
+110;A table in Business Day;included;an incorrect amount;for the Tech - Sym Corporation;-1
+110;A table in Business Day;misstated;the total;-1
+110;an incorrect amount;provided by;the company;to the exchange;40
+110;the four weeks;ended;June 15;-1
+110;uncovered short sales;or;short interest;-1
+She could easily be seen as someone who tries to help the public with a tax cut when she can , but who is also candid enough to level with folks when the state fiscal situation prevents a tax giveback .
+111;She;could easily be seen as;someone who tries to help the public with a tax cut when she can , but who is also candid enough to level with folks when the state fiscal situation prevents a tax giveback;-1
+111;someone;tries to help;the public;with a tax cut;when she can;-1
+111;someone;is also candid enough;to level with folks;-1
+111;someone;level with;folks;-1
+111;the state fiscal situation;prevents;a tax giveback;-1
+Just before this season began , the baseball commissioner 's office suspended him for violating the terms of his after - care program for substance abuse .
+112;him;violating;the terms of his after - care program for substance abuse;-1
+112;the baseball commissioner 's office;suspended;him;for violating the terms of his after - care program for substance abuse;Just before this season began;-1
+The songs are driven by short melodic riffs , call - and - response with her backup singers , the combination of djembe ( hand drum ) and metal scraper and the plunk of the kamalngoni , a harp similar to the kora played by griots .
+113;The songs;are driven by;the combination of djembe;-1
+113;The songs;are driven by;metal scraper;-1
+113;The songs;are driven by;the plunk of the kamalngoni;-1
+113;The songs;are driven by;call - and - response;with her backup singers;-1
+113;The songs;are driven by;short melodic riffs;-1
+113;the kamalngoni;,;a harp similar to the kora played by griots;36
+113;a harp;similar to;the kora played by griots;-1
+113;the kora;played by;griots;-1
+Two batters later , Edgardo Alfonzo rapped a two - run double down the third - base line for a 3 - 0 lead , and Hundley later launched a double to the left - center warning track to make it 4 - 0 .
+114;Edgardo Alfonzo;rapped;a two - run double;down the third - base line;for a 3 - 0 lead;Two batters later;-1
+114;Hundley;launched;a double;to the left - center warning track;-1
+114;Hundley;make;it;4 - 0;-1
+Tests to detect the use of performance - enhancing drugs like EPO and human - growth hormones are unlikely to be approved for Sydney .
+115;Tests to detect the use of performance - enhancing drugs like EPO and human - growth hormones;are unlikely to be approved for;Sydney;-1
+115;Tests;detect the use of;human - growth hormones;-1
+115;Tests;detect the use of;EPO;-1
+115;Tests;detect the use of;performance - enhancing drugs;-1
+115;drugs;enhancing;performance;-1
+115;performance - enhancing drugs;like;EPO;-1
+Farrow is trying in Manhattan 's Surrogate 's Court to void Mr. Allen 's adoptions of Moses and Dylan .
+116;Farrow;is trying;in Manhattan 's Surrogate 's Court;to void Mr. Allen 's adoptions of Moses and Dylan;-1
+116;Farrow;void;Mr. Allen 's adoptions of Moses and Dylan;-1
+116;Mr. Allen 's;adoptions;Dylan;-1
+116;Mr. Allen 's;adoptions;Moses;-1
+Mexican reporters staked out meetings of the board of Dow Jones & Company , where Mr. Salinas is a member , but caught just a brief glimpse of him on the 43d floor of the World Trade Center .
+117;Mexican reporters;caught just a brief glimpse of;him;on the 43d floor of the World Trade Center;-1
+117;him;on;the 43d floor of the World Trade Center;-1
+117;Mexican reporters;staked out;meetings of the board of Dow Jones & Company;-1
+117;Mr. Salinas;is a member;the board of Dow Jones & Company;-1
+In October , the university 's Electronic Music Center will put the finishing touches on an ambitious surround - sound speaker installation .
+118;the university 's Electronic Music Center;will put the finishing touches on;an ambitious surround - sound speaker installation;In October;-1
+118;surround - sound speaker installation;ambitious;-1
+Addictions should not be called habits , Dr. Cahan said .
+119;Addictions;should not be called;habits;-1
+119;Dr. Cahan;said;Addictions should not be called habits;-1
+The International Business Machines Corporation said it signed an agreement to provide more than $ 100 million worth of computer hardware and software to what will be the world 's largest computerized travel reservation system .
+120;The International Business Machines Corporation;said;it signed an agreement to provide more than $ 100 million worth of computer hardware and software to what will be the world 's largest computerized travel reservation system;-1
+120;it;signed;an agreement;to provide more than $ 100 million worth of computer hardware and software;-1
+120;an agreement;provide;more than $ 100 million worth of computer hardware and software;-1
+120;it;provide;more than $ 100 million worth of computer hardware and software;-1
+120;more than $ 100 million worth of computer hardware and software;will be;the world 's largest computerized travel reservation system;-1
+The director of the Center for Mathematical Sciences Research at Rutgers University , Dr.Joel Lebowitz , will receive the Dalmar S.Fahrney Medal from the Franklin Institute in Philadelphia in May .
+121;Dr.Joel Lebowitz;The director of;the Center for Mathematical Sciences Research;at Rutgers University;-1
+121;Dr.Joel Lebowitz;will receive;the Dalmar S.Fahrney Medal;from the Franklin Institute;in Philadelphia;in May;-1
+121;The director of the Center for Mathematical Sciences Research at Rutgers University;will receive;the Dalmar S.Fahrney Medal;from the Franklin Institute in Philadelphia;in May;-1
+121;the Franklin Institute;in;Philadelphia;-1
+Two independent journalists went on trial today accused of defaming President Franjo Tudjman in a case that has helped sour Croatia 's relations with Western Europe .
+122;Two independent journalists;accused of;defaming President Franjo Tudjman;in a case;-1
+122;Two independent journalists;defaming;President Franjo Tudjman;in a case;-1
+122;Two independent journalists;went on trial;today;-1
+122;journalists;independent;-1
+122;a case;has helped;sour Croatia 's relations with Western Europe;-1
+The chief executive , Sir Colin Marshall , will take a similar cut , putting his pay at around $ 540,000 .
+123;The chief executive;,;Sir Colin Marshall;3
+123;The chief executive;will take;a similar cut;-1
+123;Sir Colin Marshall;will take;a similar cut;-1
+123;The chief executive;putting;his pay;at around $ 540,000;-1
+Annually , some 600 miles of municipal roads are expected to deteriorate .
+124;some 600 miles of municipal roads;are expected to deteriorate;Annually;-1
+Rather than resort to the usual bunker mentality , he tried a more practical approach .
+125;he;tried;a more practical approach;-1
+125;he;Rather than resort to;the usual bunker mentality;-1
+So far , Mr. Ginty has elicited praise from conservatives like Steven Lonegan , who ran for governor last year .
+126;Mr. Ginty;has elicited praise from;conservatives;-1
+126;Mr. Ginty;has elicited praise from;Steven Lonegan;-1
+126;conservatives;like;Steven Lonegan;-1
+126;Steven Lonegan;ran for;governor;last year;-1
+The club is tearing up the turf field and replacing it with grass .
+127;The club;replacing;the turf field;with grass;-1
+127;The club;replacing;it;with grass;-1
+127;The club;is tearing up;the turf field;-1
+He plans to give the diploma to his mother , to hang in their Brooklyn home .
+128;He;plans to give;the diploma;to his mother;-1
+128;He;hang;the diploma;in their Brooklyn home;-1
+128;their;home;Brooklyn;-1
+I have also learned that lice plan their arrival to maximize household stress .
+129;I;have also learned that;lice plan their arrival to maximize household stress;-1
+129;lice;plan;their arrival;to maximize household stress;-1
+129;lice;maximize;household stress;-1
+Mr. Riley 's numbers did not change .
+130;Mr. Riley 's numbers;did not change;-1
+Miss Collins is immutably Miss Collins .
+131;Miss Collins;is immutably;Miss Collins;-1
+It was graduation night at the Ophelia DeVore School of Charm .
+132;It;was;graduation night;at the Ophelia DeVore School of Charm;-1
+The market wants to do better , said Gregory Bundy , head of equity trading at Merrill Lynch Japan Inc .
+133;Gregory Bundy;head of;equity trading;at Merrill Lynch Japan Inc;11
+133;Gregory Bundy;said;The market wants to do better;-1
+133;The market;wants to do;better;-1
+Last month we saw an American patient who had been to five gynecologists before the last one said there is this procedure and referred her to us .
+134;an American patient;had been;to five gynecologists;-1
+134;the last one;referred;her;to us;-1
+134;the last one;said;there is this procedure;-1
+134;we;saw;an American patient who had been to five gynecologists;Last month;-1
+A senior American diplomat added , We could n't tolerate a treaty ally buying a Russian jet .
+135;A senior American diplomat;added;We could n't tolerate a treaty ally buying a Russian jet;-1
+135;diplomat;American;-1
+135;diplomat;senior;-1
+135;We;could n't tolerate;a treaty ally buying a Russian jet;-1
+135;a treaty ally;buying;a Russian jet;-1
+135;jet;Russian;-1
+Bonilla gave chase , but hesitated as he reached the wall , allowing the ball to drop .
+136;Bonilla;gave chase;the ball;-1
+136;Bonilla;hesitated;as he reached the wall;-1
+136;Bonilla;allowing;the ball;to drop;-1
+136;the ball;drop;-1
+136;he;reached;the wall;-1
+A day after strong winds stirred up the Hauraki Gulf and broke the mast of Team New Zealand , a lack of wind caused Race 5 of the America 's Cup to be abandoned today .
+137;a lack of wind;caused;Race 5 of the America 's Cup to be abandoned today;-1
+137;Race 5 of the America 's Cup;to be abandoned;today;-1
+137;strong winds;broke;the mast;of Team New Zealand;-1
+137;strong winds;stirred up;the Hauraki Gulf;-1
+Reno 's supporters said today 's decision demonstrated her willingness to go outside the Justice Department to investigate a high - ranking Clinton official when the facts justified it .
+138;Reno 's supporters;said;today 's decision demonstrated her willingness to go outside the Justice Department to investigate a high - ranking Clinton official when the facts justified it;-1
+138;today 's decision;demonstrated;her willingness to go outside the Justice Department;to investigate a high - ranking Clinton official;-1
+138;her;willingness to go outside;the Justice Department;to investigate a high - ranking Clinton official;-1
+138;her;investigate;a high - ranking Clinton official;-1
+138;the facts;justified;it;-1
+The Xbox looks better ( next to a TV set ) .
+139;The Xbox;looks better;next to a TV set;-1
+Mr. Lemelson was an independent inventor who was granted more than 500 patents during his lifetime and whose estate continues to receive patents based on applications he submitted before he died five years ago .
+140;Mr. Lemelson;was;an independent inventor;-1
+140;Mr. Lemelson;was granted;more than 500 patents;during his lifetime;-1
+140;an independent inventor;was granted;more than 500 patents;during his lifetime;-1
+140;whose estate;continues to receive;patents based on applications he submitted before he died five years ago;-1
+140;he;died;five years ago;-1
+140;he;submitted;applications;-1
+140;patents;based on;applications he submitted before he died five years ago;-1
+He was John Dickinson , not Dickenson .
+141;He;was;John Dickinson;-1
+141;He;not;Dickenson;5
+Every gray leather seat is taken .
+142;Every gray leather seat;is taken;-1
+142;seat;gray leather;-1
+Then he elevates himself off the ground to escape the ball that becomes a game - tying wild pitch .
+143;he;elevates;himself;off the ground;to escape the ball;-1
+143;he;escape;the ball;-1
+143;the ball;becomes;a game - tying wild pitch;-1
+The Federal Home Loan Bank Board last week provided reassurances to securities dealers holding certain futures and options contracts with the American Savings and Loan Association , the nation 's largest savings institution .
+144;The Federal Home Loan Bank Board;provided reassurances to;securities dealers holding certain futures and options contracts with the American Savings and Loan Association;last week;-1
+144;the American Savings and Loan Association;,;the nation 's largest savings institution;26
+144;securities dealers;holding;certain futures and options contracts;with the American Savings and Loan Association;-1
+As at all the parties , the guests in strapless gowns and gleaming tuxedos were lining up at cash bars for drinks and at a photo op where they could be snapped in front of an inaugural seal -- not all that different from a high school prom photograph .
+145;the guests in strapless gowns and gleaming tuxedos;were lining up at;cash bars;for drinks;-1
+145;the guests in strapless gowns and gleaming tuxedos;were lining up at;a photo op;-1
+145;the guests;in;gleaming tuxedos;-1
+145;the guests;in;strapless gowns;-1
+145;they;could be snapped;in front of an inaugural seal;-1
+Governor Florio proposed an ethics package that would give New Jersey some of the nation 's most stringent rules for lawmakers and senior government appointees .
+146;Governor Florio;proposed;an ethics package;-1
+146;an ethics package;would give;New Jersey;some of the nation 's most stringent rules for lawmakers and senior government appointees;-1
+146;rules;some of the nation 's most stringent;senior government appointees;-1
+146;rules;some of the nation 's most stringent;for lawmakers;-1
+146;rules;the nation 's most stringent;senior government appointees;-1
+146;rules;the nation 's most stringent;for lawmakers;-1
+146;rules;stringent;senior government appointees;-1
+146;rules;stringent;for lawmakers;-1
+This makes it more difficult to find delicate and crisp wines in the 10 .5 percent to 12 percent range .
+147;This;makes;it;more difficult to find delicate and crisp wines in the 10 .5 percent to 12 percent range;-1
+147;This;more difficult to find;delicate and crisp wines;in the 10 .5 percent to 12 percent range;-1
+On Fridays and Saturdays ( the only nights it is open ) , every inch of that floor is rocking with people who are mostly from uptown -- specifically , the Upper East Side .
+148;every inch of that floor;is rocking with;people who are mostly from uptown;On Fridays and Saturdays;-1
+148;people;are;from uptown;mostly;-1
+148;people;are;the Upper East Side;specifically;-1
+148;it;is open;On Fridays;-1
+148;it;is open;Saturdays;-1
+148;Fridays;(;the only nights it is open;-1
+148;Saturdays;(;the only nights it is open;-1
+Leopold complained about this approach in the 1940 's , saying the landowner had an obligation to manage his land in the interest of the community , as well as in his own interest .
+149;Leopold;complained about;this approach;in the 1940 's;-1
+149;Leopold;saying;the landowner had an obligation to manage his land in the interest of the community , as well as in his own interest;-1
+149;the landowner;had an obligation to manage;his land;in the interest of the community;-1
+149;the landowner;had an obligation to manage;his land;in his own interest;-1
+A 19th - century Chinese portrait and a Kenneth Noland painting of a bull 's-eye dominate the living room , drawing the eye in both vertical and horizontal directions .
+150;a Kenneth Noland painting of a bull 's-eye;drawing;the eye;in both vertical and horizontal directions;-1
+150;A 19th - century Chinese portrait;drawing;the eye;in both vertical and horizontal directions;-1
+150;A 19th - century Chinese portrait;dominate;the living room;-1
+150;a Kenneth Noland painting of a bull 's-eye;dominate;the living room;-1
+Feeders and Eaters , which opens with its narrator stranded late at night in the wrong part of town , is not particularly concerned with this character 's trajectory , but with the story of an old acquaintance he meets at a squalid cafe , and the insatiably hungry woman his shadowy friend keeps at home .
+151;Feeders and Eaters;opens with;its narrator stranded late at night in the wrong part of town;-1
+151;its narrator;stranded;in the wrong part of town;late at night;-1
+151;Feeders and Eaters;is not particularly concerned;with character 's trajectory;-1
+151;Feeders and Eaters;is not particularly concerned;but with the story of an old acquaintance he meets at a squalid cafe , and the insatiably hungry woman his shadowy friend keeps at home;-1
+151;he;meets;an old acquaintance;at a squalid cafe;-1
+151;his shadowy friend;keeps;the insatiably hungry woman;at home;-1
+Mr. Kerik first came to know Mr. Giuliani when he provided security during his second mayoral campaign .
+152;Mr. Kerik;came to know;Mr. Giuliani;-1
+152;he;provided security during;his second mayoral campaign;-1
+Targets in Kosovo province also came under sustained pounding , Serbian media said .
+153;Serbian media;said;Targets in Kosovo province also came under sustained pounding;-1
+153;Targets in Kosovo province;also came under;sustained pounding;-1
+153;Targets;in;Kosovo province;-1
+The statue stands 56 feet tall and was placed atop Red Mountain in 1936 .
+154;The statue;stands;56 feet tall;-1
+154;The statue;was placed;atop Red Mountain;in 1936;-1
+Otherwise , she could receive up to 25 years in prison .
+155;she;could receive up to;25 years in prison;-1
+The Yankees had erased an early 4 - 0 deficit and tied the game in the top of the ninth when Roberto Kelly smashed a two - run homer off the nearly invincible Gregg Olson .
+156;Roberto Kelly;smashed;a two - run homer;off the nearly invincible Gregg Olson;in the top of the ninth;-1
+156;Gregg Olson;nearly invincible;-1
+156;The Yankees;had erased;an early 4 - 0 deficit;-1
+156;The Yankees;tied;the game;in the top of the ninth;-1
+The United States has talked tough on trade during eight months of negotiations , but Japan has called its bluff and has yielded virtually nothing .
+157;The United States has talked tough on trade during eight months of negotiations;has yielded;virtually nothing;-1
+157;Japan;has called;its bluff;-1
+157;The United States;has talked tough on;trade;during eight months of negotiations;-1
+The day after the Bulls' Dennis Rodman suggested that they were yellow in Tuesday 's night 's loss to Chicago , the Knicks laughed it off as Rodman merely being Rodman .
+158;Dennis Rodman;suggested that;they were yellow in Tuesday 's night 's loss to Chicago;-1
+158;the Knicks;laughed it off as;Rodman merely being Rodman;-1
+158;they;were;yellow;in Tuesday 's night 's loss to Chicago;-1
+158;they;loss to;Chicago;in Tuesday 's night;-1
+158;Rodman;merely being;Rodman;-1
+Unlike the Rangers , that is one commodity Steinbrenner does n't seem bent on buying , no matter how good the price .
+159;Steinbrenner;does n't seem bent on buying;one commodity;-1
+159;Steinbrenner;Unlike;the Rangers;-1
+They maintain that this negligent distribution makes the companies collectively liable for the shootings in the case -- even if it cannot be proven which company 's gun was used in a given shooting -- an argument that legal experts term novel in gun litigation .
+160;They;maintain that;this negligent distribution makes the companies collectively liable for the shootings in the case;-1
+160;this negligent distribution;makes;the companies collectively liable for the shootings in the case;-1
+160;it;cannot be proven;which company 's gun was used in a given shooting;-1
+160;company 's gun;was used in;a given shooting;-1
+160;the companies;collectively liable for;the shootings;in the case;-1
+The Russian Parliament voted Wednesday to contribute only 23 .4 billion rubles for the coming year , less than a 10th of the total budget for the year .
+161;The Russian Parliament;voted;to contribute only 23 .4 billion rubles for the coming year;Wednesday;-1
+161;The Russian Parliament;contribute;only 23 .4 billion rubles;for the coming year;-1
+161;23 .4 billion rubles for the coming year;less than;a 10th of the total budget for the year;17
+Tierney Finn , an actress , and Mark Fitzmartin , a television commercial producer for Fernbach Productions in New York , both graduates of New York University 's Tisch School of the Arts , were married yesterday in Holy Trinity Chapel at N.Y.U .
+162;Tierney Finn;were married;yesterday;in Holy Trinity Chapel at N.Y.U;-1
+162;Mark Fitzmartin;were married;yesterday;in Holy Trinity Chapel at N.Y.U;-1
+162;Holy Trinity Chapel;at;N.Y.U;-1
+162;Tierney Finn;,;an actress;2
+162;Mark Fitzmartin;,;a television commercial producer;for Fernbach Productions;in New York;9
+162;Tierney Finn;graduates of;New York University 's Tisch School of the Arts;-1
+162;Mark Fitzmartin;graduates of;New York University 's Tisch School of the Arts;-1
+Jesse Jackson and one of his campaign fund - raisers misstated the history of Mr.Jackson 's requests for permission to visit South Africa .
+163;Jesse Jackson;misstated;the history of Mr.Jackson 's requests for permission to visit South Africa;-1
+163;one of his campaign fund - raisers;misstated;the history of Mr.Jackson 's requests for permission to visit South Africa;-1
+163;Mr.Jackson 's;requests for permission to visit;South Africa;-1
+I 'm tickled to death that he 's coming back because he should be back .
+164;I;'m tickled to death that;he 's coming back because he should be back;-1
+164;he;'s coming back;-1
+164;he;should be;back;-1
+Many Schubert admirers I know , however , would be ecstatic to learn that their idol was a fellow homosexual , who acted on his sexuality with joy and pride .
+165;I;know;Many Schubert admirers;-1
+165;Many Schubert admirers I know;would be ecstatic to learn that;their idol was a fellow homosexual;-1
+165;their idol;was;a fellow homosexual;-1
+165;fellow homosexual;acted on;his sexuality;with joy and pride;-1
+He graduated summa cum laude from the University of California , Los Angeles .
+166;He;graduated;summa cum laude;from the University of California , Los Angeles;-1
+166;the University of California;,;Los Angeles;-1
+He washed dishes and chopped vegetables for a year before getting a scholarship to attend the State University of New York at Oneonta .
+167;He;washed;dishes;for a year;-1
+167;He;chopped;vegetables;for a year;-1
+167;He;getting;a scholarship;to attend the State University of New York at Oneonta;-1
+167;He;attend;the State University of New York at Oneonta;-1
+167;the State University of New York;at;Oneonta;-1
+She was a continuing source of love , kindness and generosity who never failed to nurture her adoring family .
+168;She;never failed to nurture;her adoring family;-1
+168;She;was a continuing source of;love;-1
+168;She;was a continuing source of;kindness;-1
+168;She;was a continuing source of;generosity;-1
+There is a mind - bending illogic behind the Bush administration 's decision yesterday to withhold $ 34 million from the United Nations Population Fund , which is working in China despite continued practices there of coerced abortion and sterilization .
+169;the United Nations Population Fund;is working in;China;despite continued practices there of coerced abortion and sterilization;-1
+169;continued practices there of coerced abortion and sterilization;in;China;-1
+169;continued practices;of;coerced abortion and sterilization;there;-1
+169;Bush administration 's;withhold;$ 34 million;from the United Nations Population Fund;yesterday;-1
+169;the Bush administration 's decision yesterday to withhold $ 34 million from the United Nations Population Fund;is;a mind - bending illogic;-1
+In 1954 , the committee presented a $ 100 million improvement plan and obtained legislation to set up a nondividend paying corporation to borrow the funds to create a new Aqueduct and to improve Belmont and Saratoga race tracks .
+170;the committee;obtained;legislation;to set up a nondividend paying corporation to borrow the funds to create a new Aqueduct and to improve Belmont and Saratoga race tracks;In 1954;-1
+170;legislation;set up;a nondividend paying corporation;to borrow the funds to create a new Aqueduct and to improve Belmont and Saratoga race tracks;-1
+170;nondividend paying corporation;borrow;the funds;to create a new Aqueduct and to improve Belmont and Saratoga race tracks;-1
+170;nondividend paying corporation;create;a new Aqueduct;-1
+170;nondividend paying corporation;improve;Belmont and Saratoga race tracks;-1
+170;the committee;presented;a $ 100 million improvement plan;In 1954;-1
+170;corporation;paying;nondividend;-1
+She is a daughter of Mr. and Mrs. Francis T. Doyen of Fishers Island .
+171;Mrs. Francis T.;Doyen of;Fishers Island;-1
+171;She;is a daughter of;Mr. and Mrs. Francis T.;-1
+The Roman Catholic Church denied Tuesday that it was sheltering a top Croatian war crimes suspect , after an allegation by a United Nations prosecutor that the suspect was hiding in a monastery and that the Vatican had refused pleas to help find him .
+172;The Roman Catholic Church;denied;it was sheltering a top Croatian war crimes suspect;Tuesday;-1
+172;the Vatican;had refused;pleas;to help find him;-1
+172;pleas;help find;him;-1
+172;the suspect;was hiding in;a monastery;-1
+172;it;was sheltering;a top Croatian war crimes suspect;-1
+172;United Nations prosecutor;allegation;the suspect was hiding in a monastery;-1
+172;United Nations prosecutor;allegation;the Vatican had refused pleas to help find him;-1
+While the Christmas - New Year 's season is always a slack time for most lines of work , it 's even more so when the holidays break two consecutive normal weeks into four discombobulating two - day weeks .
+173;it;'s even more so;-1
+173;the Christmas - New Year 's season;is always a slack time for;most lines of work;-1
+173;the holidays;break;two consecutive normal weeks;into four discombobulating two - day weeks;-1
+Then another musical selection served as a prelude to scenes from a comic dance - drama in the folk style .
+174;another musical selection;served as a;prelude;to scenes;from a comic dance - drama in the folk style;-1
+174;another musical selection;as a prelude;to scenes;from a comic dance - drama in the folk style;-1
+Divertimento from Le Baiser de la Fee , presented by the New York City Ballet on Wednesday night at the New York State Theater , is one of George Balanchine 's odder ballets .
+175;Divertimento from Le Baiser de la Fee;presented by;the New York City Ballet;on Wednesday night;at the New York State Theater;-1
+175;Divertimento from Le Baiser de la Fee;is one of;George Balanchine 's odder ballets;-1
+The consortium , called CityLink Telecommunications Ltd. , has pledged to invest $ 568 million to upgrade the telecommunication capabilities of the subway system , which is being overhauled , and maintain it for 20 years .
+176;The consortium;called;CityLink Telecommunications Ltd.;3
+176;The consortium;has pledged to invest;$ 568 million;to upgrade the telecommunication capabilities of the subway system;-1
+176;CityLink Telecommunications Ltd.;has pledged to invest;$ 568 million;to upgrade the telecommunication capabilities of the subway system;-1
+176;The consortium;maintain;it;for 20 years;-1
+176;The consortium;upgrade;the telecommunication capabilities of the subway system;-1
+176;CityLink Telecommunications Ltd.;upgrade;the telecommunication capabilities of the subway system;-1
+176;the subway system;is being;overhauled;-1
+Today 's bet is that the promise of sending British or German or American troops to defend Warsaw or Prague against an unnamed enemy will not only make that unnecessary but will also help to entrench democracy and a free market system in Eastern Europe .
+177;Today 's bet;is that;the promise of sending British or German or American troops;-1
+177;British or German or American troops;defend;Warsaw or Prague;against an unnamed enemy;-1
+177;troops;British;-1
+177;troops;American;-1
+177;troops;German;-1
+177;enemy;unnamed;-1
+177;the promise of sending British or German or American troops to defend Warsaw or Prague against an unnamed enemy;will also help to entrench;a free market system;in Eastern Europe;-1
+177;the promise of sending British or German or American troops to defend Warsaw or Prague against an unnamed enemy;will also help to entrench;democracy;in Eastern Europe;-1
+177;the promise of sending British or German or American troops to defend Warsaw or Prague against an unnamed enemy;will not only make that;unnecessary;-1
+It may seem as if she did not need the training , but it is already paying off .
+178;It;may seem as;if she did not need the training;-1
+178;it;is already paying off;-1
+178;she;did not need;the training;-1
+His staging has a touch of Broadway corn , with six choreographed female dancers .
+179;His staging;has a touch of;Broadway corn;with six choreographed female dancers;-1
+Nightmarish Soviet - style bureaucratic controls remain , like needing a special government permit to buy a delivery van .
+180;Nightmarish Soviet - style bureaucratic controls;remain;-1
+180;bureaucratic controls;style;Soviet;-1
+180;bureaucratic controls;Nightmarish;-1
+180;Nightmarish Soviet - style bureaucratic controls;like needing;a special government permit to buy a delivery van;-1
+The Daisy Systems Corporation said today that some of its bondholders had filed a petition for involuntary bankruptcy against the computer company .
+181;The Daisy Systems Corporation;said;some of its bondholders had filed a petition for involuntary bankruptcy against the computer company;today;-1
+181;some of its bondholders;had filed a petition for;involuntary bankruptcy;against the computer company;-1
+The Digital Domain column last Sunday , about Craigslist , the online bulletin board , misstated the name of a consulting firm that found in a survey last fall that many newspaper industry executives were unaware of the site 's arrival in their cities .
+182;The Digital Domain column;misstated;the name of a consulting firm;last Sunday;-1
+182;The Digital Domain column;about;Craigslist;last Sunday;-1
+182;Craigslist;,;the online bulletin board;9
+182;a consulting firm;found;many newspaper industry executives were unaware of the site 's arrival in their cities;in a survey;last fall;-1
+182;many newspaper industry executives;were unaware of;the site 's arrival;in their cities;-1
+182;the site;arrival in;their cities;-1
+A review on June 29 , about two books on German musicians and music in the Nazi period , referred incorrectly to Fred K.Prieberg 's 1982 German book on those subjects .
+183;A review on June 29;about;two books;on German musicians and music in the Nazi period;6
+183;A review on June 29;referred incorrectly to;Fred K.Prieberg 's 1982 German book;on those subjects;-1
+183;A review;on;June 29;-1
+Hayden 's Point was built by James Gamble Rogers for Chet Bowles , and it was never meant to be a showplace .
+184;Hayden 's Point;was built by;James Gamble Rogers;for Chet Bowles;-1
+184;it;was never meant to be;a showplace;-1
+Bennett confirmed when he addressed the Township Council tonight that the United States attorney 's office had requested information from the township .
+185;Bennett;confirmed;the United States attorney 's office had requested information from the township;when he addressed the Township Council tonight;-1
+185;he;addressed;the Township Council;tonight;-1
+185;the United States attorney 's office;had requested information from;the township;-1
+In 1964 , he joined CBS News as an associate producer of CBS News With Walter Cronkite in Washington , and he later became the producer for White House correspondent Dan Rather , now CBS 's weekday anchor , during the Nixon Administration .
+186;Dan Rather;weekday anchor;CBS 's;now;36
+186;Dan Rather;correspondent;White House;-1
+186;he;joined;CBS News;as an associate producer of CBS News;With Walter Cronkite;in Washington;In 1964;-1
+186;he;as an associate producer of;CBS News;With Walter Cronkite;in Washington;In 1964;-1
+186;he;became the producer for;White House correspondent Dan Rather;during the Nixon Administration;later;-1
+Her subjects were friends and artists who posed for her in their Full Monty glory .
+187;Her subjects;were;friends and artists who posed for her in their Full Monty glory;-1
+187;artists;posed for;her;in their Full Monty glory;-1
+187;friends;posed for;her;in their Full Monty glory;-1
+Justice Charles R.Alberti , a retired associate justice of the Massachusetts Superior Court in Pittsfield , performed the ceremony at the home of the bride 's parents .
+188;Justice Charles R.Alberti;a retired associate justice of;the Massachusetts Superior Court;in Pittsfield;4
+188;Justice Charles R.Alberti;performed;the ceremony;at the home of the bride 's parents;-1
+188;a retired associate justice of the Massachusetts Superior Court in Pittsfield;performed;the ceremony;at the home of the bride 's parents;-1
+188;the Massachusetts Superior Court;in;Pittsfield;-1
+David Johansen 's latest genre excursion heads for the recorded roots of American music : the blues , ballads , country and gospel songs , full of murder and adultery and hope for redemption , that were collected by Harry Smith for his Anthology of American Folk Music , a foundation of the 1950 's folk revival .
+189;the recorded roots of American music;full of;murder;-1
+189;the recorded roots of American music;full of;adultery;-1
+189;the recorded roots of American music;full of;hope for redemption;-1
+189;the recorded roots of American music;were collected by;Harry Smith;for his Anthology of American Folk Music;-1
+189;David Johansen 's latest genre excursion;heads for;the recorded roots of American music;-1
+189;Anthology of American Folk Music;a foundation of;1950 's folk revival;49
+189;the recorded roots of American music;:;gospel songs;-1
+189;the recorded roots of American music;:;country;-1
+189;the recorded roots of American music;:;ballads;-1
+189;the recorded roots of American music;:;the blues;-1
+Ford shares fell 2 cents , to $ 9.96 .
+190;Ford shares;fell;2 cents;to $ 9.96;-1
+Bic is being sued by people who say their lighters exploded , causing burns , and in some cases , death .
+191;Bic;is being sued by;people who say their lighters exploded , causing burns , and in some cases , death;-1
+191;people;say;their lighters exploded;-1
+191;their lighters;causing;burns;-1
+191;their lighters;causing;death;in some cases;-1
+191;their lighters;exploded;-1
+Indeed , they were treated more fairly than Lawrence H.Summers , the president of Harvard , has been treated by his faculty .
+192;Lawrence H.Summers;the president of;Harvard;11
+192;Lawrence H.Summers;president of;Harvard;12
+192;they;were treated more fairly than;Lawrence H.Summers , the president of Harvard , has been treated by his faculty;-1
+192;Lawrence H.Summers;has been treated by;his faculty;-1
+With the Jets ' training camp opening next Monday , Hadley Engelhard , the agent for the team 's first - round draft pick , Dewayne Robertson , will arrive in New York today and expects to meet with the Jets tomorrow in an effort to start contract negotiations .
+193;Hadley Engelhard;expects to meet with;the Jets;tomorrow;to start contract negotiations;-1
+193;Hadley Engelhard;in an effort to start;contract negotiations;-1
+193;Hadley Engelhard;the agent for;the team 's first - round draft pick;13
+193;Hadley Engelhard;the agent for;Dewayne Robertson;13
+193;Hadley Engelhard;will arrive in;New York;today;-1
+193;the Jets ' training camp;opening;next Monday;-1
+193;Dewayne Robertson;first - round draft pick;the team 's;19
+A winner will be announced in October .
+194;A winner;will be announced in;October;-1
+Until the investigation is completed and the I.A.A.F. convenes in London April 15 to decide her case , the federation has instructed the British Amateur Athletic Board to withdraw Budd from all international competition .
+195;the I.A.A.F.;convenes;to decide her case;in London;April 15;-1
+195;the I.A.A.F.;decide;her case;-1
+195;the British Amateur Athletic Board;withdraw;Budd;from all international competition;-1
+195;the federation;has instructed;the British Amateur Athletic Board;to withdraw Budd from all international competition;-1
+195;the investigation;is completed;-1
+The bride is the stepdaughter of Richard L.Harris .
+196;The bride;is the stepdaughter of;Richard L.Harris;-1
+But how about Bodynet , an enveloping computer web in which your wireless - data telephone might actually be a hat ?
+197;Bodynet;,;an enveloping computer web;4
+197;your wireless - data telephone;might actually be;a hat;an enveloping computer web;-1
+Mr. Parkin 's office was also searched by the F.B.I .
+198;Mr. Parkin 's office;was also searched by;the F.B.I;-1
+General Blevins agreed and said he would strike with a tank regiment held in reserve as well as with helicopters and Air Force support .
+199;General Blevins;agreed;-1
+199;General Blevins;said;he would strike with a tank regiment held in reserve as well as with helicopters and Air Force support;-1
+199;a tank regiment;held;in reserve;-1
+199;he;would strike;with a tank regiment held in reserve;-1
+199;he;would strike;Air Force support;-1
+199;he;would strike;with helicopters;-1
