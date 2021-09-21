@@ -1,6 +1,6 @@
 # UD2OIE system
 
-This repository contains the code for the papers :
+This repository contains the code for the papers :\
 Universal Dependencies for Multilingual Open Information Extraction\
 Open Information Extraction: Supervised and Syntactic Approach for French
 
@@ -9,9 +9,10 @@ Open Information Extraction: Supervised and Syntactic Approach for French
 ## dataset folder contains the training dataset 
 
 ## Requirements
-### requirements.txt : contains the versions of the main needed packages
-### pip install -r requirements.txt to install the required packages
-
+```
+requirements.txt : contains the versions of the main needed packages
+pip install -r requirements.txt to install the required packages
+```
 ## Saved model folder : 
 
 ### UD2OIE_Pred_saved : folder containing the trained predicate module of our modele UD2OIE
@@ -60,7 +61,8 @@ If you use this code in your research, please cite:
   doi =		{10.4230/OASIcs.LDK.2021.24},
   annote =	{Keywords: Natural Language Processing, Information Extraction, Machine Learning}
 }
-
+```
+```
 @inproceedings{atmani:hal-03265879,
   TITLE = {{Open Information Extraction: Approche Supervis{\'e}e et Syntaxique pour le Fran{\c c}ais}},
   AUTHOR = {Atmani, Massinissa and Lafourcade, Mathieu},
